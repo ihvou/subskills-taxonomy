@@ -1,0 +1,23 @@
+sport,name,sub_skills,url
+badminton,Badminton,32,https://subskills.xyz/badminton
+boxing,Boxing,23,https://subskills.xyz/boxing
+bjj,Brazilian jiu-jitsu,39,https://subskills.xyz/bjj
+chess,Chess,30,https://subskills.xyz/chess
+climbing,Climbing,24,https://subskills.xyz/climbing
+cycling,Cycling,25,https://subskills.xyz/cycling
+golf,Golf,27,https://subskills.xyz/golf
+gym-men,Gym (men),28,https://subskills.xyz/gym-men
+gym-women,Gym (women),24,https://subskills.xyz/gym-women
+muay-thai,Muay Thai,32,https://subskills.xyz/muay-thai
+padel,Padel,24,https://subskills.xyz/padel
+pickleball,Pickleball,21,https://subskills.xyz/pickleball
+pilates,Pilates,21,https://subskills.xyz/pilates
+running,Running,27,https://subskills.xyz/running
+skiing,Skiing,21,https://subskills.xyz/skiing
+snowboarding,Snowboarding,20,https://subskills.xyz/snowboarding
+soccer,Soccer (Individual Skills),21,https://subskills.xyz/soccer
+surfing,Surfing,24,https://subskills.xyz/surfing
+swimming,Swimming,22,https://subskills.xyz/swimming
+table-tennis,Table tennis,24,https://subskills.xyz/table-tennis
+tennis,Tennis,23,https://subskills.xyz/tennis
+yoga,Yoga,22,https://subskills.xyz/yoga

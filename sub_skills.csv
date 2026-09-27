@@ -1,0 +1,555 @@
+sport,sub_skill,name,description,learning_order,difficulty,level,url
+badminton,choosing-a-badminton-racket,How to choose a badminton racket,"Match weight, balance and flex to your game.",1,1.00,beginner,https://subskills.xyz/badminton/choosing-a-badminton-racket
+badminton,badminton-rules,Badminton rules explained,"Scoring, service rules, court boundaries and lets.",2,1.13,beginner,https://subskills.xyz/badminton/badminton-rules
+badminton,badminton-warm-up,Badminton warm up,"Prepare shoulders, hips and ankles before playing.",3,1.26,beginner,https://subskills.xyz/badminton/badminton-warm-up
+badminton,grip-technique,Grip technique,"Switch between forehand, backhand, bevel, and panhandle grips cleanly.",4,1.39,beginner,https://subskills.xyz/badminton/grip-technique
+badminton,serve-low,Serve (low),Keep low serves tight and legal for doubles and singles pressure.,5,1.52,beginner,https://subskills.xyz/badminton/serve-low
+badminton,serve-high,High serve,Use a high serve to start singles rallies with depth and height.,6,1.65,beginner,https://subskills.xyz/badminton/serve-high
+badminton,return-of-serve,Return of serve,Win the serve-receive battle in singles and doubles.,7,1.77,beginner,https://subskills.xyz/badminton/return-of-serve
+badminton,footwork-split-step,Footwork (split step),Time the split step to react explosively to the opponent's hit.,8,1.90,beginner,https://subskills.xyz/badminton/footwork-split-step
+badminton,footwork-front-court,Footwork (front court),Move efficiently into lunges and recover from front-court shots.,9,2.03,beginner,https://subskills.xyz/badminton/footwork-front-court
+badminton,footwork-rear-court,Footwork (rear court),"Reach rear-court corners with chasse, scissor, and recovery steps.",10,2.16,beginner,https://subskills.xyz/badminton/footwork-rear-court
+badminton,forehand-clear,Forehand clear,Send the shuttle deep from the rear court with a relaxed overhead action.,11,2.29,beginner,https://subskills.xyz/badminton/forehand-clear
+badminton,lift,Lift,Lift from the front court to reset rallies or move opponents backward.,12,2.42,intermediate,https://subskills.xyz/badminton/lift
+badminton,net-shot,Net shot,Control tight spinning replies close to the tape.,13,2.55,intermediate,https://subskills.xyz/badminton/net-shot
+badminton,drop-shot,Drop shot,Disguise soft overhead shots that pull opponents into the front court.,14,2.68,intermediate,https://subskills.xyz/badminton/drop-shot
+badminton,push,Push,Push the shuttle into open mid-court spaces with quick racket preparation.,15,2.81,intermediate,https://subskills.xyz/badminton/push
+badminton,drive,Drive,Play fast flat exchanges through the mid-court with compact preparation.,16,2.94,intermediate,https://subskills.xyz/badminton/drive
+badminton,defense-block,Defense (block),Absorb smashes and guide controlled blocks into the front court.,17,3.06,intermediate,https://subskills.xyz/badminton/defense-block
+badminton,defense-lift,Defense (lift),Defend hard attacks by lifting high and deep under pressure.,18,3.19,intermediate,https://subskills.xyz/badminton/defense-lift
+badminton,forehand-smash,Forehand smash,"Generate steep power from rotation, timing, contact point, and follow-through.",19,3.32,intermediate,https://subskills.xyz/badminton/forehand-smash
+badminton,doubles-rotation,Doubles rotation,"Coordinate attack, defense, and side-by-side rotations with a partner.",20,3.45,intermediate,https://subskills.xyz/badminton/doubles-rotation
+badminton,singles-strategy,Singles strategy,"Construct rallies with space, patience, tempo, and recovery position.",21,3.58,intermediate,https://subskills.xyz/badminton/singles-strategy
+badminton,serve-flick,Serve (flick),Flick the serve past the receiver to punish a tight stance.,22,3.71,advanced,https://subskills.xyz/badminton/serve-flick
+badminton,net-kill,Net kill,"Finish loose net shots with a fast, controlled kill.",23,3.84,advanced,https://subskills.xyz/badminton/net-kill
+badminton,cross-court-net-shot,Cross court net shot,Play a tight net shot across the court to move the opponent.,24,3.97,advanced,https://subskills.xyz/badminton/cross-court-net-shot
+badminton,around-the-head,Round the head shot,"Play the round-the-head clear, drop and smash.",25,4.10,advanced,https://subskills.xyz/badminton/around-the-head
+badminton,stringing-and-tension,Stringing and tension,"Understand string choice and tension tradeoffs for feel, control, and power.",26,4.23,advanced,https://subskills.xyz/badminton/stringing-and-tension
+badminton,wrist-rotation,Wrist rotation,"Use forearm and wrist rotation for deception, speed, and control.",27,4.35,advanced,https://subskills.xyz/badminton/wrist-rotation
+badminton,deception,Deception,Disguise shots so every stroke starts the same way.,28,4.48,advanced,https://subskills.xyz/badminton/deception
+badminton,jump-smash,Jump smash,"Time the take-off, scissor kick and landing for a jump smash.",29,4.61,advanced,https://subskills.xyz/badminton/jump-smash
+badminton,backhand-clear,Backhand clear,Recover from pressure with a compact backhand clear toward the rear court.,30,4.74,advanced,https://subskills.xyz/badminton/backhand-clear
+badminton,backhand-smash,Backhand smash,Use a short backhand action to attack from awkward rear-court positions.,31,4.87,advanced,https://subskills.xyz/badminton/backhand-smash
+badminton,mixed-doubles-tactics,Mixed doubles tactics,"Roles, rotation and positioning in mixed doubles.",32,5.00,advanced,https://subskills.xyz/badminton/mixed-doubles-tactics
+bjj,bjj-for-beginners,BJJ for beginners,"What happens in your first class, what to bring and how to survive it.",1,1.00,beginner,https://subskills.xyz/bjj/bjj-for-beginners
+bjj,bjj-belt-system,BJJ belt system,How the belts and stripes work and what each level means.,2,1.11,beginner,https://subskills.xyz/bjj/bjj-belt-system
+bjj,breakfalls,Breakfalls,Land safely from throws and takedowns.,3,1.21,beginner,https://subskills.xyz/bjj/breakfalls
+bjj,hip-escape-shrimp,Hip escape (shrimp),The core movement for creating space and escaping bottom positions.,4,1.32,beginner,https://subskills.xyz/bjj/hip-escape-shrimp
+bjj,bridging,Bridging,Use the hips to lift and off-balance an opponent on top.,5,1.42,beginner,https://subskills.xyz/bjj/bridging
+bjj,posture-and-base,Posture and base,Stay upright and heavy so you are hard to sweep or submit.,6,1.53,beginner,https://subskills.xyz/bjj/posture-and-base
+bjj,closed-guard,Closed guard,"Control, break posture and attack from closed guard.",7,1.63,beginner,https://subskills.xyz/bjj/closed-guard
+bjj,mount,Mount,Keep the mount and stop your opponent bucking you off.,8,1.74,beginner,https://subskills.xyz/bjj/mount
+bjj,side-control,Side control,Hold and apply pressure from side control.,9,1.84,beginner,https://subskills.xyz/bjj/side-control
+bjj,mount-escape,Mount escape,Escape the mount with the bridge-and-roll and elbow-knee escape.,10,1.95,beginner,https://subskills.xyz/bjj/mount-escape
+bjj,side-control-escape,Side control escape,"Frame, shrimp and recover guard from under side control.",11,2.05,beginner,https://subskills.xyz/bjj/side-control-escape
+bjj,scissor-sweep,Scissor sweep,The fundamental closed-guard sweep every white belt learns.,12,2.16,beginner,https://subskills.xyz/bjj/scissor-sweep
+bjj,armbar,Armbar,Attack the armbar from guard and mount.,13,2.26,beginner,https://subskills.xyz/bjj/armbar
+bjj,half-guard,Half guard,Play and recover from half guard instead of getting flattened.,14,2.37,intermediate,https://subskills.xyz/bjj/half-guard
+bjj,back-control,Back control,Take and keep the back with hooks and seatbelt grip.,15,2.47,intermediate,https://subskills.xyz/bjj/back-control
+bjj,back-escape,Back escape,Strip the hooks and escape back control before the choke.,16,2.58,intermediate,https://subskills.xyz/bjj/back-escape
+bjj,hip-bump-sweep,Hip bump sweep,Sit up and bump to reverse the position from guard.,17,2.68,intermediate,https://subskills.xyz/bjj/hip-bump-sweep
+bjj,americana,Americana,Finish the americana shoulder lock from mount and side control.,18,2.79,intermediate,https://subskills.xyz/bjj/americana
+bjj,kimura,Kimura,"Attack the kimura from guard, side control and half guard.",19,2.89,intermediate,https://subskills.xyz/bjj/kimura
+bjj,rear-naked-choke,Rear naked choke,Finish the rear naked choke from back control.,20,3.00,intermediate,https://subskills.xyz/bjj/rear-naked-choke
+bjj,triangle-choke,Triangle choke,"Set up, lock and finish the triangle.",21,3.11,intermediate,https://subskills.xyz/bjj/triangle-choke
+bjj,guillotine-choke,Guillotine choke,"Catch and finish the guillotine, high elbow and arm-in.",22,3.21,intermediate,https://subskills.xyz/bjj/guillotine-choke
+bjj,breaking-closed-guard,Breaking closed guard,Open a locked closed guard before you can start passing.,23,3.32,intermediate,https://subskills.xyz/bjj/breaking-closed-guard
+bjj,toreando-pass,Toreando pass,Pass by controlling the legs and moving around them.,24,3.42,intermediate,https://subskills.xyz/bjj/toreando-pass
+bjj,knee-cut-pass,Knee cut pass,Cut through the guard with a knee slice.,25,3.53,intermediate,https://subskills.xyz/bjj/knee-cut-pass
+bjj,competition-points-and-rules,Competition points and rules,"How points, advantages and penalties work in a BJJ match.",26,3.63,intermediate,https://subskills.xyz/bjj/competition-points-and-rules
+bjj,gi-vs-no-gi,Gi vs no-gi,"How grips, pace and technique differ between gi and no-gi.",27,3.74,advanced,https://subskills.xyz/bjj/gi-vs-no-gi
+bjj,arm-triangle,Arm triangle,Finish the head-and-arm choke from mount and side control.,28,3.84,advanced,https://subskills.xyz/bjj/arm-triangle
+bjj,open-guard,Open guard,Use grips and frames to control distance in open guard.,29,3.95,advanced,https://subskills.xyz/bjj/open-guard
+bjj,guard-retention,Guard retention,"Stop your guard being passed with frames, hips and timing.",30,4.05,advanced,https://subskills.xyz/bjj/guard-retention
+bjj,butterfly-guard,Butterfly guard,Elevate and off-balance with butterfly hooks.,31,4.16,advanced,https://subskills.xyz/bjj/butterfly-guard
+bjj,butterfly-sweep,Butterfly sweep,Elevate and sweep with the butterfly hook.,32,4.26,advanced,https://subskills.xyz/bjj/butterfly-sweep
+bjj,knee-on-belly,Knee on belly,"Hold, attack and transition from knee on belly.",33,4.37,advanced,https://subskills.xyz/bjj/knee-on-belly
+bjj,turtle-position,Turtle position,Attack and defend the turtle.,34,4.47,advanced,https://subskills.xyz/bjj/turtle-position
+bjj,leg-drag-pass,Leg drag pass,Drag the legs across to pass and take the back.,35,4.58,advanced,https://subskills.xyz/bjj/leg-drag-pass
+bjj,double-leg-takedown,Double leg takedown,"Shoot, penetrate and finish the double leg.",36,4.68,advanced,https://subskills.xyz/bjj/double-leg-takedown
+bjj,single-leg-takedown,Single leg takedown,Take and finish the single leg.,37,4.79,advanced,https://subskills.xyz/bjj/single-leg-takedown
+bjj,omoplata,Omoplata,Attack the shoulder lock with the legs from guard.,38,4.89,advanced,https://subskills.xyz/bjj/omoplata
+bjj,de-la-riva-guard,De la Riva guard,Use the De la Riva hook to control and off-balance a standing opponent.,39,5.00,advanced,https://subskills.xyz/bjj/de-la-riva-guard
+boxing,choosing-boxing-gloves,How to choose boxing gloves,"Pick glove weight and type for bag, pads and sparring.",1,1.00,beginner,https://subskills.xyz/boxing/choosing-boxing-gloves
+boxing,hand-wrapping,Hand wrapping,Wrap your hands to protect the wrist and knuckles.,2,1.18,beginner,https://subskills.xyz/boxing/hand-wrapping
+boxing,stance-guard,Stance & Guard,Set up a balanced stance and protective guard.,3,1.36,beginner,https://subskills.xyz/boxing/stance-guard
+boxing,jab,The Jab,"Throw a fast, technically correct jab and return to guard.",4,1.55,beginner,https://subskills.xyz/boxing/jab
+boxing,cross,The Cross (Straight Right),Drive the rear-hand straight with hip rotation.,5,1.73,beginner,https://subskills.xyz/boxing/cross
+boxing,footwork,Footwork,"Move in, out, and laterally while staying balanced.",6,1.91,beginner,https://subskills.xyz/boxing/footwork
+boxing,shadow-boxing,Shadow Boxing,"Drill technique, rhythm, and movement without equipment.",7,2.09,beginner,https://subskills.xyz/boxing/shadow-boxing
+boxing,heavy-bag-work,Heavy Bag Technique,Apply technique with proper form and power on the heavy bag.,8,2.27,beginner,https://subskills.xyz/boxing/heavy-bag-work
+boxing,boxer-skip,Boxer skip,Skip with the boxer's step to build rhythm and footwork.,9,2.45,intermediate,https://subskills.xyz/boxing/boxer-skip
+boxing,hook,The Hook,Throw lead and rear hooks with correct elbow and pivot.,10,2.64,intermediate,https://subskills.xyz/boxing/hook
+boxing,uppercut,The Uppercut,Generate upward power from the legs and core.,11,2.82,intermediate,https://subskills.xyz/boxing/uppercut
+boxing,defense-blocking,Blocking & Parrying,Block and parry incoming shots while keeping guard.,12,3.00,intermediate,https://subskills.xyz/boxing/defense-blocking
+boxing,combinations,Punch Combinations,Chain punches together fluidly with proper sequencing.,13,3.18,intermediate,https://subskills.xyz/boxing/combinations
+boxing,head-movement-slipping,Head Movement & Slipping,"Slip, roll, and weave to evade punches.",14,3.36,intermediate,https://subskills.xyz/boxing/head-movement-slipping
+boxing,body-punching,Body punching,"Hooks, straights and uppercuts to the body.",15,3.55,intermediate,https://subskills.xyz/boxing/body-punching
+boxing,pad-work,Pad work,Hold and work the focus mitts with clean combinations.,16,3.73,advanced,https://subskills.xyz/boxing/pad-work
+boxing,distance-range,Distance and range management,Control the gap and choose the punch the range allows.,17,3.91,advanced,https://subskills.xyz/boxing/distance-range
+boxing,sparring-fundamentals,Sparring fundamentals,Start sparring safely with the right intensity and etiquette.,18,4.09,advanced,https://subskills.xyz/boxing/sparring-fundamentals
+boxing,counter-punching,Counter-punching,"Read, slip and answer with the right counter.",19,4.27,advanced,https://subskills.xyz/boxing/counter-punching
+boxing,feinting,Feinting,Sell a shot you do not throw to open up the real one.,20,4.45,advanced,https://subskills.xyz/boxing/feinting
+boxing,double-end-bag,Double end bag,Build timing and accuracy on the double end bag.,21,4.64,advanced,https://subskills.xyz/boxing/double-end-bag
+boxing,cutting-off-the-ring,How to cut off the ring,Herd a moving opponent instead of chasing them.,22,4.82,advanced,https://subskills.xyz/boxing/cutting-off-the-ring
+boxing,beating-a-southpaw,How to beat a southpaw,"Angles, foot position and the shots that work against southpaws.",23,5.00,advanced,https://subskills.xyz/boxing/beating-a-southpaw
+chess,rules-for-beginners,Rules for beginners,"How the pieces move, check, mate, stalemate and the special moves.",1,1.00,beginner,https://subskills.xyz/chess/rules-for-beginners
+chess,notation,Notation,Read and write algebraic notation.,2,1.14,beginner,https://subskills.xyz/chess/notation
+chess,opening-principles,Opening principles,"Centre, development, castling early and keeping the queen home.",3,1.28,beginner,https://subskills.xyz/chess/opening-principles
+chess,hanging-pieces-and-blunders,Hanging pieces and how to stop blundering,The check-before-you-move habit.,4,1.41,beginner,https://subskills.xyz/chess/hanging-pieces-and-blunders
+chess,how-to-study-chess,How to study chess,A structured plan for improving.,5,1.55,beginner,https://subskills.xyz/chess/how-to-study-chess
+chess,punishing-scholars-mate,How to punish Scholar's mate,Beat the early queen attack every beginner faces.,6,1.69,beginner,https://subskills.xyz/chess/punishing-scholars-mate
+chess,forks,Forks,Attack two things at once with one piece.,7,1.83,beginner,https://subskills.xyz/chess/forks
+chess,pins-and-skewers,Pins and skewers,"Freeze a piece, or force a valuable one to move.",8,1.97,beginner,https://subskills.xyz/chess/pins-and-skewers
+chess,back-rank-mate,Back rank mate,Exploit and prevent the trapped-king mate.,9,2.10,beginner,https://subskills.xyz/chess/back-rank-mate
+chess,king-and-rook-checkmate,King and rook checkmate,Force mate with king and rook.,10,2.24,beginner,https://subskills.xyz/chess/king-and-rook-checkmate
+chess,checkmate-patterns,Checkmate patterns,The named mates every player should recognise.,11,2.38,intermediate,https://subskills.xyz/chess/checkmate-patterns
+chess,discovered-attacks,Discovered attacks,Move one piece to unmask another.,12,2.52,intermediate,https://subskills.xyz/chess/discovered-attacks
+chess,how-to-analyze-your-games,How to analyze your games,Review your own games to find what to fix.,13,2.66,intermediate,https://subskills.xyz/chess/how-to-analyze-your-games
+chess,italian-game,Italian Game,A principled 1.e4 opening for white.,14,2.79,intermediate,https://subskills.xyz/chess/italian-game
+chess,london-system,London System,A principled 1.d4 system for white.,15,2.93,intermediate,https://subskills.xyz/chess/london-system
+chess,opening-traps,Opening traps,The traps to set and the ones to avoid.,16,3.07,intermediate,https://subskills.xyz/chess/opening-traps
+chess,king-and-pawn-endgames,King and pawn endgames and the opposition,Win and hold king-and-pawn endings.,17,3.21,intermediate,https://subskills.xyz/chess/king-and-pawn-endgames
+chess,how-to-calculate,How to calculate,"Candidate moves, forcing lines and checking your work.",18,3.34,intermediate,https://subskills.xyz/chess/how-to-calculate
+chess,smothered-mate,Smothered mate,Mate with a knight when the king is boxed in.,19,3.48,intermediate,https://subskills.xyz/chess/smothered-mate
+chess,when-to-trade-pieces,When to trade pieces,Trade when it helps you and refuse when it does not.,20,3.62,intermediate,https://subskills.xyz/chess/when-to-trade-pieces
+chess,pawn-structure,Pawn structure,"Isolated, doubled, passed and chained pawns.",21,3.76,advanced,https://subskills.xyz/chess/pawn-structure
+chess,rook-endgames,Rook endgames,Rook and pawn fundamentals and king activity.,22,3.90,advanced,https://subskills.xyz/chess/rook-endgames
+chess,sicilian-defense,Sicilian Defense,A principled answer to 1.e4 for black.,23,4.03,advanced,https://subskills.xyz/chess/sicilian-defense
+chess,attacking-the-castled-king,Attacking the castled king,Build and time an attack on the king.,24,4.17,advanced,https://subskills.xyz/chess/attacking-the-castled-king
+chess,outposts-and-weak-squares,Outposts and weak squares,Find and occupy the squares your opponent cannot challenge.,25,4.31,advanced,https://subskills.xyz/chess/outposts-and-weak-squares
+chess,good-bishop-vs-bad-bishop,Good bishop vs bad bishop,Judge bishops by the pawns around them.,26,4.45,advanced,https://subskills.xyz/chess/good-bishop-vs-bad-bishop
+chess,middlegame-planning,Middlegame planning,Find a plan when there is no tactic.,27,4.59,advanced,https://subskills.xyz/chess/middlegame-planning
+chess,lucena-position,Lucena position,The winning rook-ending technique.,28,4.72,advanced,https://subskills.xyz/chess/lucena-position
+chess,bishop-and-knight-checkmate,Bishop and knight checkmate,Force the hardest basic mate.,29,4.86,advanced,https://subskills.xyz/chess/bishop-and-knight-checkmate
+chess,visualization-training,Visualization training,See moves ahead without moving the pieces.,30,5.00,advanced,https://subskills.xyz/chess/visualization-training
+climbing,bouldering-for-beginners,Bouldering for beginners,"What to expect, how to start and the habits that matter on your first sessions.",1,1.00,beginner,https://subskills.xyz/climbing/bouldering-for-beginners
+climbing,choosing-climbing-shoes,Choosing climbing shoes,"Pick fit, shape and stiffness for your level and the climbing you do.",2,1.17,beginner,https://subskills.xyz/climbing/choosing-climbing-shoes
+climbing,climbing-warm-up,Climbing warm up,"Warm fingers, shoulders and hips before hard climbing.",3,1.35,beginner,https://subskills.xyz/climbing/climbing-warm-up
+climbing,how-to-fall-safely,How to fall safely,Fall and land safely when bouldering and on lead.,4,1.52,beginner,https://subskills.xyz/climbing/how-to-fall-safely
+climbing,climbing-footwork,Climbing footwork,Place feet precisely and trust them instead of pulling with the arms.,5,1.70,beginner,https://subskills.xyz/climbing/climbing-footwork
+climbing,climbing-grades-explained,Climbing grades explained,"Understand V-scale, Font, YDS and French grades and how they compare.",6,1.87,beginner,https://subskills.xyz/climbing/climbing-grades-explained
+climbing,how-to-put-on-a-harness,How to put on a harness,Fit and wear a climbing harness correctly before you tie in.,7,2.04,beginner,https://subskills.xyz/climbing/how-to-put-on-a-harness
+climbing,how-to-tie-a-figure-8,How to tie a figure 8,Tie a figure-8 follow-through into the harness and check it.,8,2.22,beginner,https://subskills.xyz/climbing/how-to-tie-a-figure-8
+climbing,top-rope-belaying,Top rope belaying,Belay on top rope with correct hand position and rope management.,9,2.39,intermediate,https://subskills.xyz/climbing/top-rope-belaying
+climbing,reading-routes,Reading routes,Work out sequences from the ground before you leave it.,10,2.57,intermediate,https://subskills.xyz/climbing/reading-routes
+climbing,flagging,Flagging,Use a free leg as a counterweight to stop barn-dooring.,11,2.74,intermediate,https://subskills.xyz/climbing/flagging
+climbing,rockover,Rockover,Transfer weight over a high foot to stand up on it.,12,2.91,intermediate,https://subskills.xyz/climbing/rockover
+climbing,body-tension,Body tension,Keep hips in and core engaged so feet stay on steep walls.,13,3.09,intermediate,https://subskills.xyz/climbing/body-tension
+climbing,slab-climbing,Slab climbing,Balance and smear on low-angle rock where footwork is everything.,14,3.26,intermediate,https://subskills.xyz/climbing/slab-climbing
+climbing,mantle,Mantle,Press over a lip or ledge to top out a boulder.,15,3.43,intermediate,https://subskills.xyz/climbing/mantle
+climbing,crimp-grip,Crimp grip,"Use half and full crimp safely, and know when to open-hand instead.",16,3.61,intermediate,https://subskills.xyz/climbing/crimp-grip
+climbing,resting-on-the-wall,Resting on the wall,Find and use rests to recover and control the pump.,17,3.78,advanced,https://subskills.xyz/climbing/resting-on-the-wall
+climbing,clipping-quickdraws,Clipping quickdraws,Clip efficiently and avoid back-clipping and Z-clipping.,18,3.96,advanced,https://subskills.xyz/climbing/clipping-quickdraws
+climbing,lead-belaying,Lead belaying,"Manage slack, catch lead falls and give a soft catch.",19,4.13,advanced,https://subskills.xyz/climbing/lead-belaying
+climbing,heel-hook,Heel hook,Load a heel to take weight off the arms and unlock moves.,20,4.30,advanced,https://subskills.xyz/climbing/heel-hook
+climbing,toe-hook,Toe hook,Pull with the top of the foot to hold body tension on overhangs.,21,4.48,advanced,https://subskills.xyz/climbing/toe-hook
+climbing,drop-knee,Drop knee,Turn the hip in to lower the centre of gravity and extend reach.,22,4.65,advanced,https://subskills.xyz/climbing/drop-knee
+climbing,dyno,Dyno,"Generate and commit to a dynamic move, and stick the catch.",23,4.83,advanced,https://subskills.xyz/climbing/dyno
+climbing,hangboard-training,Hangboard training,Start finger strength training safely with sensible loading.,24,5.00,advanced,https://subskills.xyz/climbing/hangboard-training
+cycling,how-to-ride-a-bike,How to ride a bike for adults,"Balance, start and stop for a first-time adult rider.",1,1.00,beginner,https://subskills.xyz/cycling/how-to-ride-a-bike
+cycling,choosing-first-bike,Choosing your first bike,"Road, gravel or hybrid, and how it should fit.",2,1.17,beginner,https://subskills.xyz/cycling/choosing-first-bike
+cycling,bike-fit-basics,Bike Fit Basics,Set saddle height and reach for comfort and power.,3,1.33,beginner,https://subskills.xyz/cycling/bike-fit-basics
+cycling,braking-technique,Braking Technique,"Modulate front and rear brakes for safe, controlled stops.",4,1.50,beginner,https://subskills.xyz/cycling/braking-technique
+cycling,gear-shifting,Gear Shifting,Anticipate and shift gears smoothly for terrain changes.,5,1.67,beginner,https://subskills.xyz/cycling/gear-shifting
+cycling,riding-in-traffic,Riding in traffic,"Road positioning, junctions and being seen in traffic.",6,1.83,beginner,https://subskills.xyz/cycling/riding-in-traffic
+cycling,puncture-repair,Fixing a Puncture,"Remove the wheel, replace a tube, and reinflate roadside.",7,2.00,beginner,https://subskills.xyz/cycling/puncture-repair
+cycling,cycling-in-the-rain,Cycling in the rain,"Braking, cornering, kit and bike care in the wet.",8,2.17,beginner,https://subskills.xyz/cycling/cycling-in-the-rain
+cycling,pedaling-efficiency,Pedaling Efficiency,"Develop a smooth, round pedal stroke and cadence.",9,2.33,beginner,https://subskills.xyz/cycling/pedaling-efficiency
+cycling,cornering,Cornering Technique,Position the body and bike to corner with control and confidence.,10,2.50,intermediate,https://subskills.xyz/cycling/cornering
+cycling,climbing-technique,Climbing Technique,Pace and position the body for efficient seated and standing climbs.,11,2.67,intermediate,https://subskills.xyz/cycling/climbing-technique
+cycling,descending,Descending Skills,"Descend safely with proper body position, braking, and line choice.",12,2.83,intermediate,https://subskills.xyz/cycling/descending
+cycling,group-riding,Group Riding & Drafting,Ride safely in a paceline and draft efficiently.,13,3.00,intermediate,https://subskills.xyz/cycling/group-riding
+cycling,chain-cleaning,Chain cleaning and lubrication,"Keep the drivetrain clean, quiet and fast.",14,3.17,intermediate,https://subskills.xyz/cycling/chain-cleaning
+cycling,fuelling-hydration,Cycling nutrition,Eat and drink to avoid bonking on long rides.,15,3.33,intermediate,https://subskills.xyz/cycling/fuelling-hydration
+cycling,clipping-in-clipless,Using Clipless Pedals,Clip in and out smoothly without falling.,16,3.50,intermediate,https://subskills.xyz/cycling/clipping-in-clipless
+cycling,cleat-position,Cleat position,"Set fore-aft, lateral and rotational cleat position.",17,3.67,intermediate,https://subskills.xyz/cycling/cleat-position
+cycling,brake-adjustment,Brake adjustment and pads,Set up rim and disc brakes and replace pads.,18,3.83,advanced,https://subskills.xyz/cycling/brake-adjustment
+cycling,gear-adjustment,Adjusting your gears,Index the derailleur and fix skipping gears.,19,4.00,advanced,https://subskills.xyz/cycling/gear-adjustment
+cycling,replacing-a-bike-chain,How to replace a bike chain,"Measure chain wear, size a new chain and fit a quick link.",20,4.17,advanced,https://subskills.xyz/cycling/replacing-a-bike-chain
+cycling,tubeless-tyre-setup,Tubeless tyre setup,"Fit tubeless tyres, add sealant and seat the bead.",21,4.33,advanced,https://subskills.xyz/cycling/tubeless-tyre-setup
+cycling,indoor-training,Indoor training and turbo setup,Set up the turbo and train indoors effectively.,22,4.50,advanced,https://subskills.xyz/cycling/indoor-training
+cycling,strength-training-for-cyclists,Strength training for cyclists,Off-bike work that makes you faster and more durable.,23,4.67,advanced,https://subskills.xyz/cycling/strength-training-for-cyclists
+cycling,training-zones,Training zones and FTP,Test FTP and train by zones.,24,4.83,advanced,https://subskills.xyz/cycling/training-zones
+cycling,cycling-sprint,Cycling sprint technique,"Position, gear and cadence for a road sprint.",25,5.00,advanced,https://subskills.xyz/cycling/cycling-sprint
+golf,how-to-choose-golf-clubs,How to choose golf clubs,"Pick a starter set and understand shafts, lofts and what each club is for.",1,1.00,beginner,https://subskills.xyz/golf/how-to-choose-golf-clubs
+golf,golf-rules-for-beginners,Golf rules for beginners,"Learn the rules that actually come up: penalties, drops, out of bounds and scoring.",2,1.15,beginner,https://subskills.xyz/golf/golf-rules-for-beginners
+golf,golf-etiquette,Golf etiquette,"Pace of play, safety, bunker raking and green care on the course.",3,1.31,beginner,https://subskills.xyz/golf/golf-etiquette
+golf,golf-grip,Golf grip,Build a neutral grip and understand strong and weak hand positions.,4,1.46,beginner,https://subskills.xyz/golf/golf-grip
+golf,posture,Posture,"Set spine angle, knee flex and distance from the ball.",5,1.62,beginner,https://subskills.xyz/golf/posture
+golf,alignment,Alignment,Aim the clubface and body at the target instead of where it feels right.,6,1.77,beginner,https://subskills.xyz/golf/alignment
+golf,ball-position,Ball position,Move the ball through the stance correctly for each club.,7,1.92,beginner,https://subskills.xyz/golf/ball-position
+golf,golf-swing-basics,Golf swing basics,"Learn the takeaway, backswing, transition and follow-through as one motion.",8,2.08,beginner,https://subskills.xyz/golf/golf-swing-basics
+golf,golf-warm-up,Golf warm up,Prepare the body and swing in a short pre-round routine.,9,2.23,beginner,https://subskills.xyz/golf/golf-warm-up
+golf,driving-range-practice,Driving range practice,Structure range sessions so practice transfers to the course.,10,2.38,intermediate,https://subskills.xyz/golf/driving-range-practice
+golf,iron-shots,Iron shots,Strike irons ball-first with a descending blow and consistent low point.,11,2.54,intermediate,https://subskills.xyz/golf/iron-shots
+golf,chipping,Chipping,"Control low running shots around the green with a stable, simple motion.",12,2.69,intermediate,https://subskills.xyz/golf/chipping
+golf,putting-stroke,Putting stroke,"Build a repeatable stroke with steady tempo, face control and solid contact.",13,2.85,intermediate,https://subskills.xyz/golf/putting-stroke
+golf,how-to-hit-a-driver,How to hit a driver,"Tee height, ball position and upward attack angle for longer drives.",14,3.00,intermediate,https://subskills.xyz/golf/how-to-hit-a-driver
+golf,pitching,Pitching,"Hit higher, softer shots from 30 to 60 yards with a controlled length of swing.",15,3.15,intermediate,https://subskills.xyz/golf/pitching
+golf,putting-distance-control,Putting distance control,Control pace and lag long putts close.,16,3.31,intermediate,https://subskills.xyz/golf/putting-distance-control
+golf,how-to-stop-slicing,How to stop slicing,"Diagnose an open face and out-to-in path, and fix the ball flight.",17,3.46,intermediate,https://subskills.xyz/golf/how-to-stop-slicing
+golf,how-to-stop-hooking,How to stop hooking,Fix a closed face and in-to-out path that sends the ball left.,18,3.62,intermediate,https://subskills.xyz/golf/how-to-stop-hooking
+golf,fairway-woods,Fairway woods,Sweep fairway woods and hybrids cleanly off the turf.,19,3.77,advanced,https://subskills.xyz/golf/fairway-woods
+golf,bunker-shots,Bunker shots,Use bounce and a shallow sand entry to escape greenside bunkers.,20,3.92,advanced,https://subskills.xyz/golf/bunker-shots
+golf,reading-greens,Reading greens,"Read slope, grain and speed to pick a start line and pace.",21,4.08,advanced,https://subskills.xyz/golf/reading-greens
+golf,course-management,Course management,Pick targets and clubs that lower your score instead of chasing hero shots.,22,4.23,advanced,https://subskills.xyz/golf/course-management
+golf,wedge-distance-control,Wedge distance control,Dial in partial wedge yardages with clock-face swing lengths.,23,4.38,advanced,https://subskills.xyz/golf/wedge-distance-control
+golf,uneven-lies,Uneven lies,"Adjust setup and swing for uphill, downhill and sidehill lies.",24,4.54,advanced,https://subskills.xyz/golf/uneven-lies
+golf,punch-shot,Punch shot,"Play a low, controlled shot from trouble or into the wind.",25,4.69,advanced,https://subskills.xyz/golf/punch-shot
+golf,golf-mental-game,Golf mental game,"Manage nerves, pre-shot routine and recovery after a bad hole.",26,4.85,advanced,https://subskills.xyz/golf/golf-mental-game
+golf,how-to-hit-a-draw,How to hit a draw,Shape the ball right-to-left by matching face and path.,27,5.00,advanced,https://subskills.xyz/golf/how-to-hit-a-draw
+gym-men,training-split-basics,Training split basics,"Full body, upper/lower or push-pull-legs.",1,1.00,beginner,https://subskills.xyz/gym-men/training-split-basics
+gym-men,mobility-warm-up,Mobility warm-up,"Prepare shoulders, hips, ankles, and spine for productive lifting sessions.",2,1.15,beginner,https://subskills.xyz/gym-men/mobility-warm-up
+gym-men,core-bracing,Core bracing,"Coordinate breath, trunk tension, and rib position for compound lifts.",3,1.30,beginner,https://subskills.xyz/gym-men/core-bracing
+gym-men,barbell-squat,Barbell squat,"Train squat depth, bracing, bar path, and progressive loading safely.",4,1.44,beginner,https://subskills.xyz/gym-men/barbell-squat
+gym-men,bench-press,Bench press,"Build pressing strength with stable setup, touch point, and shoulder-friendly technique.",5,1.59,beginner,https://subskills.xyz/gym-men/bench-press
+gym-men,deadlift,Deadlift,"Hinge and brace for strong pulls while managing grip, setup, and lockout mechanics.",6,1.74,beginner,https://subskills.xyz/gym-men/deadlift
+gym-men,overhead-press,Overhead press,"Press overhead with stacked posture, bar path control, and scalable loading.",7,1.89,beginner,https://subskills.xyz/gym-men/overhead-press
+gym-men,pull-up-progression,Pull-up progression,Develop vertical pulling strength from assisted reps to loaded pull-ups.,8,2.04,beginner,https://subskills.xyz/gym-men/pull-up-progression
+gym-men,dumbbell-row,Dumbbell row,"Single-arm row for a strong, controlled horizontal pull.",9,2.19,beginner,https://subskills.xyz/gym-men/dumbbell-row
+gym-men,lunge-split-squat,Lunge and split squat,Single-leg strength with lunges and split squats.,10,2.33,beginner,https://subskills.xyz/gym-men/lunge-split-squat
+gym-men,recovery-habits,Recovery habits,"Balance sleep, deloads, soreness, and training stress across a lifting block.",11,2.48,intermediate,https://subskills.xyz/gym-men/recovery-habits
+gym-men,pallof-press,Pallof press,"Resist rotation to build a braced, stable trunk.",12,2.63,intermediate,https://subskills.xyz/gym-men/pallof-press
+gym-men,fat-loss-nutrition,Fat-loss nutrition,"Use calorie targets, protein, adherence, and training support for sustainable fat loss.",13,2.78,intermediate,https://subskills.xyz/gym-men/fat-loss-nutrition
+gym-men,bulking-nutrition,Bulking nutrition,Eat to gain muscle without unnecessary fat.,14,2.93,intermediate,https://subskills.xyz/gym-men/bulking-nutrition
+gym-men,barbell-row,Barbell row,"The missing horizontal pull: row with a braced, flat back.",15,3.07,intermediate,https://subskills.xyz/gym-men/barbell-row
+gym-men,dips,Dips,Build pressing strength on parallel bars with shoulder-safe depth.,16,3.22,intermediate,https://subskills.xyz/gym-men/dips
+gym-men,arm-training,Arm training,"Train biceps, triceps, and forearms with joint-friendly volume and progression.",17,3.37,intermediate,https://subskills.xyz/gym-men/arm-training
+gym-men,calf-raises,Calf raises,Train gastrocnemius and soleus through a full range.,18,3.52,intermediate,https://subskills.xyz/gym-men/calf-raises
+gym-men,hamstring-training,Hamstring training,"Romanian deadlifts, curls and hamstring accessories.",19,3.67,intermediate,https://subskills.xyz/gym-men/hamstring-training
+gym-men,farmers-walk,Farmer's walk,"Load and carry heavy for grip, core and trunk stability.",20,3.81,advanced,https://subskills.xyz/gym-men/farmers-walk
+gym-men,creatine,Creatine,"What creatine does, how to dose it and what to expect.",21,3.96,advanced,https://subskills.xyz/gym-men/creatine
+gym-men,cardio-for-lifters,Cardio for lifters,Add conditioning without hurting your gains.,22,4.11,advanced,https://subskills.xyz/gym-men/cardio-for-lifters
+gym-men,lifting-belt,How to use a lifting belt,When to wear a belt and how to brace against it.,23,4.26,advanced,https://subskills.xyz/gym-men/lifting-belt
+gym-men,front-squat,Front squat,Squat with a front rack for quad emphasis and upright posture.,24,4.41,advanced,https://subskills.xyz/gym-men/front-squat
+gym-men,kettlebell-swing,Kettlebell swing,Hinge and snap the hips to drive the bell.,25,4.56,advanced,https://subskills.xyz/gym-men/kettlebell-swing
+gym-men,shoulder-health,Shoulder health,"Manage pressing volume, scapular control, and rotator cuff accessory work.",26,4.70,advanced,https://subskills.xyz/gym-men/shoulder-health
+gym-men,hypertrophy-programming,Hypertrophy programming,"Plan sets, reps, volume, proximity to failure, and exercise selection for muscle gain.",27,4.85,advanced,https://subskills.xyz/gym-men/hypertrophy-programming
+gym-men,power-clean,Power clean,"Pull, extend and catch the bar in the front rack.",28,5.00,advanced,https://subskills.xyz/gym-men/power-clean
+gym-women,gym-confidence,Gym confidence,"Navigate equipment, etiquette, and progression without feeling lost on the gym floor.",1,1.00,beginner,https://subskills.xyz/gym-women/gym-confidence
+gym-women,beginner-lifting-program,Beginner lifting program,"Your first weeks in the gym, session by session.",2,1.17,beginner,https://subskills.xyz/gym-women/beginner-lifting-program
+gym-women,mobility-stability,Mobility and stability,"Improve usable range, control, and joint stability for lifting sessions.",3,1.35,beginner,https://subskills.xyz/gym-women/mobility-stability
+gym-women,goblet-squat,Goblet squat,"Use goblet squats to learn depth, balance, and bracing before heavier loading.",4,1.52,beginner,https://subskills.xyz/gym-women/goblet-squat
+gym-women,glute-bridge-hip-thrust,Glute bridge and hip thrust,Set up hip thrusts and bridges for glute stimulus without low-back overload.,5,1.70,beginner,https://subskills.xyz/gym-women/glute-bridge-hip-thrust
+gym-women,romanian-deadlift,Romanian deadlift,"Train the hip hinge with hamstring tension, neutral spine, and controlled tempo.",6,1.87,beginner,https://subskills.xyz/gym-women/romanian-deadlift
+gym-women,dumbbell-bench-press,Dumbbell bench press,"Press with stable shoulders, range of motion, and balanced dumbbell control.",7,2.04,beginner,https://subskills.xyz/gym-women/dumbbell-bench-press
+gym-women,lat-pulldown,Lat pulldown,Build back strength with controlled shoulder position and clean pulling mechanics.,8,2.22,beginner,https://subskills.xyz/gym-women/lat-pulldown
+gym-women,dumbbell-cable-row,Dumbbell and cable row,The missing horizontal pull for a strong back.,9,2.39,intermediate,https://subskills.xyz/gym-women/dumbbell-cable-row
+gym-women,recovery-habits,Recovery habits,"Sleep, deloads and managing soreness across a training block.",10,2.57,intermediate,https://subskills.xyz/gym-women/recovery-habits
+gym-women,nutrition-for-strength,Nutrition for strength,"Support performance with protein, energy availability, hydration, and consistent habits.",11,2.74,intermediate,https://subskills.xyz/gym-women/nutrition-for-strength
+gym-women,bulgarian-split-squat,Bulgarian split squat and lunges,Single-leg work for glutes and quads.,12,2.91,intermediate,https://subskills.xyz/gym-women/bulgarian-split-squat
+gym-women,cycle-aware-training,Cycle-aware training,Adjust training expectations and recovery around menstrual-cycle symptoms when helpful.,13,3.09,intermediate,https://subskills.xyz/gym-women/cycle-aware-training
+gym-women,fat-loss-nutrition,Fat loss nutrition,"Calorie targets, protein and adherence for sustainable fat loss.",14,3.26,intermediate,https://subskills.xyz/gym-women/fat-loss-nutrition
+gym-women,cardio-with-lifting,Running alongside lifting,Combine cardio and lifting without losing strength.,15,3.43,intermediate,https://subskills.xyz/gym-women/cardio-with-lifting
+gym-women,pelvic-floor-aware-lifting,Pelvic floor aware lifting,"Coordinate breath, pressure, and load for lifters managing pelvic-floor symptoms.",16,3.61,intermediate,https://subskills.xyz/gym-women/pelvic-floor-aware-lifting
+gym-women,lifting-while-pregnant,Lifting while pregnant,"Adjust load, movements and bracing through pregnancy.",17,3.78,advanced,https://subskills.xyz/gym-women/lifting-while-pregnant
+gym-women,postpartum-core,Postpartum core and diastasis recti,Rebuild core strength safely after birth.,18,3.96,advanced,https://subskills.xyz/gym-women/postpartum-core
+gym-women,barbell-back-squat,Barbell back squat,Take the squat from goblet to barbell.,19,4.13,advanced,https://subskills.xyz/gym-women/barbell-back-squat
+gym-women,deadlift,Deadlift,Conventional and sumo deadlift technique.,20,4.30,advanced,https://subskills.xyz/gym-women/deadlift
+gym-women,overhead-press,Overhead press,Press overhead with a stable core and shoulders.,21,4.48,advanced,https://subskills.xyz/gym-women/overhead-press
+gym-women,pull-up-progression,Pull-up progression,Build to your first unassisted pull-up.,22,4.65,advanced,https://subskills.xyz/gym-women/pull-up-progression
+gym-women,lower-body-hypertrophy,Lower-body hypertrophy,"Program quads, glutes, and hamstrings with balanced volume and progression.",23,4.83,advanced,https://subskills.xyz/gym-women/lower-body-hypertrophy
+gym-women,upper-body-hypertrophy,Upper-body hypertrophy,"Train shoulders, back, chest, and arms with confidence and recovery in mind.",24,5.00,advanced,https://subskills.xyz/gym-women/upper-body-hypertrophy
+muay-thai,choosing-gloves-and-shin-guards,Choosing gloves and shin guards,Pick glove weight and fit shin guards for training and sparring.,1,1.00,beginner,https://subskills.xyz/muay-thai/choosing-gloves-and-shin-guards
+muay-thai,thai-style-hand-wrapping,Thai style hand wrapping,Wrap Thai-style with extra knuckle build-up.,2,1.13,beginner,https://subskills.xyz/muay-thai/thai-style-hand-wrapping
+muay-thai,stance,Stance,"Square, rear-loaded stance with the lead leg free to check.",3,1.26,beginner,https://subskills.xyz/muay-thai/stance
+muay-thai,guard,Guard,"High, wide guard that covers elbows and knees; introduces the long guard.",4,1.39,beginner,https://subskills.xyz/muay-thai/guard
+muay-thai,footwork,Footwork,Marching rhythm and stepping to create kicking angles without bouncing.,5,1.52,beginner,https://subskills.xyz/muay-thai/footwork
+muay-thai,jab,Jab,"A long, probing jab from the square stance, paired with the teep.",6,1.65,beginner,https://subskills.xyz/muay-thai/jab
+muay-thai,straight-punch,Straight punch,The rear straight with hip commitment held back so a kick can follow.,7,1.77,beginner,https://subskills.xyz/muay-thai/straight-punch
+muay-thai,teep,Teep,"The push kick: range control, off-balancing and setting up.",8,1.90,beginner,https://subskills.xyz/muay-thai/teep
+muay-thai,roundhouse-kick,Roundhouse kick,"Hip rotation, shin contact and follow-through for body and head kicks.",9,2.03,beginner,https://subskills.xyz/muay-thai/roundhouse-kick
+muay-thai,shadow-boxing,Shadow boxing,"Shadow with kicks, knees and teeps, not just hands.",10,2.16,beginner,https://subskills.xyz/muay-thai/shadow-boxing
+muay-thai,hook,Hook,Hook with a short pivot and the hand returning high.,11,2.29,beginner,https://subskills.xyz/muay-thai/hook
+muay-thai,uppercut,Uppercut,Uppercuts inside and to open the clinch.,12,2.42,intermediate,https://subskills.xyz/muay-thai/uppercut
+muay-thai,low-kick,Low kick,Chop the lead leg with the shin and get out safely.,13,2.55,intermediate,https://subskills.xyz/muay-thai/low-kick
+muay-thai,knee-strikes,Knee strikes,"Straight, diagonal and long knees from range and in the clinch.",14,2.68,intermediate,https://subskills.xyz/muay-thai/knee-strikes
+muay-thai,holding-thai-pads,Holding Thai pads,"Hold pads for punches, kicks, knees and elbows.",15,2.81,intermediate,https://subskills.xyz/muay-thai/holding-thai-pads
+muay-thai,checking-kicks,Checking kicks,Check low kicks with the shin and the other low-kick defences.,16,2.94,intermediate,https://subskills.xyz/muay-thai/checking-kicks
+muay-thai,elbow-strikes,Elbow strikes,"Horizontal, uppercut and spinning elbows at close range.",17,3.06,intermediate,https://subskills.xyz/muay-thai/elbow-strikes
+muay-thai,clinch-basics,Clinch basics,"Plum, arm control and posture in the Thai clinch.",18,3.19,intermediate,https://subskills.xyz/muay-thai/clinch-basics
+muay-thai,combinations,Combinations,Punch-kick-knee chains that flow.,19,3.32,intermediate,https://subskills.xyz/muay-thai/combinations
+muay-thai,shin-conditioning,Shin conditioning,Condition the shins without wrecking them.,20,3.45,intermediate,https://subskills.xyz/muay-thai/shin-conditioning
+muay-thai,sparring-for-beginners,Sparring for beginners,Light Thai-style sparring and its etiquette.,21,3.58,intermediate,https://subskills.xyz/muay-thai/sparring-for-beginners
+muay-thai,catching-kicks,Catching kicks,Catch the body kick and counter or sweep.,22,3.71,advanced,https://subskills.xyz/muay-thai/catching-kicks
+muay-thai,defending-the-teep,Defending the teep,"Parry, catch and counter the push kick.",23,3.84,advanced,https://subskills.xyz/muay-thai/defending-the-teep
+muay-thai,defending-body-kicks,Defending body kicks,"Block, absorb and counter kicks to the body.",24,3.97,advanced,https://subskills.xyz/muay-thai/defending-body-kicks
+muay-thai,setting-up-kicks-with-punches,Setting up kicks with punches,Use hands to open the body and legs for kicks.,25,4.10,advanced,https://subskills.xyz/muay-thai/setting-up-kicks-with-punches
+muay-thai,long-guard,Long guard,Use the extended guard to control distance and frame.,26,4.23,advanced,https://subskills.xyz/muay-thai/long-guard
+muay-thai,head-movement,Head movement,When head movement works in Muay Thai and when it walks you into a knee.,27,4.35,advanced,https://subskills.xyz/muay-thai/head-movement
+muay-thai,defending-elbows-and-knees,Defending elbows and knees,Block elbows and stop knees at close range.,28,4.48,advanced,https://subskills.xyz/muay-thai/defending-elbows-and-knees
+muay-thai,switch-kick,Switch kick,Switch stance and fire the lead-leg kick.,29,4.61,advanced,https://subskills.xyz/muay-thai/switch-kick
+muay-thai,sweeps-trips-and-dumps,"Sweeps, trips and dumps",Take opponents down from the clinch and off caught kicks.,30,4.74,advanced,https://subskills.xyz/muay-thai/sweeps-trips-and-dumps
+muay-thai,spinning-back-kick,Spinning back kick,Turn and drive the heel through the target.,31,4.87,advanced,https://subskills.xyz/muay-thai/spinning-back-kick
+muay-thai,dutch-kickboxing-style,Dutch kickboxing style,The Dutch approach: high-volume combinations and low kicks.,32,5.00,advanced,https://subskills.xyz/muay-thai/dutch-kickboxing-style
+padel,choosing-a-padel-racket,How to choose a padel racket,"Shape, weight, balance and core for your level.",1,1.00,beginner,https://subskills.xyz/padel/choosing-a-padel-racket
+padel,padel-rules,Padel rules for beginners,"Scoring, serving, walls and what counts as out.",2,1.17,beginner,https://subskills.xyz/padel/padel-rules
+padel,continental-grip,Continental grip,"Hold the racket for volleys, bandejas, viboras, and controlled defensive shots.",3,1.35,beginner,https://subskills.xyz/padel/continental-grip
+padel,padel-footwork,Padel footwork,"Split step, move to the glass and recover position.",4,1.52,beginner,https://subskills.xyz/padel/padel-footwork
+padel,forehand-groundstroke,Forehand groundstroke,"Build a compact forehand with clean contact, depth, and direction changes.",5,1.70,beginner,https://subskills.xyz/padel/forehand-groundstroke
+padel,backhand-groundstroke,Backhand groundstroke,"Develop a reliable backhand for low balls, blocks, and resets.",6,1.87,beginner,https://subskills.xyz/padel/backhand-groundstroke
+padel,serve-first-volley,Serve and first volley,Start points with a serve plan and move into a balanced first volley.,7,2.04,beginner,https://subskills.xyz/padel/serve-first-volley
+padel,return-of-serve,Return of serve,Take control of the point from the return and win the net.,8,2.22,beginner,https://subskills.xyz/padel/return-of-serve
+padel,playing-with-your-partner,Playing with your partner,"Communication, calling balls and covering for each other.",9,2.39,intermediate,https://subskills.xyz/padel/playing-with-your-partner
+padel,volley-technique,Volley technique,Control forehand and backhand volleys with short preparation and stable contact.,10,2.57,intermediate,https://subskills.xyz/padel/volley-technique
+padel,lob,Lob,"Use height, depth, and timing to recover court position or move opponents back.",11,2.74,intermediate,https://subskills.xyz/padel/lob
+padel,court-positioning,Court positioning,Hold attack and defence positions and move as a pair.,12,2.91,intermediate,https://subskills.xyz/padel/court-positioning
+padel,glass-defense,Glass defense,Read wall rebounds and defend after the ball hits the back or side glass.,13,3.09,intermediate,https://subskills.xyz/padel/glass-defense
+padel,coming-off-the-wall,Coming off the wall,Time the bounce and footwork to play the ball off the back glass.,14,3.26,intermediate,https://subskills.xyz/padel/coming-off-the-wall
+padel,defending-from-the-back,Defending from the back,Absorb the smash and rebuild the point from two-back.,15,3.43,intermediate,https://subskills.xyz/padel/defending-from-the-back
+padel,net-positioning,Net positioning,"Coordinate distance, angles, and partner spacing while attacking at the net.",16,3.61,intermediate,https://subskills.xyz/padel/net-positioning
+padel,transition-to-net,Transition to the net,"Move forward together at the right moment, and when to retreat.",17,3.78,advanced,https://subskills.xyz/padel/transition-to-net
+padel,bandeja,Bandeja,Use the bandeja to keep net position and neutralize lobs without over-attacking.,18,3.96,advanced,https://subskills.xyz/padel/bandeja
+padel,drop-shot,Drop shot,Finish softly at the net with the dejada.,19,4.13,advanced,https://subskills.xyz/padel/drop-shot
+padel,chiquita,Chiquita,"Play low, soft attacks at opponents' feet to transition toward the net.",20,4.30,advanced,https://subskills.xyz/padel/chiquita
+padel,bajada,Bajada,Attack off the back glass and turn defence into offence.,21,4.48,advanced,https://subskills.xyz/padel/bajada
+padel,vibora,Vibora,Add sidespin and pressure from overhead positions while keeping placement under control.,22,4.65,advanced,https://subskills.xyz/padel/vibora
+padel,smash-x3,Smash and x3,"Choose and execute attacking smashes, including kick-smash patterns that leave the court.",23,4.83,advanced,https://subskills.xyz/padel/smash-x3
+padel,kick-smash,Kick smash,"Brush up the back of the ball for a heavy, high-bouncing smash.",24,5.00,advanced,https://subskills.xyz/padel/kick-smash
+pickleball,choosing-a-pickleball-paddle,Choosing a pickleball paddle,"Pick weight, shape, core and face for your game.",1,1.00,beginner,https://subskills.xyz/pickleball/choosing-a-pickleball-paddle
+pickleball,pickleball-rules,Pickleball rules,"Scoring, serving rules, faults and how a game is actually played.",2,1.20,beginner,https://subskills.xyz/pickleball/pickleball-rules
+pickleball,kitchen-rules,Kitchen rules,The non-volley zone rules that new players get wrong most often.,3,1.40,beginner,https://subskills.xyz/pickleball/kitchen-rules
+pickleball,pickleball-serve,Pickleball serve,"Build a deep, consistent, legal serve.",4,1.60,beginner,https://subskills.xyz/pickleball/pickleball-serve
+pickleball,return-of-serve,Return of serve,Return deep and get to the kitchen line.,5,1.80,beginner,https://subskills.xyz/pickleball/return-of-serve
+pickleball,pickleball-footwork,Pickleball footwork,"Split step, move and recover instead of reaching.",6,2.00,beginner,https://subskills.xyz/pickleball/pickleball-footwork
+pickleball,pickleball-forehand-drive,Pickleball forehand drive,Drive the forehand with depth and control from the baseline.,7,2.20,beginner,https://subskills.xyz/pickleball/pickleball-forehand-drive
+pickleball,pickleball-backhand,Pickleball backhand,"Build a reliable backhand for drives, dinks and blocks.",8,2.40,intermediate,https://subskills.xyz/pickleball/pickleball-backhand
+pickleball,dink,Dink,Control soft shots into the kitchen without popping them up.,9,2.60,intermediate,https://subskills.xyz/pickleball/dink
+pickleball,doubles-positioning,Doubles positioning,"Move as a pair, cover the middle and hold the line.",10,2.80,intermediate,https://subskills.xyz/pickleball/doubles-positioning
+pickleball,pickleball-volley,Pickleball volley,Punch clean volleys at the net with a stable paddle face.,11,3.00,intermediate,https://subskills.xyz/pickleball/pickleball-volley
+pickleball,third-shot-drop,Third shot drop,Drop the third shot softly into the kitchen to take the net.,12,3.20,intermediate,https://subskills.xyz/pickleball/third-shot-drop
+pickleball,reset,Reset,Absorb pace and reset the ball into the kitchen under pressure.,13,3.40,intermediate,https://subskills.xyz/pickleball/reset
+pickleball,third-shot-drive,Third shot drive,Drive the third shot hard when the drop is not on.,14,3.60,intermediate,https://subskills.xyz/pickleball/third-shot-drive
+pickleball,overhead-smash,Overhead smash,Put away high balls without hitting them out.,15,3.80,advanced,https://subskills.xyz/pickleball/overhead-smash
+pickleball,pickleball-lob,Pickleball lob,Use offensive and defensive lobs to move opponents off the line.,16,4.00,advanced,https://subskills.xyz/pickleball/pickleball-lob
+pickleball,speed-ups,Speed-ups,Recognise an attackable dink and speed the ball up with purpose.,17,4.20,advanced,https://subskills.xyz/pickleball/speed-ups
+pickleball,singles-strategy,Singles strategy,Build points and cover the court in singles.,18,4.40,advanced,https://subskills.xyz/pickleball/singles-strategy
+pickleball,stacking,Stacking,Stack to keep both players on their stronger side.,19,4.60,advanced,https://subskills.xyz/pickleball/stacking
+pickleball,around-the-post,Around the post,Hit the ATP when the ball pulls you wide of the net post.,20,4.80,advanced,https://subskills.xyz/pickleball/around-the-post
+pickleball,erne,Erne,Jump around the kitchen to attack a wide ball.,21,5.00,advanced,https://subskills.xyz/pickleball/erne
+pilates,pilates-for-beginners,Pilates for beginners,"Your first mat class, cue by cue.",1,1.00,beginner,https://subskills.xyz/pilates/pilates-for-beginners
+pilates,pilates-breathing,Pilates breathing,"Lateral thoracic breathing, the first Pilates principle.",2,1.20,beginner,https://subskills.xyz/pilates/pilates-breathing
+pilates,neutral-spine,Neutral spine and imprint,Find neutral pelvis and imprint before every exercise.,3,1.40,beginner,https://subskills.xyz/pilates/neutral-spine
+pilates,reformer-footwork,Reformer basics: footwork,"Toes, arches, heels and tendon stretch on the reformer.",4,1.60,beginner,https://subskills.xyz/pilates/reformer-footwork
+pilates,the-hundred,The Hundred,Master the foundational breathing and core-activation exercise.,5,1.80,beginner,https://subskills.xyz/pilates/the-hundred
+pilates,pilates-bridge,Pelvic Curl / Bridge,Articulate the spine into a bridge for glute and core control.,6,2.00,beginner,https://subskills.xyz/pilates/pilates-bridge
+pilates,leg-circles,Single-Leg Circles,Mobilize the hip while keeping the pelvis stable.,7,2.20,beginner,https://subskills.xyz/pilates/leg-circles
+pilates,single-leg-stretch,Single-Leg Stretch,Coordinate breath and limb movement while stabilizing the core.,8,2.40,intermediate,https://subskills.xyz/pilates/single-leg-stretch
+pilates,spine-stretch-forward,Spine Stretch Forward,Articulate the spine forward to stretch and strengthen the back.,9,2.60,intermediate,https://subskills.xyz/pilates/spine-stretch-forward
+pilates,side-leg-series,Side-Lying Leg Series,Work hips and outer thighs while stabilizing the torso.,10,2.80,intermediate,https://subskills.xyz/pilates/side-leg-series
+pilates,swan-prep,Swan / Back Extension,Strengthen the back extensors safely with the swan exercise.,11,3.00,intermediate,https://subskills.xyz/pilates/swan-prep
+pilates,rolling-like-a-ball,Rolling like a ball,Control the roll and find balance.,12,3.20,intermediate,https://subskills.xyz/pilates/rolling-like-a-ball
+pilates,double-leg-stretch,Double leg stretch,The partner exercise to single leg stretch.,13,3.40,intermediate,https://subskills.xyz/pilates/double-leg-stretch
+pilates,criss-cross,Criss-cross,The oblique twist from the classical mat order.,14,3.60,intermediate,https://subskills.xyz/pilates/criss-cross
+pilates,the-saw,The Saw,Rotate and reach past the foot to wring out the spine.,15,3.80,advanced,https://subskills.xyz/pilates/the-saw
+pilates,plank-series,Plank Series,Hold and transition planks with proper alignment and core engagement.,16,4.00,advanced,https://subskills.xyz/pilates/plank-series
+pilates,pilates-swimming,Swimming (Pilates),Prone back-extension progression after the swan.,17,4.20,advanced,https://subskills.xyz/pilates/pilates-swimming
+pilates,roll-up,The Roll-Up,Articulate the spine to roll up and down with control.,18,4.40,advanced,https://subskills.xyz/pilates/roll-up
+pilates,neck-pull,Neck Pull,Roll up and down with hands behind the head.,19,4.60,advanced,https://subskills.xyz/pilates/neck-pull
+pilates,roll-over,Roll-over,Articulate the spine overhead with control.,20,4.80,advanced,https://subskills.xyz/pilates/roll-over
+pilates,teaser,The Teaser,Build the advanced V-sit balance exercise with control.,21,5.00,advanced,https://subskills.xyz/pilates/teaser
+running,starting-to-run,Couch to 5K,Run-walk your way from the couch to a continuous 5K.,1,1.00,beginner,https://subskills.xyz/running/starting-to-run
+running,choosing-running-shoes,Choosing running shoes,"Pick shoes that fit your foot, gait and mileage.",2,1.15,beginner,https://subskills.xyz/running/choosing-running-shoes
+running,dynamic-warmup,Pre-Run Dynamic Warm-up,Activate muscles with dynamic mobility before a run.,3,1.31,beginner,https://subskills.xyz/running/dynamic-warmup
+running,running-form-posture,Running Form & Posture,"Establish upright posture, lean, and relaxed upper-body mechanics.",4,1.46,beginner,https://subskills.xyz/running/running-form-posture
+running,easy-runs,Easy runs,Run genuinely easy to build an aerobic base.,5,1.62,beginner,https://subskills.xyz/running/easy-runs
+running,post-run-stretching,Post-run stretching,Cool down and stretch after a run.,6,1.77,beginner,https://subskills.xyz/running/post-run-stretching
+running,breathing-rhythm,Breathing Rhythm,Coordinate breathing patterns with stride for endurance.,7,1.92,beginner,https://subskills.xyz/running/breathing-rhythm
+running,shin-splints,Shin splints,Prevent and rehab the classic beginner shin pain.,8,2.08,beginner,https://subskills.xyz/running/shin-splints
+running,arm-swing,Arm Swing Mechanics,Use efficient arm drive to support stride and balance.,9,2.23,beginner,https://subskills.xyz/running/arm-swing
+running,cadence-optimization,Cadence Optimization,Improve stride turnover toward an efficient cadence.,10,2.38,intermediate,https://subskills.xyz/running/cadence-optimization
+running,strength-for-runners,Strength training for runners,Build the strength that keeps you injury-free.,11,2.54,intermediate,https://subskills.xyz/running/strength-for-runners
+running,zone-2-running,Zone 2 running,Train at an easy aerobic heart rate and know why it works.,12,2.69,intermediate,https://subskills.xyz/running/zone-2-running
+running,long-run,The long run,Build endurance with a weekly long run.,13,2.85,intermediate,https://subskills.xyz/running/long-run
+running,runners-knee,Runner's knee and IT band pain,Fix the two most common overuse injuries in running.,14,3.00,intermediate,https://subskills.xyz/running/runners-knee
+running,foot-strike,Foot Strike Mechanics,"Understand forefoot, midfoot, and heel strike and how to adjust landing.",15,3.15,intermediate,https://subskills.xyz/running/foot-strike
+running,running-drills,Running Form Drills,"Practice A-skips, B-skips, and high knees to ingrain technique.",16,3.31,intermediate,https://subskills.xyz/running/running-drills
+running,strides-form-sprints,Strides & Form Sprints,Run controlled accelerations to sharpen mechanics and turnover.,17,3.46,intermediate,https://subskills.xyz/running/strides-form-sprints
+running,plantar-fasciitis,Plantar fasciitis,"Recognise, treat and rehab heel and arch pain.",18,3.62,intermediate,https://subskills.xyz/running/plantar-fasciitis
+running,achilles-tendonitis,Achilles tendonitis,Load management and rehab for achilles pain.,19,3.77,advanced,https://subskills.xyz/running/achilles-tendonitis
+running,hill-running,Uphill Running Technique,"Adjust posture, stride, and effort for efficient climbing.",20,3.92,advanced,https://subskills.xyz/running/hill-running
+running,downhill-running,Downhill Running Technique,Control descent with safe braking and cadence to reduce impact.,21,4.08,advanced,https://subskills.xyz/running/downhill-running
+running,trail-running,Trail running,"Adjust footing, effort and technique off-road.",22,4.23,advanced,https://subskills.xyz/running/trail-running
+running,hill-repeats,Hill repeats,Structure a hill repeat session for power and form.,23,4.38,advanced,https://subskills.xyz/running/hill-repeats
+running,interval-tempo,Interval and tempo runs,"Structure threshold, tempo and interval sessions.",24,4.54,advanced,https://subskills.xyz/running/interval-tempo
+running,race-pacing,Race pacing,Pace a 5K to a marathon without blowing up.,25,4.69,advanced,https://subskills.xyz/running/race-pacing
+running,marathon-fuelling,Marathon fuelling,"Carbs per hour, gels and practising race nutrition.",26,4.85,advanced,https://subskills.xyz/running/marathon-fuelling
+running,marathon-taper,How to taper for a marathon,Cut volume without losing fitness in the final weeks.,27,5.00,advanced,https://subskills.xyz/running/marathon-taper
+skiing,ski-boot-fitting,Ski boot fitting,"Get size, flex and fit right — the single biggest comfort and control factor.",1,1.00,beginner,https://subskills.xyz/skiing/ski-boot-fitting
+skiing,how-to-ski-for-beginners,How to ski for beginners,"Your first day: getting used to the skis, sliding and turning.",2,1.20,beginner,https://subskills.xyz/skiing/how-to-ski-for-beginners
+skiing,ski-stance-and-body-position,Ski stance and body position,"Stack the body over the skis with balanced ankle, knee and hip flex.",3,1.40,beginner,https://subskills.xyz/skiing/ski-stance-and-body-position
+skiing,how-to-use-a-ski-lift,How to use a ski lift,"Ride and get off chairlifts, button lifts and drag lifts.",4,1.60,beginner,https://subskills.xyz/skiing/how-to-use-a-ski-lift
+skiing,getting-up-after-a-fall,Getting up after a fall,Get back on your feet on a slope without exhausting yourself.,5,1.80,beginner,https://subskills.xyz/skiing/getting-up-after-a-fall
+skiing,how-to-stop-on-skis,How to stop on skis,Learn the snowplough stop and progress to a hockey stop.,6,2.00,beginner,https://subskills.xyz/skiing/how-to-stop-on-skis
+skiing,snowplough-turns,Snowplough turns,Steer both skis to link your first turns in a wedge.,7,2.20,beginner,https://subskills.xyz/skiing/snowplough-turns
+skiing,side-slipping,Side slipping,Release and engage the edges to slip sideways down a steep pitch.,8,2.40,intermediate,https://subskills.xyz/skiing/side-slipping
+skiing,parallel-turns,Parallel turns,Move from wedge to matched skis and link parallel turns.,9,2.60,intermediate,https://subskills.xyz/skiing/parallel-turns
+skiing,hockey-stop,Hockey stop,"Pivot both skis across the fall line for a fast, controlled stop.",10,2.80,intermediate,https://subskills.xyz/skiing/hockey-stop
+skiing,how-to-choose-skis,How to choose skis,"Pick length, width and type for the skiing you actually do.",11,3.00,intermediate,https://subskills.xyz/skiing/how-to-choose-skis
+skiing,ski-fitness-and-conditioning,Ski fitness and conditioning,Build the legs and core that keep you skiing all week.,12,3.20,intermediate,https://subskills.xyz/skiing/ski-fitness-and-conditioning
+skiing,pole-plant,Pole plant,Time the pole plant to trigger and rhythm your turns.,13,3.40,intermediate,https://subskills.xyz/skiing/pole-plant
+skiing,short-turns,Short turns,"Make quick, rhythmic turns on steeper and narrower terrain.",14,3.60,intermediate,https://subskills.xyz/skiing/short-turns
+skiing,carving-on-skis,Carving on skis,Tip the skis on edge and leave clean arcs instead of skidding.,15,3.80,advanced,https://subskills.xyz/skiing/carving-on-skis
+skiing,skiing-on-ice,Skiing on ice,"Hold an edge and stay in control on hard, icy snow.",16,4.00,advanced,https://subskills.xyz/skiing/skiing-on-ice
+skiing,skiing-steeps,Skiing steeps,Stay balanced and in control on steep pitches.,17,4.20,advanced,https://subskills.xyz/skiing/skiing-steeps
+skiing,skiing-moguls,Skiing moguls,Absorb and extend through bumps and pick a line.,18,4.40,advanced,https://subskills.xyz/skiing/skiing-moguls
+skiing,skiing-powder,Skiing powder,Adjust stance and turn shape for deep snow.,19,4.60,advanced,https://subskills.xyz/skiing/skiing-powder
+skiing,how-to-jump-on-skis,How to jump on skis,"Take off, fly and land safely on a jump.",20,4.80,advanced,https://subskills.xyz/skiing/how-to-jump-on-skis
+skiing,avalanche-safety,Avalanche safety,Recognise avalanche terrain and know the basics of rescue.,21,5.00,advanced,https://subskills.xyz/skiing/avalanche-safety
+snowboarding,how-to-snowboard-for-beginners,How to snowboard for beginners,"Your first day: strapping in, sliding and finding your edges.",1,1.00,beginner,https://subskills.xyz/snowboarding/how-to-snowboard-for-beginners
+snowboarding,snowboard-stance-and-binding-angles,Snowboard stance and binding angles,"Set stance width, angles and highbacks for comfort and control.",2,1.21,beginner,https://subskills.xyz/snowboarding/snowboard-stance-and-binding-angles
+snowboarding,riding-the-chairlift,Riding the chairlift,"Load, ride and unload a chairlift with one foot strapped in.",3,1.42,beginner,https://subskills.xyz/snowboarding/riding-the-chairlift
+snowboarding,how-to-stop-on-a-snowboard,How to stop on a snowboard,Stop reliably on heelside and toeside.,4,1.63,beginner,https://subskills.xyz/snowboarding/how-to-stop-on-a-snowboard
+snowboarding,falling-leaf,Falling leaf,Slide down on one edge to build edge control and confidence.,5,1.84,beginner,https://subskills.xyz/snowboarding/falling-leaf
+snowboarding,heelside-turns,Heelside turns,Turn on the heel edge without washing out or jutting.,6,2.05,beginner,https://subskills.xyz/snowboarding/heelside-turns
+snowboarding,toeside-turns,Toeside turns,Commit to the toe edge and hold the turn.,7,2.26,beginner,https://subskills.xyz/snowboarding/toeside-turns
+snowboarding,linking-turns,Linking turns,Join heelside and toeside into smooth linked turns.,8,2.47,intermediate,https://subskills.xyz/snowboarding/linking-turns
+snowboarding,snowboard-carving,Snowboard carving,Ride on edge and leave a clean pencil line.,9,2.68,intermediate,https://subskills.xyz/snowboarding/snowboard-carving
+snowboarding,how-to-choose-a-snowboard,How to choose a snowboard,"Pick length, shape, flex and camber profile for your riding.",10,2.89,intermediate,https://subskills.xyz/snowboarding/how-to-choose-a-snowboard
+snowboarding,riding-switch,Riding switch,Ride and turn with your opposite foot forward.,11,3.11,intermediate,https://subskills.xyz/snowboarding/riding-switch
+snowboarding,ollie-on-a-snowboard,Ollie on a snowboard,Load the tail and pop off the snow.,12,3.32,intermediate,https://subskills.xyz/snowboarding/ollie-on-a-snowboard
+snowboarding,butters,Butters,Press on the nose and tail and spin flat on the snow.,13,3.53,intermediate,https://subskills.xyz/snowboarding/butters
+snowboarding,riding-moguls,Riding moguls,Pick a line and absorb repeated bumps and troughs.,14,3.74,advanced,https://subskills.xyz/snowboarding/riding-moguls
+snowboarding,riding-powder,Riding powder,Keep the nose up and float through deep snow.,15,3.95,advanced,https://subskills.xyz/snowboarding/riding-powder
+snowboarding,frontside-180,Frontside 180,Spin and land your first frontside 180.,16,4.16,advanced,https://subskills.xyz/snowboarding/frontside-180
+snowboarding,backside-180,Backside 180,Spin and land a backside 180.,17,4.37,advanced,https://subskills.xyz/snowboarding/backside-180
+snowboarding,park-jumps,Park jumps,"Approach, pop and land park jumps safely.",18,4.58,advanced,https://subskills.xyz/snowboarding/park-jumps
+snowboarding,boxes-and-rails,Boxes and rails,Get onto boxes and rails and slide them under control.,19,4.79,advanced,https://subskills.xyz/snowboarding/boxes-and-rails
+snowboarding,avalanche-safety,Avalanche safety,Recognise avalanche terrain and know the basics of rescue.,20,5.00,advanced,https://subskills.xyz/snowboarding/avalanche-safety
+soccer,ball-mastery,Ball Mastery,Drill close-control touches and foundational ball-rolling patterns.,1,1.00,beginner,https://subskills.xyz/soccer/ball-mastery
+soccer,first-touch,First Touch,Receive and direct the ball cleanly with various surfaces.,2,1.20,beginner,https://subskills.xyz/soccer/first-touch
+soccer,passing-technique,Passing Technique,Strike accurate short and long passes with proper form.,3,1.40,beginner,https://subskills.xyz/soccer/passing-technique
+soccer,dribbling-close-control,Dribbling & Close Control,Move with the ball at speed under tight control.,4,1.60,beginner,https://subskills.xyz/soccer/dribbling-close-control
+soccer,juggling,Juggling & Ball Feel,Build coordination and touch through juggling.,5,1.80,beginner,https://subskills.xyz/soccer/juggling
+soccer,shielding-the-ball,How to shield the ball,Use your body to protect possession under pressure.,6,2.00,beginner,https://subskills.xyz/soccer/shielding-the-ball
+soccer,finishing-shooting,Finishing & Shooting,Strike the ball cleanly to finish chances on goal.,7,2.20,beginner,https://subskills.xyz/soccer/finishing-shooting
+soccer,weak-foot-development,Weak-Foot Development,Train the non-dominant foot for passing and shooting.,8,2.40,intermediate,https://subskills.xyz/soccer/weak-foot-development
+soccer,turning-with-the-ball,Turns to beat a defender,"Escape pressure with the Cruyff, drag-back and hook turns.",9,2.60,intermediate,https://subskills.xyz/soccer/turning-with-the-ball
+soccer,heading,Heading,Attacking and defensive heading technique and timing.,10,2.80,intermediate,https://subskills.xyz/soccer/heading
+soccer,long-passing,Long passing and switching play,Strike accurate lofted and driven long passes.,11,3.00,intermediate,https://subskills.xyz/soccer/long-passing
+soccer,off-the-ball-movement,Off the ball movement,Create space and time your runs without the ball.,12,3.20,intermediate,https://subskills.xyz/soccer/off-the-ball-movement
+soccer,defending-1v1,Defending 1v1,"Approach, jockey and force the attacker where you want.",13,3.40,intermediate,https://subskills.xyz/soccer/defending-1v1
+soccer,how-to-tackle,How to tackle in football,"Block tackle, poke tackle and the slide tackle without fouling.",14,3.60,intermediate,https://subskills.xyz/soccer/how-to-tackle
+soccer,crossing,Crossing,"Whipped, driven and cut-back crosses from wide areas.",15,3.80,advanced,https://subskills.xyz/soccer/crossing
+soccer,1v1-moves,1v1 Beating Moves,Learn moves to beat a defender one-on-one.,16,4.00,advanced,https://subskills.xyz/soccer/1v1-moves
+soccer,step-overs,Step-Overs,Execute step-over feints to unbalance defenders.,17,4.20,advanced,https://subskills.xyz/soccer/step-overs
+soccer,volley-technique,How to hit a volley,Strike the ball cleanly out of the air.,18,4.40,advanced,https://subskills.xyz/soccer/volley-technique
+soccer,penalty-technique,How to take a penalty,"Placement, run-up and composure from the spot.",19,4.60,advanced,https://subskills.xyz/soccer/penalty-technique
+soccer,la-croqueta,La Croqueta,Shift the ball between feet to slip past a defender.,20,4.80,advanced,https://subskills.xyz/soccer/la-croqueta
+soccer,free-kick-technique,Free-Kick Technique,"Generate curl, knuckle, or power on direct free kicks.",21,5.00,advanced,https://subskills.xyz/soccer/free-kick-technique
+surfing,board-choice,Board choice,"Match volume, shape, fin setup, and length to waves and ability level.",1,1.00,beginner,https://subskills.xyz/surfing/board-choice
+surfing,surf-etiquette,Surf etiquette,"Understand right of way, paddling lanes, communication, and safe decision-making.",2,1.17,beginner,https://subskills.xyz/surfing/surf-etiquette
+surfing,rip-currents,Rip currents,"Spot rips, escape them, and use them to paddle out.",3,1.35,beginner,https://subskills.xyz/surfing/rip-currents
+surfing,waxing-a-surfboard,How to wax a surfboard,"Base coat, top coat and getting proper bumps.",4,1.52,beginner,https://subskills.xyz/surfing/waxing-a-surfboard
+surfing,surf-stance,Surf stance,"Build balance, compression, foot placement, and upper-body alignment on the board.",5,1.70,beginner,https://subskills.xyz/surfing/surf-stance
+surfing,paddling-technique,Paddling technique,"Paddle efficiently with body position, stroke mechanics, and breathing control.",6,1.87,beginner,https://subskills.xyz/surfing/paddling-technique
+surfing,pop-up,Pop-up,Move from prone to stance quickly with stable foot placement and low posture.,7,2.04,beginner,https://subskills.xyz/surfing/pop-up
+surfing,falling-off-safely,How to fall off safely,"Fall flat, protect your head and come up covered.",8,2.22,beginner,https://subskills.xyz/surfing/falling-off-safely
+surfing,paddling-out,Paddling out,"Pick your route, time the sets and use the channel.",9,2.39,intermediate,https://subskills.xyz/surfing/paddling-out
+surfing,surf-forecast,Reading the surf forecast,"Read swell, period, wind and tide before you go.",10,2.57,intermediate,https://subskills.xyz/surfing/surf-forecast
+surfing,turtle-roll,Turtle roll,"Pass whitewater on longer boards with safe grip, rotation, and reset.",11,2.74,intermediate,https://subskills.xyz/surfing/turtle-roll
+surfing,wave-selection,Wave selection,"Read sets, peaks, shoulders, and wave quality before committing to a paddle.",12,2.91,intermediate,https://subskills.xyz/surfing/wave-selection
+surfing,lineup-positioning,Lineup positioning,"Choose takeoff spots while respecting priority, currents, and crowd flow.",13,3.09,intermediate,https://subskills.xyz/surfing/lineup-positioning
+surfing,takeoff-timing,Takeoff timing,Match paddle speed and timing to enter waves with control.,14,3.26,intermediate,https://subskills.xyz/surfing/takeoff-timing
+surfing,catching-a-green-wave,How to catch a green wave,Move from whitewater to unbroken waves.,15,3.43,intermediate,https://subskills.xyz/surfing/catching-a-green-wave
+surfing,trimming,Riding down the line,Angle the take-off and ride across the face.,16,3.61,intermediate,https://subskills.xyz/surfing/trimming
+surfing,duck-dive,Duck dive,"Get under breaking waves with board angle, body weight, and recovery timing.",17,3.78,advanced,https://subskills.xyz/surfing/duck-dive
+surfing,generating-speed,Generating speed,Pump the board to build and hold speed.,18,3.96,advanced,https://subskills.xyz/surfing/generating-speed
+surfing,ding-repair,Surfboard ding repair,Fix dings so water stays out of the foam.,19,4.13,advanced,https://subskills.xyz/surfing/ding-repair
+surfing,bottom-turn,Bottom turn,Set the rail and redirect speed from the lower third of the wave.,20,4.30,advanced,https://subskills.xyz/surfing/bottom-turn
+surfing,top-turn,Top turn,Redirect off the lip to complete the bottom-turn combo.,21,4.48,advanced,https://subskills.xyz/surfing/top-turn
+surfing,cutback,Cutback,"Return to the power source with rail control, rotation, and rebound timing.",22,4.65,advanced,https://subskills.xyz/surfing/cutback
+surfing,cross-stepping,Cross stepping,Walk the board to the nose on a longboard.,23,4.83,advanced,https://subskills.xyz/surfing/cross-stepping
+surfing,floater,Floater,Ride up and over the breaking section.,24,5.00,advanced,https://subskills.xyz/surfing/floater
+swimming,breath-control,Breath control,Exhale underwater and stay relaxed for beginners.,1,1.00,beginner,https://subskills.xyz/swimming/breath-control
+swimming,floating,Front and back float,Find balance and float on the front and back.,2,1.19,beginner,https://subskills.xyz/swimming/floating
+swimming,treading-water,How to tread water,Stay vertical and calm using eggbeater and sculling.,3,1.38,beginner,https://subskills.xyz/swimming/treading-water
+swimming,streamline-pushoff,Streamline Push-Off,Hold a tight streamline off the wall to maximize glide.,4,1.57,beginner,https://subskills.xyz/swimming/streamline-pushoff
+swimming,freestyle-kick,Freestyle Flutter Kick,Develop an efficient flutter kick from the hips.,5,1.76,beginner,https://subskills.xyz/swimming/freestyle-kick
+swimming,swimming-without-getting-tired,How to swim without getting tired,"Pace, breathe and relax to swim further.",6,1.95,beginner,https://subskills.xyz/swimming/swimming-without-getting-tired
+swimming,backstroke-kick,Backstroke kick,"Kick from the hip with a steady, compact backstroke kick.",7,2.14,beginner,https://subskills.xyz/swimming/backstroke-kick
+swimming,backstroke-technique,Backstroke Technique,"Improve body position, arm entry, and rotation in backstroke.",8,2.33,beginner,https://subskills.xyz/swimming/backstroke-technique
+swimming,body-rotation,Body Rotation,Rotate the body along its long axis to reduce drag and aid the pull.,9,2.52,intermediate,https://subskills.xyz/swimming/body-rotation
+swimming,bilateral-breathing,Freestyle Bilateral Breathing,Breathe to both sides with proper head rotation and timing.,10,2.71,intermediate,https://subskills.xyz/swimming/bilateral-breathing
+swimming,freestyle-catch,Freestyle High-Elbow Catch,Set up the early-vertical-forearm catch for efficient freestyle pull.,11,2.90,intermediate,https://subskills.xyz/swimming/freestyle-catch
+swimming,breaststroke-kick,Breaststroke kick,"Master the whip kick, the most-failed element in breaststroke.",12,3.10,intermediate,https://subskills.xyz/swimming/breaststroke-kick
+swimming,breaststroke-pull,Breaststroke pull,"Out-sweep, in-sweep and recovery for the breaststroke pull.",13,3.29,intermediate,https://subskills.xyz/swimming/breaststroke-pull
+swimming,breaststroke-timing,Breaststroke Timing,"Coordinate the pull, breath, kick, and glide sequence.",14,3.48,intermediate,https://subskills.xyz/swimming/breaststroke-timing
+swimming,pull-buoy,How to use a pull buoy,Use a pull buoy and paddles to build a stronger pull.,15,3.67,intermediate,https://subskills.xyz/swimming/pull-buoy
+swimming,sculling-drills,Sculling Drills,Develop feel for the water with sculling hand movements.,16,3.86,advanced,https://subskills.xyz/swimming/sculling-drills
+swimming,open-turn,Open turn,Turn at the wall in breaststroke and butterfly.,17,4.05,advanced,https://subskills.xyz/swimming/open-turn
+swimming,open-water-sighting,Open water sighting,"Lift, look and swim straight in open water.",18,4.24,advanced,https://subskills.xyz/swimming/open-water-sighting
+swimming,flip-turn,Freestyle Flip Turn,Execute a tumble turn and streamline push-off at the wall.,19,4.43,advanced,https://subskills.xyz/swimming/flip-turn
+swimming,racing-dive,Racing dive,"Dive from the blocks with a tight, fast entry.",20,4.62,advanced,https://subskills.xyz/swimming/racing-dive
+swimming,butterfly-undulation,Butterfly undulation,Press the chest and build the body dolphin for butterfly.,21,4.81,advanced,https://subskills.xyz/swimming/butterfly-undulation
+swimming,butterfly-timing,Butterfly Timing,Coordinate the dolphin kick with the arm pull and breath.,22,5.00,advanced,https://subskills.xyz/swimming/butterfly-timing
+table-tennis,shakehand-grip,Shakehand grip,"Hold the bat the way most players do, with a neutral wrist and free fingers.",1,1.00,beginner,https://subskills.xyz/table-tennis/shakehand-grip
+table-tennis,penhold-grip,Penhold grip,"Hold and play with the penhold grip, including reverse backhand.",2,1.17,beginner,https://subskills.xyz/table-tennis/penhold-grip
+table-tennis,ready-position,Ready position,Stand balanced and low so you can move to either wing.,3,1.35,beginner,https://subskills.xyz/table-tennis/ready-position
+table-tennis,table-tennis-footwork,Table tennis footwork,Move with side-to-side and in-and-out steps instead of reaching.,4,1.52,beginner,https://subskills.xyz/table-tennis/table-tennis-footwork
+table-tennis,forehand-drive,Forehand drive,Build the basic forehand drive with body rotation and a compact swing.,5,1.70,beginner,https://subskills.xyz/table-tennis/forehand-drive
+table-tennis,backhand-drive,Backhand drive,Play a controlled backhand drive from in front of the body.,6,1.87,beginner,https://subskills.xyz/table-tennis/backhand-drive
+table-tennis,forehand-push,Forehand push,Return short backspin balls with a controlled forehand push.,7,2.04,beginner,https://subskills.xyz/table-tennis/forehand-push
+table-tennis,backhand-push,Backhand push,Keep the ball low and short with a backhand push.,8,2.22,beginner,https://subskills.xyz/table-tennis/backhand-push
+table-tennis,block,Block,Absorb an opponent's topspin with a passive or active block.,9,2.39,intermediate,https://subskills.xyz/table-tennis/block
+table-tennis,reading-spin,Reading spin,"Judge spin from contact, bat angle and ball flight.",10,2.57,intermediate,https://subskills.xyz/table-tennis/reading-spin
+table-tennis,serve-return,Serve return,"Read the serve and choose push, flick or loop as the return.",11,2.74,intermediate,https://subskills.xyz/table-tennis/serve-return
+table-tennis,backspin-serve,Backspin serve,Serve short and heavy so the ball stays low.,12,2.91,intermediate,https://subskills.xyz/table-tennis/backspin-serve
+table-tennis,topspin-serve,Topspin serve,Serve fast topspin to force a weak return.,13,3.09,intermediate,https://subskills.xyz/table-tennis/topspin-serve
+table-tennis,sidespin-serve,Sidespin serve,Add sidespin to pull the returner off the table.,14,3.26,intermediate,https://subskills.xyz/table-tennis/sidespin-serve
+table-tennis,forehand-topspin,Forehand topspin,Brush up the back of the ball for heavy forehand topspin.,15,3.43,intermediate,https://subskills.xyz/table-tennis/forehand-topspin
+table-tennis,backhand-topspin,Backhand topspin,Generate backhand topspin using forearm and wrist snap.,16,3.61,intermediate,https://subskills.xyz/table-tennis/backhand-topspin
+table-tennis,looping-against-backspin,Looping against backspin,Open up on heavy backspin with a low-to-high loop.,17,3.78,advanced,https://subskills.xyz/table-tennis/looping-against-backspin
+table-tennis,forehand-flick,Forehand flick,Attack short balls over the table on the forehand side.,18,3.96,advanced,https://subskills.xyz/table-tennis/forehand-flick
+table-tennis,backhand-flick,Backhand flick,Attack short balls over the table with a backhand flick.,19,4.13,advanced,https://subskills.xyz/table-tennis/backhand-flick
+table-tennis,forehand-smash,Forehand smash,"Finish high balls with a flat, powerful smash.",20,4.30,advanced,https://subskills.xyz/table-tennis/forehand-smash
+table-tennis,doubles-rules-and-rotation,Doubles rules and rotation,"Serve, receive and rotate correctly in doubles.",21,4.48,advanced,https://subskills.xyz/table-tennis/doubles-rules-and-rotation
+table-tennis,choosing-a-blade-and-rubber,Choosing a blade and rubber,Match blade speed and rubber type to your style and level.,22,4.65,advanced,https://subskills.xyz/table-tennis/choosing-a-blade-and-rubber
+table-tennis,chopping,Chopping,Play defensive chops from away from the table with heavy backspin.,23,4.83,advanced,https://subskills.xyz/table-tennis/chopping
+table-tennis,lob,Lob,Defend high and deep from away from the table.,24,5.00,advanced,https://subskills.xyz/table-tennis/lob
+tennis,choosing-a-tennis-racket,How to choose a tennis racket,"Head size, weight, balance and string tension.",1,1.00,beginner,https://subskills.xyz/tennis/choosing-a-tennis-racket
+tennis,tennis-scoring,Tennis scoring explained,"Games, sets, deuce and tie-breaks.",2,1.18,beginner,https://subskills.xyz/tennis/tennis-scoring
+tennis,grip-fundamentals,Grip fundamentals,"Continental, eastern and semi-western grips and when to use each.",3,1.36,beginner,https://subskills.xyz/tennis/grip-fundamentals
+tennis,footwork-split-step,Footwork & Split Step,Use the split step and recovery footwork to reach balls efficiently.,4,1.55,beginner,https://subskills.xyz/tennis/footwork-split-step
+tennis,forehand,Forehand Technique,Develop a reliable topspin forehand with proper grip and swing path.,5,1.73,beginner,https://subskills.xyz/tennis/forehand
+tennis,two-handed-backhand,Two-Handed Backhand,"Build a stable, powerful two-handed backhand.",6,1.91,beginner,https://subskills.xyz/tennis/two-handed-backhand
+tennis,serve-technique,Serve Technique,Build the service motion from toss to contact and follow-through.,7,2.09,beginner,https://subskills.xyz/tennis/serve-technique
+tennis,return-of-serve,Return of Serve,Prepare and time the service return with a split step.,8,2.27,beginner,https://subskills.xyz/tennis/return-of-serve
+tennis,volley,Volley Technique,Punch clean forehand and backhand volleys at the net.,9,2.45,intermediate,https://subskills.xyz/tennis/volley
+tennis,topspin,Generating Topspin,Brush up the ball to create heavy topspin on groundstrokes.,10,2.64,intermediate,https://subskills.xyz/tennis/topspin
+tennis,second-serve,Second serve,"Build a reliable second serve with spin, depth and margin.",11,2.82,intermediate,https://subskills.xyz/tennis/second-serve
+tennis,approach-shot,Approach shot,Move forward behind the right ball and take the net.,12,3.00,intermediate,https://subskills.xyz/tennis/approach-shot
+tennis,tennis-elbow,Tennis elbow,Manage and rehab lateral elbow pain.,13,3.18,intermediate,https://subskills.xyz/tennis/tennis-elbow
+tennis,lob,Lob,Hit offensive and defensive lobs over the net player.,14,3.36,intermediate,https://subskills.xyz/tennis/lob
+tennis,overhead-smash,Overhead Smash,Track and put away high balls with the overhead.,15,3.55,intermediate,https://subskills.xyz/tennis/overhead-smash
+tennis,slice-backhand,Slice Backhand,Hit a controlled backspin slice with proper technique.,16,3.73,advanced,https://subskills.xyz/tennis/slice-backhand
+tennis,doubles-strategy,Doubles strategy,"Positioning, poaching and formations for doubles.",17,3.91,advanced,https://subskills.xyz/tennis/doubles-strategy
+tennis,singles-strategy,Singles strategy,"Build points, pick patterns and play the percentages.",18,4.09,advanced,https://subskills.xyz/tennis/singles-strategy
+tennis,drop-shot,Drop shot,Disguise and float the drop shot to pull opponents forward.,19,4.27,advanced,https://subskills.xyz/tennis/drop-shot
+tennis,half-volley,Half volley,Handle the ball off the bounce in transition.,20,4.45,advanced,https://subskills.xyz/tennis/half-volley
+tennis,slice-serve,Slice serve,Curve the ball away with a slice serve to open the court.,21,4.64,advanced,https://subskills.xyz/tennis/slice-serve
+tennis,kick-serve,Kick Serve,Generate topspin on the second serve for safety and bounce.,22,4.82,advanced,https://subskills.xyz/tennis/kick-serve
+tennis,one-handed-backhand,One-Handed Backhand,Learn the technique and timing of the one-handed backhand.,23,5.00,advanced,https://subskills.xyz/tennis/one-handed-backhand
+yoga,yoga-for-beginners,Yoga for beginners,"Your first yoga class, step by step.",1,1.00,beginner,https://subskills.xyz/yoga/yoga-for-beginners
+yoga,pranayama-breathing,Pranayama (Breath Control),Practice foundational breathing techniques such as ujjayi and box breathing.,2,1.19,beginner,https://subskills.xyz/yoga/pranayama-breathing
+yoga,restorative-yoga,Restorative yoga,Fully supported poses for rest and recovery.,3,1.38,beginner,https://subskills.xyz/yoga/restorative-yoga
+yoga,yoga-for-back-pain,Yoga for back pain,Safe sequences to ease and prevent back pain.,4,1.57,beginner,https://subskills.xyz/yoga/yoga-for-back-pain
+yoga,downward-dog,Downward-Facing Dog Alignment,Set up and align the foundational inversion to protect wrists and lengthen the spine.,5,1.76,beginner,https://subskills.xyz/yoga/downward-dog
+yoga,tree-pose-balance,Tree Pose & Standing Balance,Develop single-leg balance and focal-point technique in tree pose.,6,1.95,beginner,https://subskills.xyz/yoga/tree-pose-balance
+yoga,warrior-poses,"Warrior I, II & III","Establish stance, hip alignment, and balance across the three warrior standing poses.",7,2.14,beginner,https://subskills.xyz/yoga/warrior-poses
+yoga,seated-forward-fold,Seated Forward Fold,Hinge from the hips safely to stretch hamstrings without rounding the spine.,8,2.33,beginner,https://subskills.xyz/yoga/seated-forward-fold
+yoga,seated-spinal-twist,Seated spinal twist,Rotate the spine safely from a seated position.,9,2.52,intermediate,https://subskills.xyz/yoga/seated-spinal-twist
+yoga,chaturanga,Chaturanga Dandasana,Build the low-plank push-up with correct elbow and shoulder positioning.,10,2.71,intermediate,https://subskills.xyz/yoga/chaturanga
+yoga,sun-salutation,Sun Salutation (Surya Namaskar),Learn the linked flow sequence that warms the body and links breath to movement.,11,2.90,intermediate,https://subskills.xyz/yoga/sun-salutation
+yoga,triangle-pose,Triangle pose,"Align hips, ribs and reach in Trikonasana.",12,3.10,intermediate,https://subskills.xyz/yoga/triangle-pose
+yoga,yin-yoga,Yin yoga,Long-held floor poses for deep connective-tissue release.,13,3.29,intermediate,https://subskills.xyz/yoga/yin-yoga
+yoga,hip-openers,Hip-Opening Poses,"Safely access pigeon, lizard, and related deep hip stretches.",14,3.48,intermediate,https://subskills.xyz/yoga/hip-openers
+yoga,bridge-wheel-backbend,Bridge & Wheel Backbends,Open the chest and build backbend strength from bridge toward wheel.,15,3.67,intermediate,https://subskills.xyz/yoga/bridge-wheel-backbend
+yoga,camel-pose,Camel pose,Open the chest in Ustrasana without crunching the low back.,16,3.86,advanced,https://subskills.xyz/yoga/camel-pose
+yoga,shoulderstand,Shoulderstand,Build a supported shoulderstand and plough safely.,17,4.05,advanced,https://subskills.xyz/yoga/shoulderstand
+yoga,crow-pose,Crow Pose (Bakasana),"Learn the arm-balance entry, weight shift, and gaze for crow pose.",18,4.24,advanced,https://subskills.xyz/yoga/crow-pose
+yoga,splits,How to do the splits,Progress hamstring and hip flexor range toward a split.,19,4.43,advanced,https://subskills.xyz/yoga/splits
+yoga,headstand,Headstand (Sirsasana),"Build a safe, controlled headstand.",20,4.62,advanced,https://subskills.xyz/yoga/headstand
+yoga,forearm-stand,Forearm stand (Pincha Mayurasana),Work toward a balanced forearm stand.,21,4.81,advanced,https://subskills.xyz/yoga/forearm-stand
+yoga,handstand,Handstand,Drills and progressions toward a handstand.,22,5.00,advanced,https://subskills.xyz/yoga/handstand

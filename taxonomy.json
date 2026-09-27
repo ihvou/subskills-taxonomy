@@ -1,0 +1,5147 @@
+{
+  "source": "https://subskills.xyz",
+  "license": "CC BY 4.0",
+  "snapshot": "2026-09-27",
+  "sports": [
+    {
+      "sport": "badminton",
+      "name": "Badminton",
+      "sub_skills": [
+        {
+          "sub_skill": "choosing-a-badminton-racket",
+          "name": "How to choose a badminton racket",
+          "description": "Match weight, balance and flex to your game.",
+          "learning_order": 1,
+          "difficulty": 1,
+          "level": "beginner",
+          "url": "https://subskills.xyz/badminton/choosing-a-badminton-racket"
+        },
+        {
+          "sub_skill": "badminton-rules",
+          "name": "Badminton rules explained",
+          "description": "Scoring, service rules, court boundaries and lets.",
+          "learning_order": 2,
+          "difficulty": 1.13,
+          "level": "beginner",
+          "url": "https://subskills.xyz/badminton/badminton-rules"
+        },
+        {
+          "sub_skill": "badminton-warm-up",
+          "name": "Badminton warm up",
+          "description": "Prepare shoulders, hips and ankles before playing.",
+          "learning_order": 3,
+          "difficulty": 1.26,
+          "level": "beginner",
+          "url": "https://subskills.xyz/badminton/badminton-warm-up"
+        },
+        {
+          "sub_skill": "grip-technique",
+          "name": "Grip technique",
+          "description": "Switch between forehand, backhand, bevel, and panhandle grips cleanly.",
+          "learning_order": 4,
+          "difficulty": 1.39,
+          "level": "beginner",
+          "url": "https://subskills.xyz/badminton/grip-technique"
+        },
+        {
+          "sub_skill": "serve-low",
+          "name": "Serve (low)",
+          "description": "Keep low serves tight and legal for doubles and singles pressure.",
+          "learning_order": 5,
+          "difficulty": 1.52,
+          "level": "beginner",
+          "url": "https://subskills.xyz/badminton/serve-low"
+        },
+        {
+          "sub_skill": "serve-high",
+          "name": "High serve",
+          "description": "Use a high serve to start singles rallies with depth and height.",
+          "learning_order": 6,
+          "difficulty": 1.65,
+          "level": "beginner",
+          "url": "https://subskills.xyz/badminton/serve-high"
+        },
+        {
+          "sub_skill": "return-of-serve",
+          "name": "Return of serve",
+          "description": "Win the serve-receive battle in singles and doubles.",
+          "learning_order": 7,
+          "difficulty": 1.77,
+          "level": "beginner",
+          "url": "https://subskills.xyz/badminton/return-of-serve"
+        },
+        {
+          "sub_skill": "footwork-split-step",
+          "name": "Footwork (split step)",
+          "description": "Time the split step to react explosively to the opponent's hit.",
+          "learning_order": 8,
+          "difficulty": 1.9,
+          "level": "beginner",
+          "url": "https://subskills.xyz/badminton/footwork-split-step"
+        },
+        {
+          "sub_skill": "footwork-front-court",
+          "name": "Footwork (front court)",
+          "description": "Move efficiently into lunges and recover from front-court shots.",
+          "learning_order": 9,
+          "difficulty": 2.03,
+          "level": "beginner",
+          "url": "https://subskills.xyz/badminton/footwork-front-court"
+        },
+        {
+          "sub_skill": "footwork-rear-court",
+          "name": "Footwork (rear court)",
+          "description": "Reach rear-court corners with chasse, scissor, and recovery steps.",
+          "learning_order": 10,
+          "difficulty": 2.16,
+          "level": "beginner",
+          "url": "https://subskills.xyz/badminton/footwork-rear-court"
+        },
+        {
+          "sub_skill": "forehand-clear",
+          "name": "Forehand clear",
+          "description": "Send the shuttle deep from the rear court with a relaxed overhead action.",
+          "learning_order": 11,
+          "difficulty": 2.29,
+          "level": "beginner",
+          "url": "https://subskills.xyz/badminton/forehand-clear"
+        },
+        {
+          "sub_skill": "lift",
+          "name": "Lift",
+          "description": "Lift from the front court to reset rallies or move opponents backward.",
+          "learning_order": 12,
+          "difficulty": 2.42,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/badminton/lift"
+        },
+        {
+          "sub_skill": "net-shot",
+          "name": "Net shot",
+          "description": "Control tight spinning replies close to the tape.",
+          "learning_order": 13,
+          "difficulty": 2.55,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/badminton/net-shot"
+        },
+        {
+          "sub_skill": "drop-shot",
+          "name": "Drop shot",
+          "description": "Disguise soft overhead shots that pull opponents into the front court.",
+          "learning_order": 14,
+          "difficulty": 2.68,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/badminton/drop-shot"
+        },
+        {
+          "sub_skill": "push",
+          "name": "Push",
+          "description": "Push the shuttle into open mid-court spaces with quick racket preparation.",
+          "learning_order": 15,
+          "difficulty": 2.81,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/badminton/push"
+        },
+        {
+          "sub_skill": "drive",
+          "name": "Drive",
+          "description": "Play fast flat exchanges through the mid-court with compact preparation.",
+          "learning_order": 16,
+          "difficulty": 2.94,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/badminton/drive"
+        },
+        {
+          "sub_skill": "defense-block",
+          "name": "Defense (block)",
+          "description": "Absorb smashes and guide controlled blocks into the front court.",
+          "learning_order": 17,
+          "difficulty": 3.06,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/badminton/defense-block"
+        },
+        {
+          "sub_skill": "defense-lift",
+          "name": "Defense (lift)",
+          "description": "Defend hard attacks by lifting high and deep under pressure.",
+          "learning_order": 18,
+          "difficulty": 3.19,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/badminton/defense-lift"
+        },
+        {
+          "sub_skill": "forehand-smash",
+          "name": "Forehand smash",
+          "description": "Generate steep power from rotation, timing, contact point, and follow-through.",
+          "learning_order": 19,
+          "difficulty": 3.32,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/badminton/forehand-smash"
+        },
+        {
+          "sub_skill": "doubles-rotation",
+          "name": "Doubles rotation",
+          "description": "Coordinate attack, defense, and side-by-side rotations with a partner.",
+          "learning_order": 20,
+          "difficulty": 3.45,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/badminton/doubles-rotation"
+        },
+        {
+          "sub_skill": "singles-strategy",
+          "name": "Singles strategy",
+          "description": "Construct rallies with space, patience, tempo, and recovery position.",
+          "learning_order": 21,
+          "difficulty": 3.58,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/badminton/singles-strategy"
+        },
+        {
+          "sub_skill": "serve-flick",
+          "name": "Serve (flick)",
+          "description": "Flick the serve past the receiver to punish a tight stance.",
+          "learning_order": 22,
+          "difficulty": 3.71,
+          "level": "advanced",
+          "url": "https://subskills.xyz/badminton/serve-flick"
+        },
+        {
+          "sub_skill": "net-kill",
+          "name": "Net kill",
+          "description": "Finish loose net shots with a fast, controlled kill.",
+          "learning_order": 23,
+          "difficulty": 3.84,
+          "level": "advanced",
+          "url": "https://subskills.xyz/badminton/net-kill"
+        },
+        {
+          "sub_skill": "cross-court-net-shot",
+          "name": "Cross court net shot",
+          "description": "Play a tight net shot across the court to move the opponent.",
+          "learning_order": 24,
+          "difficulty": 3.97,
+          "level": "advanced",
+          "url": "https://subskills.xyz/badminton/cross-court-net-shot"
+        },
+        {
+          "sub_skill": "around-the-head",
+          "name": "Round the head shot",
+          "description": "Play the round-the-head clear, drop and smash.",
+          "learning_order": 25,
+          "difficulty": 4.1,
+          "level": "advanced",
+          "url": "https://subskills.xyz/badminton/around-the-head"
+        },
+        {
+          "sub_skill": "stringing-and-tension",
+          "name": "Stringing and tension",
+          "description": "Understand string choice and tension tradeoffs for feel, control, and power.",
+          "learning_order": 26,
+          "difficulty": 4.23,
+          "level": "advanced",
+          "url": "https://subskills.xyz/badminton/stringing-and-tension"
+        },
+        {
+          "sub_skill": "wrist-rotation",
+          "name": "Wrist rotation",
+          "description": "Use forearm and wrist rotation for deception, speed, and control.",
+          "learning_order": 27,
+          "difficulty": 4.35,
+          "level": "advanced",
+          "url": "https://subskills.xyz/badminton/wrist-rotation"
+        },
+        {
+          "sub_skill": "deception",
+          "name": "Deception",
+          "description": "Disguise shots so every stroke starts the same way.",
+          "learning_order": 28,
+          "difficulty": 4.48,
+          "level": "advanced",
+          "url": "https://subskills.xyz/badminton/deception"
+        },
+        {
+          "sub_skill": "jump-smash",
+          "name": "Jump smash",
+          "description": "Time the take-off, scissor kick and landing for a jump smash.",
+          "learning_order": 29,
+          "difficulty": 4.61,
+          "level": "advanced",
+          "url": "https://subskills.xyz/badminton/jump-smash"
+        },
+        {
+          "sub_skill": "backhand-clear",
+          "name": "Backhand clear",
+          "description": "Recover from pressure with a compact backhand clear toward the rear court.",
+          "learning_order": 30,
+          "difficulty": 4.74,
+          "level": "advanced",
+          "url": "https://subskills.xyz/badminton/backhand-clear"
+        },
+        {
+          "sub_skill": "backhand-smash",
+          "name": "Backhand smash",
+          "description": "Use a short backhand action to attack from awkward rear-court positions.",
+          "learning_order": 31,
+          "difficulty": 4.87,
+          "level": "advanced",
+          "url": "https://subskills.xyz/badminton/backhand-smash"
+        },
+        {
+          "sub_skill": "mixed-doubles-tactics",
+          "name": "Mixed doubles tactics",
+          "description": "Roles, rotation and positioning in mixed doubles.",
+          "learning_order": 32,
+          "difficulty": 5,
+          "level": "advanced",
+          "url": "https://subskills.xyz/badminton/mixed-doubles-tactics"
+        }
+      ],
+      "url": "https://subskills.xyz/badminton"
+    },
+    {
+      "sport": "boxing",
+      "name": "Boxing",
+      "sub_skills": [
+        {
+          "sub_skill": "choosing-boxing-gloves",
+          "name": "How to choose boxing gloves",
+          "description": "Pick glove weight and type for bag, pads and sparring.",
+          "learning_order": 1,
+          "difficulty": 1,
+          "level": "beginner",
+          "url": "https://subskills.xyz/boxing/choosing-boxing-gloves"
+        },
+        {
+          "sub_skill": "hand-wrapping",
+          "name": "Hand wrapping",
+          "description": "Wrap your hands to protect the wrist and knuckles.",
+          "learning_order": 2,
+          "difficulty": 1.18,
+          "level": "beginner",
+          "url": "https://subskills.xyz/boxing/hand-wrapping"
+        },
+        {
+          "sub_skill": "stance-guard",
+          "name": "Stance & Guard",
+          "description": "Set up a balanced stance and protective guard.",
+          "learning_order": 3,
+          "difficulty": 1.36,
+          "level": "beginner",
+          "url": "https://subskills.xyz/boxing/stance-guard"
+        },
+        {
+          "sub_skill": "jab",
+          "name": "The Jab",
+          "description": "Throw a fast, technically correct jab and return to guard.",
+          "learning_order": 4,
+          "difficulty": 1.55,
+          "level": "beginner",
+          "url": "https://subskills.xyz/boxing/jab"
+        },
+        {
+          "sub_skill": "cross",
+          "name": "The Cross (Straight Right)",
+          "description": "Drive the rear-hand straight with hip rotation.",
+          "learning_order": 5,
+          "difficulty": 1.73,
+          "level": "beginner",
+          "url": "https://subskills.xyz/boxing/cross"
+        },
+        {
+          "sub_skill": "footwork",
+          "name": "Footwork",
+          "description": "Move in, out, and laterally while staying balanced.",
+          "learning_order": 6,
+          "difficulty": 1.91,
+          "level": "beginner",
+          "url": "https://subskills.xyz/boxing/footwork"
+        },
+        {
+          "sub_skill": "shadow-boxing",
+          "name": "Shadow Boxing",
+          "description": "Drill technique, rhythm, and movement without equipment.",
+          "learning_order": 7,
+          "difficulty": 2.09,
+          "level": "beginner",
+          "url": "https://subskills.xyz/boxing/shadow-boxing"
+        },
+        {
+          "sub_skill": "heavy-bag-work",
+          "name": "Heavy Bag Technique",
+          "description": "Apply technique with proper form and power on the heavy bag.",
+          "learning_order": 8,
+          "difficulty": 2.27,
+          "level": "beginner",
+          "url": "https://subskills.xyz/boxing/heavy-bag-work"
+        },
+        {
+          "sub_skill": "boxer-skip",
+          "name": "Boxer skip",
+          "description": "Skip with the boxer's step to build rhythm and footwork.",
+          "learning_order": 9,
+          "difficulty": 2.45,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/boxing/boxer-skip"
+        },
+        {
+          "sub_skill": "hook",
+          "name": "The Hook",
+          "description": "Throw lead and rear hooks with correct elbow and pivot.",
+          "learning_order": 10,
+          "difficulty": 2.64,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/boxing/hook"
+        },
+        {
+          "sub_skill": "uppercut",
+          "name": "The Uppercut",
+          "description": "Generate upward power from the legs and core.",
+          "learning_order": 11,
+          "difficulty": 2.82,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/boxing/uppercut"
+        },
+        {
+          "sub_skill": "defense-blocking",
+          "name": "Blocking & Parrying",
+          "description": "Block and parry incoming shots while keeping guard.",
+          "learning_order": 12,
+          "difficulty": 3,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/boxing/defense-blocking"
+        },
+        {
+          "sub_skill": "combinations",
+          "name": "Punch Combinations",
+          "description": "Chain punches together fluidly with proper sequencing.",
+          "learning_order": 13,
+          "difficulty": 3.18,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/boxing/combinations"
+        },
+        {
+          "sub_skill": "head-movement-slipping",
+          "name": "Head Movement & Slipping",
+          "description": "Slip, roll, and weave to evade punches.",
+          "learning_order": 14,
+          "difficulty": 3.36,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/boxing/head-movement-slipping"
+        },
+        {
+          "sub_skill": "body-punching",
+          "name": "Body punching",
+          "description": "Hooks, straights and uppercuts to the body.",
+          "learning_order": 15,
+          "difficulty": 3.55,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/boxing/body-punching"
+        },
+        {
+          "sub_skill": "pad-work",
+          "name": "Pad work",
+          "description": "Hold and work the focus mitts with clean combinations.",
+          "learning_order": 16,
+          "difficulty": 3.73,
+          "level": "advanced",
+          "url": "https://subskills.xyz/boxing/pad-work"
+        },
+        {
+          "sub_skill": "distance-range",
+          "name": "Distance and range management",
+          "description": "Control the gap and choose the punch the range allows.",
+          "learning_order": 17,
+          "difficulty": 3.91,
+          "level": "advanced",
+          "url": "https://subskills.xyz/boxing/distance-range"
+        },
+        {
+          "sub_skill": "sparring-fundamentals",
+          "name": "Sparring fundamentals",
+          "description": "Start sparring safely with the right intensity and etiquette.",
+          "learning_order": 18,
+          "difficulty": 4.09,
+          "level": "advanced",
+          "url": "https://subskills.xyz/boxing/sparring-fundamentals"
+        },
+        {
+          "sub_skill": "counter-punching",
+          "name": "Counter-punching",
+          "description": "Read, slip and answer with the right counter.",
+          "learning_order": 19,
+          "difficulty": 4.27,
+          "level": "advanced",
+          "url": "https://subskills.xyz/boxing/counter-punching"
+        },
+        {
+          "sub_skill": "feinting",
+          "name": "Feinting",
+          "description": "Sell a shot you do not throw to open up the real one.",
+          "learning_order": 20,
+          "difficulty": 4.45,
+          "level": "advanced",
+          "url": "https://subskills.xyz/boxing/feinting"
+        },
+        {
+          "sub_skill": "double-end-bag",
+          "name": "Double end bag",
+          "description": "Build timing and accuracy on the double end bag.",
+          "learning_order": 21,
+          "difficulty": 4.64,
+          "level": "advanced",
+          "url": "https://subskills.xyz/boxing/double-end-bag"
+        },
+        {
+          "sub_skill": "cutting-off-the-ring",
+          "name": "How to cut off the ring",
+          "description": "Herd a moving opponent instead of chasing them.",
+          "learning_order": 22,
+          "difficulty": 4.82,
+          "level": "advanced",
+          "url": "https://subskills.xyz/boxing/cutting-off-the-ring"
+        },
+        {
+          "sub_skill": "beating-a-southpaw",
+          "name": "How to beat a southpaw",
+          "description": "Angles, foot position and the shots that work against southpaws.",
+          "learning_order": 23,
+          "difficulty": 5,
+          "level": "advanced",
+          "url": "https://subskills.xyz/boxing/beating-a-southpaw"
+        }
+      ],
+      "url": "https://subskills.xyz/boxing"
+    },
+    {
+      "sport": "bjj",
+      "name": "Brazilian jiu-jitsu",
+      "sub_skills": [
+        {
+          "sub_skill": "bjj-for-beginners",
+          "name": "BJJ for beginners",
+          "description": "What happens in your first class, what to bring and how to survive it.",
+          "learning_order": 1,
+          "difficulty": 1,
+          "level": "beginner",
+          "url": "https://subskills.xyz/bjj/bjj-for-beginners"
+        },
+        {
+          "sub_skill": "bjj-belt-system",
+          "name": "BJJ belt system",
+          "description": "How the belts and stripes work and what each level means.",
+          "learning_order": 2,
+          "difficulty": 1.11,
+          "level": "beginner",
+          "url": "https://subskills.xyz/bjj/bjj-belt-system"
+        },
+        {
+          "sub_skill": "breakfalls",
+          "name": "Breakfalls",
+          "description": "Land safely from throws and takedowns.",
+          "learning_order": 3,
+          "difficulty": 1.21,
+          "level": "beginner",
+          "url": "https://subskills.xyz/bjj/breakfalls"
+        },
+        {
+          "sub_skill": "hip-escape-shrimp",
+          "name": "Hip escape (shrimp)",
+          "description": "The core movement for creating space and escaping bottom positions.",
+          "learning_order": 4,
+          "difficulty": 1.32,
+          "level": "beginner",
+          "url": "https://subskills.xyz/bjj/hip-escape-shrimp"
+        },
+        {
+          "sub_skill": "bridging",
+          "name": "Bridging",
+          "description": "Use the hips to lift and off-balance an opponent on top.",
+          "learning_order": 5,
+          "difficulty": 1.42,
+          "level": "beginner",
+          "url": "https://subskills.xyz/bjj/bridging"
+        },
+        {
+          "sub_skill": "posture-and-base",
+          "name": "Posture and base",
+          "description": "Stay upright and heavy so you are hard to sweep or submit.",
+          "learning_order": 6,
+          "difficulty": 1.53,
+          "level": "beginner",
+          "url": "https://subskills.xyz/bjj/posture-and-base"
+        },
+        {
+          "sub_skill": "closed-guard",
+          "name": "Closed guard",
+          "description": "Control, break posture and attack from closed guard.",
+          "learning_order": 7,
+          "difficulty": 1.63,
+          "level": "beginner",
+          "url": "https://subskills.xyz/bjj/closed-guard"
+        },
+        {
+          "sub_skill": "mount",
+          "name": "Mount",
+          "description": "Keep the mount and stop your opponent bucking you off.",
+          "learning_order": 8,
+          "difficulty": 1.74,
+          "level": "beginner",
+          "url": "https://subskills.xyz/bjj/mount"
+        },
+        {
+          "sub_skill": "side-control",
+          "name": "Side control",
+          "description": "Hold and apply pressure from side control.",
+          "learning_order": 9,
+          "difficulty": 1.84,
+          "level": "beginner",
+          "url": "https://subskills.xyz/bjj/side-control"
+        },
+        {
+          "sub_skill": "mount-escape",
+          "name": "Mount escape",
+          "description": "Escape the mount with the bridge-and-roll and elbow-knee escape.",
+          "learning_order": 10,
+          "difficulty": 1.95,
+          "level": "beginner",
+          "url": "https://subskills.xyz/bjj/mount-escape"
+        },
+        {
+          "sub_skill": "side-control-escape",
+          "name": "Side control escape",
+          "description": "Frame, shrimp and recover guard from under side control.",
+          "learning_order": 11,
+          "difficulty": 2.05,
+          "level": "beginner",
+          "url": "https://subskills.xyz/bjj/side-control-escape"
+        },
+        {
+          "sub_skill": "scissor-sweep",
+          "name": "Scissor sweep",
+          "description": "The fundamental closed-guard sweep every white belt learns.",
+          "learning_order": 12,
+          "difficulty": 2.16,
+          "level": "beginner",
+          "url": "https://subskills.xyz/bjj/scissor-sweep"
+        },
+        {
+          "sub_skill": "armbar",
+          "name": "Armbar",
+          "description": "Attack the armbar from guard and mount.",
+          "learning_order": 13,
+          "difficulty": 2.26,
+          "level": "beginner",
+          "url": "https://subskills.xyz/bjj/armbar"
+        },
+        {
+          "sub_skill": "half-guard",
+          "name": "Half guard",
+          "description": "Play and recover from half guard instead of getting flattened.",
+          "learning_order": 14,
+          "difficulty": 2.37,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/bjj/half-guard"
+        },
+        {
+          "sub_skill": "back-control",
+          "name": "Back control",
+          "description": "Take and keep the back with hooks and seatbelt grip.",
+          "learning_order": 15,
+          "difficulty": 2.47,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/bjj/back-control"
+        },
+        {
+          "sub_skill": "back-escape",
+          "name": "Back escape",
+          "description": "Strip the hooks and escape back control before the choke.",
+          "learning_order": 16,
+          "difficulty": 2.58,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/bjj/back-escape"
+        },
+        {
+          "sub_skill": "hip-bump-sweep",
+          "name": "Hip bump sweep",
+          "description": "Sit up and bump to reverse the position from guard.",
+          "learning_order": 17,
+          "difficulty": 2.68,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/bjj/hip-bump-sweep"
+        },
+        {
+          "sub_skill": "americana",
+          "name": "Americana",
+          "description": "Finish the americana shoulder lock from mount and side control.",
+          "learning_order": 18,
+          "difficulty": 2.79,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/bjj/americana"
+        },
+        {
+          "sub_skill": "kimura",
+          "name": "Kimura",
+          "description": "Attack the kimura from guard, side control and half guard.",
+          "learning_order": 19,
+          "difficulty": 2.89,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/bjj/kimura"
+        },
+        {
+          "sub_skill": "rear-naked-choke",
+          "name": "Rear naked choke",
+          "description": "Finish the rear naked choke from back control.",
+          "learning_order": 20,
+          "difficulty": 3,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/bjj/rear-naked-choke"
+        },
+        {
+          "sub_skill": "triangle-choke",
+          "name": "Triangle choke",
+          "description": "Set up, lock and finish the triangle.",
+          "learning_order": 21,
+          "difficulty": 3.11,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/bjj/triangle-choke"
+        },
+        {
+          "sub_skill": "guillotine-choke",
+          "name": "Guillotine choke",
+          "description": "Catch and finish the guillotine, high elbow and arm-in.",
+          "learning_order": 22,
+          "difficulty": 3.21,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/bjj/guillotine-choke"
+        },
+        {
+          "sub_skill": "breaking-closed-guard",
+          "name": "Breaking closed guard",
+          "description": "Open a locked closed guard before you can start passing.",
+          "learning_order": 23,
+          "difficulty": 3.32,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/bjj/breaking-closed-guard"
+        },
+        {
+          "sub_skill": "toreando-pass",
+          "name": "Toreando pass",
+          "description": "Pass by controlling the legs and moving around them.",
+          "learning_order": 24,
+          "difficulty": 3.42,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/bjj/toreando-pass"
+        },
+        {
+          "sub_skill": "knee-cut-pass",
+          "name": "Knee cut pass",
+          "description": "Cut through the guard with a knee slice.",
+          "learning_order": 25,
+          "difficulty": 3.53,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/bjj/knee-cut-pass"
+        },
+        {
+          "sub_skill": "competition-points-and-rules",
+          "name": "Competition points and rules",
+          "description": "How points, advantages and penalties work in a BJJ match.",
+          "learning_order": 26,
+          "difficulty": 3.63,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/bjj/competition-points-and-rules"
+        },
+        {
+          "sub_skill": "gi-vs-no-gi",
+          "name": "Gi vs no-gi",
+          "description": "How grips, pace and technique differ between gi and no-gi.",
+          "learning_order": 27,
+          "difficulty": 3.74,
+          "level": "advanced",
+          "url": "https://subskills.xyz/bjj/gi-vs-no-gi"
+        },
+        {
+          "sub_skill": "arm-triangle",
+          "name": "Arm triangle",
+          "description": "Finish the head-and-arm choke from mount and side control.",
+          "learning_order": 28,
+          "difficulty": 3.84,
+          "level": "advanced",
+          "url": "https://subskills.xyz/bjj/arm-triangle"
+        },
+        {
+          "sub_skill": "open-guard",
+          "name": "Open guard",
+          "description": "Use grips and frames to control distance in open guard.",
+          "learning_order": 29,
+          "difficulty": 3.95,
+          "level": "advanced",
+          "url": "https://subskills.xyz/bjj/open-guard"
+        },
+        {
+          "sub_skill": "guard-retention",
+          "name": "Guard retention",
+          "description": "Stop your guard being passed with frames, hips and timing.",
+          "learning_order": 30,
+          "difficulty": 4.05,
+          "level": "advanced",
+          "url": "https://subskills.xyz/bjj/guard-retention"
+        },
+        {
+          "sub_skill": "butterfly-guard",
+          "name": "Butterfly guard",
+          "description": "Elevate and off-balance with butterfly hooks.",
+          "learning_order": 31,
+          "difficulty": 4.16,
+          "level": "advanced",
+          "url": "https://subskills.xyz/bjj/butterfly-guard"
+        },
+        {
+          "sub_skill": "butterfly-sweep",
+          "name": "Butterfly sweep",
+          "description": "Elevate and sweep with the butterfly hook.",
+          "learning_order": 32,
+          "difficulty": 4.26,
+          "level": "advanced",
+          "url": "https://subskills.xyz/bjj/butterfly-sweep"
+        },
+        {
+          "sub_skill": "knee-on-belly",
+          "name": "Knee on belly",
+          "description": "Hold, attack and transition from knee on belly.",
+          "learning_order": 33,
+          "difficulty": 4.37,
+          "level": "advanced",
+          "url": "https://subskills.xyz/bjj/knee-on-belly"
+        },
+        {
+          "sub_skill": "turtle-position",
+          "name": "Turtle position",
+          "description": "Attack and defend the turtle.",
+          "learning_order": 34,
+          "difficulty": 4.47,
+          "level": "advanced",
+          "url": "https://subskills.xyz/bjj/turtle-position"
+        },
+        {
+          "sub_skill": "leg-drag-pass",
+          "name": "Leg drag pass",
+          "description": "Drag the legs across to pass and take the back.",
+          "learning_order": 35,
+          "difficulty": 4.58,
+          "level": "advanced",
+          "url": "https://subskills.xyz/bjj/leg-drag-pass"
+        },
+        {
+          "sub_skill": "double-leg-takedown",
+          "name": "Double leg takedown",
+          "description": "Shoot, penetrate and finish the double leg.",
+          "learning_order": 36,
+          "difficulty": 4.68,
+          "level": "advanced",
+          "url": "https://subskills.xyz/bjj/double-leg-takedown"
+        },
+        {
+          "sub_skill": "single-leg-takedown",
+          "name": "Single leg takedown",
+          "description": "Take and finish the single leg.",
+          "learning_order": 37,
+          "difficulty": 4.79,
+          "level": "advanced",
+          "url": "https://subskills.xyz/bjj/single-leg-takedown"
+        },
+        {
+          "sub_skill": "omoplata",
+          "name": "Omoplata",
+          "description": "Attack the shoulder lock with the legs from guard.",
+          "learning_order": 38,
+          "difficulty": 4.89,
+          "level": "advanced",
+          "url": "https://subskills.xyz/bjj/omoplata"
+        },
+        {
+          "sub_skill": "de-la-riva-guard",
+          "name": "De la Riva guard",
+          "description": "Use the De la Riva hook to control and off-balance a standing opponent.",
+          "learning_order": 39,
+          "difficulty": 5,
+          "level": "advanced",
+          "url": "https://subskills.xyz/bjj/de-la-riva-guard"
+        }
+      ],
+      "url": "https://subskills.xyz/bjj"
+    },
+    {
+      "sport": "chess",
+      "name": "Chess",
+      "sub_skills": [
+        {
+          "sub_skill": "rules-for-beginners",
+          "name": "Rules for beginners",
+          "description": "How the pieces move, check, mate, stalemate and the special moves.",
+          "learning_order": 1,
+          "difficulty": 1,
+          "level": "beginner",
+          "url": "https://subskills.xyz/chess/rules-for-beginners"
+        },
+        {
+          "sub_skill": "notation",
+          "name": "Notation",
+          "description": "Read and write algebraic notation.",
+          "learning_order": 2,
+          "difficulty": 1.14,
+          "level": "beginner",
+          "url": "https://subskills.xyz/chess/notation"
+        },
+        {
+          "sub_skill": "opening-principles",
+          "name": "Opening principles",
+          "description": "Centre, development, castling early and keeping the queen home.",
+          "learning_order": 3,
+          "difficulty": 1.28,
+          "level": "beginner",
+          "url": "https://subskills.xyz/chess/opening-principles"
+        },
+        {
+          "sub_skill": "hanging-pieces-and-blunders",
+          "name": "Hanging pieces and how to stop blundering",
+          "description": "The check-before-you-move habit.",
+          "learning_order": 4,
+          "difficulty": 1.41,
+          "level": "beginner",
+          "url": "https://subskills.xyz/chess/hanging-pieces-and-blunders"
+        },
+        {
+          "sub_skill": "how-to-study-chess",
+          "name": "How to study chess",
+          "description": "A structured plan for improving.",
+          "learning_order": 5,
+          "difficulty": 1.55,
+          "level": "beginner",
+          "url": "https://subskills.xyz/chess/how-to-study-chess"
+        },
+        {
+          "sub_skill": "punishing-scholars-mate",
+          "name": "How to punish Scholar's mate",
+          "description": "Beat the early queen attack every beginner faces.",
+          "learning_order": 6,
+          "difficulty": 1.69,
+          "level": "beginner",
+          "url": "https://subskills.xyz/chess/punishing-scholars-mate"
+        },
+        {
+          "sub_skill": "forks",
+          "name": "Forks",
+          "description": "Attack two things at once with one piece.",
+          "learning_order": 7,
+          "difficulty": 1.83,
+          "level": "beginner",
+          "url": "https://subskills.xyz/chess/forks"
+        },
+        {
+          "sub_skill": "pins-and-skewers",
+          "name": "Pins and skewers",
+          "description": "Freeze a piece, or force a valuable one to move.",
+          "learning_order": 8,
+          "difficulty": 1.97,
+          "level": "beginner",
+          "url": "https://subskills.xyz/chess/pins-and-skewers"
+        },
+        {
+          "sub_skill": "back-rank-mate",
+          "name": "Back rank mate",
+          "description": "Exploit and prevent the trapped-king mate.",
+          "learning_order": 9,
+          "difficulty": 2.1,
+          "level": "beginner",
+          "url": "https://subskills.xyz/chess/back-rank-mate"
+        },
+        {
+          "sub_skill": "king-and-rook-checkmate",
+          "name": "King and rook checkmate",
+          "description": "Force mate with king and rook.",
+          "learning_order": 10,
+          "difficulty": 2.24,
+          "level": "beginner",
+          "url": "https://subskills.xyz/chess/king-and-rook-checkmate"
+        },
+        {
+          "sub_skill": "checkmate-patterns",
+          "name": "Checkmate patterns",
+          "description": "The named mates every player should recognise.",
+          "learning_order": 11,
+          "difficulty": 2.38,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/chess/checkmate-patterns"
+        },
+        {
+          "sub_skill": "discovered-attacks",
+          "name": "Discovered attacks",
+          "description": "Move one piece to unmask another.",
+          "learning_order": 12,
+          "difficulty": 2.52,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/chess/discovered-attacks"
+        },
+        {
+          "sub_skill": "how-to-analyze-your-games",
+          "name": "How to analyze your games",
+          "description": "Review your own games to find what to fix.",
+          "learning_order": 13,
+          "difficulty": 2.66,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/chess/how-to-analyze-your-games"
+        },
+        {
+          "sub_skill": "italian-game",
+          "name": "Italian Game",
+          "description": "A principled 1.e4 opening for white.",
+          "learning_order": 14,
+          "difficulty": 2.79,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/chess/italian-game"
+        },
+        {
+          "sub_skill": "london-system",
+          "name": "London System",
+          "description": "A principled 1.d4 system for white.",
+          "learning_order": 15,
+          "difficulty": 2.93,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/chess/london-system"
+        },
+        {
+          "sub_skill": "opening-traps",
+          "name": "Opening traps",
+          "description": "The traps to set and the ones to avoid.",
+          "learning_order": 16,
+          "difficulty": 3.07,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/chess/opening-traps"
+        },
+        {
+          "sub_skill": "king-and-pawn-endgames",
+          "name": "King and pawn endgames and the opposition",
+          "description": "Win and hold king-and-pawn endings.",
+          "learning_order": 17,
+          "difficulty": 3.21,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/chess/king-and-pawn-endgames"
+        },
+        {
+          "sub_skill": "how-to-calculate",
+          "name": "How to calculate",
+          "description": "Candidate moves, forcing lines and checking your work.",
+          "learning_order": 18,
+          "difficulty": 3.34,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/chess/how-to-calculate"
+        },
+        {
+          "sub_skill": "smothered-mate",
+          "name": "Smothered mate",
+          "description": "Mate with a knight when the king is boxed in.",
+          "learning_order": 19,
+          "difficulty": 3.48,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/chess/smothered-mate"
+        },
+        {
+          "sub_skill": "when-to-trade-pieces",
+          "name": "When to trade pieces",
+          "description": "Trade when it helps you and refuse when it does not.",
+          "learning_order": 20,
+          "difficulty": 3.62,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/chess/when-to-trade-pieces"
+        },
+        {
+          "sub_skill": "pawn-structure",
+          "name": "Pawn structure",
+          "description": "Isolated, doubled, passed and chained pawns.",
+          "learning_order": 21,
+          "difficulty": 3.76,
+          "level": "advanced",
+          "url": "https://subskills.xyz/chess/pawn-structure"
+        },
+        {
+          "sub_skill": "rook-endgames",
+          "name": "Rook endgames",
+          "description": "Rook and pawn fundamentals and king activity.",
+          "learning_order": 22,
+          "difficulty": 3.9,
+          "level": "advanced",
+          "url": "https://subskills.xyz/chess/rook-endgames"
+        },
+        {
+          "sub_skill": "sicilian-defense",
+          "name": "Sicilian Defense",
+          "description": "A principled answer to 1.e4 for black.",
+          "learning_order": 23,
+          "difficulty": 4.03,
+          "level": "advanced",
+          "url": "https://subskills.xyz/chess/sicilian-defense"
+        },
+        {
+          "sub_skill": "attacking-the-castled-king",
+          "name": "Attacking the castled king",
+          "description": "Build and time an attack on the king.",
+          "learning_order": 24,
+          "difficulty": 4.17,
+          "level": "advanced",
+          "url": "https://subskills.xyz/chess/attacking-the-castled-king"
+        },
+        {
+          "sub_skill": "outposts-and-weak-squares",
+          "name": "Outposts and weak squares",
+          "description": "Find and occupy the squares your opponent cannot challenge.",
+          "learning_order": 25,
+          "difficulty": 4.31,
+          "level": "advanced",
+          "url": "https://subskills.xyz/chess/outposts-and-weak-squares"
+        },
+        {
+          "sub_skill": "good-bishop-vs-bad-bishop",
+          "name": "Good bishop vs bad bishop",
+          "description": "Judge bishops by the pawns around them.",
+          "learning_order": 26,
+          "difficulty": 4.45,
+          "level": "advanced",
+          "url": "https://subskills.xyz/chess/good-bishop-vs-bad-bishop"
+        },
+        {
+          "sub_skill": "middlegame-planning",
+          "name": "Middlegame planning",
+          "description": "Find a plan when there is no tactic.",
+          "learning_order": 27,
+          "difficulty": 4.59,
+          "level": "advanced",
+          "url": "https://subskills.xyz/chess/middlegame-planning"
+        },
+        {
+          "sub_skill": "lucena-position",
+          "name": "Lucena position",
+          "description": "The winning rook-ending technique.",
+          "learning_order": 28,
+          "difficulty": 4.72,
+          "level": "advanced",
+          "url": "https://subskills.xyz/chess/lucena-position"
+        },
+        {
+          "sub_skill": "bishop-and-knight-checkmate",
+          "name": "Bishop and knight checkmate",
+          "description": "Force the hardest basic mate.",
+          "learning_order": 29,
+          "difficulty": 4.86,
+          "level": "advanced",
+          "url": "https://subskills.xyz/chess/bishop-and-knight-checkmate"
+        },
+        {
+          "sub_skill": "visualization-training",
+          "name": "Visualization training",
+          "description": "See moves ahead without moving the pieces.",
+          "learning_order": 30,
+          "difficulty": 5,
+          "level": "advanced",
+          "url": "https://subskills.xyz/chess/visualization-training"
+        }
+      ],
+      "url": "https://subskills.xyz/chess"
+    },
+    {
+      "sport": "climbing",
+      "name": "Climbing",
+      "sub_skills": [
+        {
+          "sub_skill": "bouldering-for-beginners",
+          "name": "Bouldering for beginners",
+          "description": "What to expect, how to start and the habits that matter on your first sessions.",
+          "learning_order": 1,
+          "difficulty": 1,
+          "level": "beginner",
+          "url": "https://subskills.xyz/climbing/bouldering-for-beginners"
+        },
+        {
+          "sub_skill": "choosing-climbing-shoes",
+          "name": "Choosing climbing shoes",
+          "description": "Pick fit, shape and stiffness for your level and the climbing you do.",
+          "learning_order": 2,
+          "difficulty": 1.17,
+          "level": "beginner",
+          "url": "https://subskills.xyz/climbing/choosing-climbing-shoes"
+        },
+        {
+          "sub_skill": "climbing-warm-up",
+          "name": "Climbing warm up",
+          "description": "Warm fingers, shoulders and hips before hard climbing.",
+          "learning_order": 3,
+          "difficulty": 1.35,
+          "level": "beginner",
+          "url": "https://subskills.xyz/climbing/climbing-warm-up"
+        },
+        {
+          "sub_skill": "how-to-fall-safely",
+          "name": "How to fall safely",
+          "description": "Fall and land safely when bouldering and on lead.",
+          "learning_order": 4,
+          "difficulty": 1.52,
+          "level": "beginner",
+          "url": "https://subskills.xyz/climbing/how-to-fall-safely"
+        },
+        {
+          "sub_skill": "climbing-footwork",
+          "name": "Climbing footwork",
+          "description": "Place feet precisely and trust them instead of pulling with the arms.",
+          "learning_order": 5,
+          "difficulty": 1.7,
+          "level": "beginner",
+          "url": "https://subskills.xyz/climbing/climbing-footwork"
+        },
+        {
+          "sub_skill": "climbing-grades-explained",
+          "name": "Climbing grades explained",
+          "description": "Understand V-scale, Font, YDS and French grades and how they compare.",
+          "learning_order": 6,
+          "difficulty": 1.87,
+          "level": "beginner",
+          "url": "https://subskills.xyz/climbing/climbing-grades-explained"
+        },
+        {
+          "sub_skill": "how-to-put-on-a-harness",
+          "name": "How to put on a harness",
+          "description": "Fit and wear a climbing harness correctly before you tie in.",
+          "learning_order": 7,
+          "difficulty": 2.04,
+          "level": "beginner",
+          "url": "https://subskills.xyz/climbing/how-to-put-on-a-harness"
+        },
+        {
+          "sub_skill": "how-to-tie-a-figure-8",
+          "name": "How to tie a figure 8",
+          "description": "Tie a figure-8 follow-through into the harness and check it.",
+          "learning_order": 8,
+          "difficulty": 2.22,
+          "level": "beginner",
+          "url": "https://subskills.xyz/climbing/how-to-tie-a-figure-8"
+        },
+        {
+          "sub_skill": "top-rope-belaying",
+          "name": "Top rope belaying",
+          "description": "Belay on top rope with correct hand position and rope management.",
+          "learning_order": 9,
+          "difficulty": 2.39,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/climbing/top-rope-belaying"
+        },
+        {
+          "sub_skill": "reading-routes",
+          "name": "Reading routes",
+          "description": "Work out sequences from the ground before you leave it.",
+          "learning_order": 10,
+          "difficulty": 2.57,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/climbing/reading-routes"
+        },
+        {
+          "sub_skill": "flagging",
+          "name": "Flagging",
+          "description": "Use a free leg as a counterweight to stop barn-dooring.",
+          "learning_order": 11,
+          "difficulty": 2.74,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/climbing/flagging"
+        },
+        {
+          "sub_skill": "rockover",
+          "name": "Rockover",
+          "description": "Transfer weight over a high foot to stand up on it.",
+          "learning_order": 12,
+          "difficulty": 2.91,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/climbing/rockover"
+        },
+        {
+          "sub_skill": "body-tension",
+          "name": "Body tension",
+          "description": "Keep hips in and core engaged so feet stay on steep walls.",
+          "learning_order": 13,
+          "difficulty": 3.09,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/climbing/body-tension"
+        },
+        {
+          "sub_skill": "slab-climbing",
+          "name": "Slab climbing",
+          "description": "Balance and smear on low-angle rock where footwork is everything.",
+          "learning_order": 14,
+          "difficulty": 3.26,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/climbing/slab-climbing"
+        },
+        {
+          "sub_skill": "mantle",
+          "name": "Mantle",
+          "description": "Press over a lip or ledge to top out a boulder.",
+          "learning_order": 15,
+          "difficulty": 3.43,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/climbing/mantle"
+        },
+        {
+          "sub_skill": "crimp-grip",
+          "name": "Crimp grip",
+          "description": "Use half and full crimp safely, and know when to open-hand instead.",
+          "learning_order": 16,
+          "difficulty": 3.61,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/climbing/crimp-grip"
+        },
+        {
+          "sub_skill": "resting-on-the-wall",
+          "name": "Resting on the wall",
+          "description": "Find and use rests to recover and control the pump.",
+          "learning_order": 17,
+          "difficulty": 3.78,
+          "level": "advanced",
+          "url": "https://subskills.xyz/climbing/resting-on-the-wall"
+        },
+        {
+          "sub_skill": "clipping-quickdraws",
+          "name": "Clipping quickdraws",
+          "description": "Clip efficiently and avoid back-clipping and Z-clipping.",
+          "learning_order": 18,
+          "difficulty": 3.96,
+          "level": "advanced",
+          "url": "https://subskills.xyz/climbing/clipping-quickdraws"
+        },
+        {
+          "sub_skill": "lead-belaying",
+          "name": "Lead belaying",
+          "description": "Manage slack, catch lead falls and give a soft catch.",
+          "learning_order": 19,
+          "difficulty": 4.13,
+          "level": "advanced",
+          "url": "https://subskills.xyz/climbing/lead-belaying"
+        },
+        {
+          "sub_skill": "heel-hook",
+          "name": "Heel hook",
+          "description": "Load a heel to take weight off the arms and unlock moves.",
+          "learning_order": 20,
+          "difficulty": 4.3,
+          "level": "advanced",
+          "url": "https://subskills.xyz/climbing/heel-hook"
+        },
+        {
+          "sub_skill": "toe-hook",
+          "name": "Toe hook",
+          "description": "Pull with the top of the foot to hold body tension on overhangs.",
+          "learning_order": 21,
+          "difficulty": 4.48,
+          "level": "advanced",
+          "url": "https://subskills.xyz/climbing/toe-hook"
+        },
+        {
+          "sub_skill": "drop-knee",
+          "name": "Drop knee",
+          "description": "Turn the hip in to lower the centre of gravity and extend reach.",
+          "learning_order": 22,
+          "difficulty": 4.65,
+          "level": "advanced",
+          "url": "https://subskills.xyz/climbing/drop-knee"
+        },
+        {
+          "sub_skill": "dyno",
+          "name": "Dyno",
+          "description": "Generate and commit to a dynamic move, and stick the catch.",
+          "learning_order": 23,
+          "difficulty": 4.83,
+          "level": "advanced",
+          "url": "https://subskills.xyz/climbing/dyno"
+        },
+        {
+          "sub_skill": "hangboard-training",
+          "name": "Hangboard training",
+          "description": "Start finger strength training safely with sensible loading.",
+          "learning_order": 24,
+          "difficulty": 5,
+          "level": "advanced",
+          "url": "https://subskills.xyz/climbing/hangboard-training"
+        }
+      ],
+      "url": "https://subskills.xyz/climbing"
+    },
+    {
+      "sport": "cycling",
+      "name": "Cycling",
+      "sub_skills": [
+        {
+          "sub_skill": "how-to-ride-a-bike",
+          "name": "How to ride a bike for adults",
+          "description": "Balance, start and stop for a first-time adult rider.",
+          "learning_order": 1,
+          "difficulty": 1,
+          "level": "beginner",
+          "url": "https://subskills.xyz/cycling/how-to-ride-a-bike"
+        },
+        {
+          "sub_skill": "choosing-first-bike",
+          "name": "Choosing your first bike",
+          "description": "Road, gravel or hybrid, and how it should fit.",
+          "learning_order": 2,
+          "difficulty": 1.17,
+          "level": "beginner",
+          "url": "https://subskills.xyz/cycling/choosing-first-bike"
+        },
+        {
+          "sub_skill": "bike-fit-basics",
+          "name": "Bike Fit Basics",
+          "description": "Set saddle height and reach for comfort and power.",
+          "learning_order": 3,
+          "difficulty": 1.33,
+          "level": "beginner",
+          "url": "https://subskills.xyz/cycling/bike-fit-basics"
+        },
+        {
+          "sub_skill": "braking-technique",
+          "name": "Braking Technique",
+          "description": "Modulate front and rear brakes for safe, controlled stops.",
+          "learning_order": 4,
+          "difficulty": 1.5,
+          "level": "beginner",
+          "url": "https://subskills.xyz/cycling/braking-technique"
+        },
+        {
+          "sub_skill": "gear-shifting",
+          "name": "Gear Shifting",
+          "description": "Anticipate and shift gears smoothly for terrain changes.",
+          "learning_order": 5,
+          "difficulty": 1.67,
+          "level": "beginner",
+          "url": "https://subskills.xyz/cycling/gear-shifting"
+        },
+        {
+          "sub_skill": "riding-in-traffic",
+          "name": "Riding in traffic",
+          "description": "Road positioning, junctions and being seen in traffic.",
+          "learning_order": 6,
+          "difficulty": 1.83,
+          "level": "beginner",
+          "url": "https://subskills.xyz/cycling/riding-in-traffic"
+        },
+        {
+          "sub_skill": "puncture-repair",
+          "name": "Fixing a Puncture",
+          "description": "Remove the wheel, replace a tube, and reinflate roadside.",
+          "learning_order": 7,
+          "difficulty": 2,
+          "level": "beginner",
+          "url": "https://subskills.xyz/cycling/puncture-repair"
+        },
+        {
+          "sub_skill": "cycling-in-the-rain",
+          "name": "Cycling in the rain",
+          "description": "Braking, cornering, kit and bike care in the wet.",
+          "learning_order": 8,
+          "difficulty": 2.17,
+          "level": "beginner",
+          "url": "https://subskills.xyz/cycling/cycling-in-the-rain"
+        },
+        {
+          "sub_skill": "pedaling-efficiency",
+          "name": "Pedaling Efficiency",
+          "description": "Develop a smooth, round pedal stroke and cadence.",
+          "learning_order": 9,
+          "difficulty": 2.33,
+          "level": "beginner",
+          "url": "https://subskills.xyz/cycling/pedaling-efficiency"
+        },
+        {
+          "sub_skill": "cornering",
+          "name": "Cornering Technique",
+          "description": "Position the body and bike to corner with control and confidence.",
+          "learning_order": 10,
+          "difficulty": 2.5,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/cycling/cornering"
+        },
+        {
+          "sub_skill": "climbing-technique",
+          "name": "Climbing Technique",
+          "description": "Pace and position the body for efficient seated and standing climbs.",
+          "learning_order": 11,
+          "difficulty": 2.67,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/cycling/climbing-technique"
+        },
+        {
+          "sub_skill": "descending",
+          "name": "Descending Skills",
+          "description": "Descend safely with proper body position, braking, and line choice.",
+          "learning_order": 12,
+          "difficulty": 2.83,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/cycling/descending"
+        },
+        {
+          "sub_skill": "group-riding",
+          "name": "Group Riding & Drafting",
+          "description": "Ride safely in a paceline and draft efficiently.",
+          "learning_order": 13,
+          "difficulty": 3,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/cycling/group-riding"
+        },
+        {
+          "sub_skill": "chain-cleaning",
+          "name": "Chain cleaning and lubrication",
+          "description": "Keep the drivetrain clean, quiet and fast.",
+          "learning_order": 14,
+          "difficulty": 3.17,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/cycling/chain-cleaning"
+        },
+        {
+          "sub_skill": "fuelling-hydration",
+          "name": "Cycling nutrition",
+          "description": "Eat and drink to avoid bonking on long rides.",
+          "learning_order": 15,
+          "difficulty": 3.33,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/cycling/fuelling-hydration"
+        },
+        {
+          "sub_skill": "clipping-in-clipless",
+          "name": "Using Clipless Pedals",
+          "description": "Clip in and out smoothly without falling.",
+          "learning_order": 16,
+          "difficulty": 3.5,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/cycling/clipping-in-clipless"
+        },
+        {
+          "sub_skill": "cleat-position",
+          "name": "Cleat position",
+          "description": "Set fore-aft, lateral and rotational cleat position.",
+          "learning_order": 17,
+          "difficulty": 3.67,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/cycling/cleat-position"
+        },
+        {
+          "sub_skill": "brake-adjustment",
+          "name": "Brake adjustment and pads",
+          "description": "Set up rim and disc brakes and replace pads.",
+          "learning_order": 18,
+          "difficulty": 3.83,
+          "level": "advanced",
+          "url": "https://subskills.xyz/cycling/brake-adjustment"
+        },
+        {
+          "sub_skill": "gear-adjustment",
+          "name": "Adjusting your gears",
+          "description": "Index the derailleur and fix skipping gears.",
+          "learning_order": 19,
+          "difficulty": 4,
+          "level": "advanced",
+          "url": "https://subskills.xyz/cycling/gear-adjustment"
+        },
+        {
+          "sub_skill": "replacing-a-bike-chain",
+          "name": "How to replace a bike chain",
+          "description": "Measure chain wear, size a new chain and fit a quick link.",
+          "learning_order": 20,
+          "difficulty": 4.17,
+          "level": "advanced",
+          "url": "https://subskills.xyz/cycling/replacing-a-bike-chain"
+        },
+        {
+          "sub_skill": "tubeless-tyre-setup",
+          "name": "Tubeless tyre setup",
+          "description": "Fit tubeless tyres, add sealant and seat the bead.",
+          "learning_order": 21,
+          "difficulty": 4.33,
+          "level": "advanced",
+          "url": "https://subskills.xyz/cycling/tubeless-tyre-setup"
+        },
+        {
+          "sub_skill": "indoor-training",
+          "name": "Indoor training and turbo setup",
+          "description": "Set up the turbo and train indoors effectively.",
+          "learning_order": 22,
+          "difficulty": 4.5,
+          "level": "advanced",
+          "url": "https://subskills.xyz/cycling/indoor-training"
+        },
+        {
+          "sub_skill": "strength-training-for-cyclists",
+          "name": "Strength training for cyclists",
+          "description": "Off-bike work that makes you faster and more durable.",
+          "learning_order": 23,
+          "difficulty": 4.67,
+          "level": "advanced",
+          "url": "https://subskills.xyz/cycling/strength-training-for-cyclists"
+        },
+        {
+          "sub_skill": "training-zones",
+          "name": "Training zones and FTP",
+          "description": "Test FTP and train by zones.",
+          "learning_order": 24,
+          "difficulty": 4.83,
+          "level": "advanced",
+          "url": "https://subskills.xyz/cycling/training-zones"
+        },
+        {
+          "sub_skill": "cycling-sprint",
+          "name": "Cycling sprint technique",
+          "description": "Position, gear and cadence for a road sprint.",
+          "learning_order": 25,
+          "difficulty": 5,
+          "level": "advanced",
+          "url": "https://subskills.xyz/cycling/cycling-sprint"
+        }
+      ],
+      "url": "https://subskills.xyz/cycling"
+    },
+    {
+      "sport": "golf",
+      "name": "Golf",
+      "sub_skills": [
+        {
+          "sub_skill": "how-to-choose-golf-clubs",
+          "name": "How to choose golf clubs",
+          "description": "Pick a starter set and understand shafts, lofts and what each club is for.",
+          "learning_order": 1,
+          "difficulty": 1,
+          "level": "beginner",
+          "url": "https://subskills.xyz/golf/how-to-choose-golf-clubs"
+        },
+        {
+          "sub_skill": "golf-rules-for-beginners",
+          "name": "Golf rules for beginners",
+          "description": "Learn the rules that actually come up: penalties, drops, out of bounds and scoring.",
+          "learning_order": 2,
+          "difficulty": 1.15,
+          "level": "beginner",
+          "url": "https://subskills.xyz/golf/golf-rules-for-beginners"
+        },
+        {
+          "sub_skill": "golf-etiquette",
+          "name": "Golf etiquette",
+          "description": "Pace of play, safety, bunker raking and green care on the course.",
+          "learning_order": 3,
+          "difficulty": 1.31,
+          "level": "beginner",
+          "url": "https://subskills.xyz/golf/golf-etiquette"
+        },
+        {
+          "sub_skill": "golf-grip",
+          "name": "Golf grip",
+          "description": "Build a neutral grip and understand strong and weak hand positions.",
+          "learning_order": 4,
+          "difficulty": 1.46,
+          "level": "beginner",
+          "url": "https://subskills.xyz/golf/golf-grip"
+        },
+        {
+          "sub_skill": "posture",
+          "name": "Posture",
+          "description": "Set spine angle, knee flex and distance from the ball.",
+          "learning_order": 5,
+          "difficulty": 1.62,
+          "level": "beginner",
+          "url": "https://subskills.xyz/golf/posture"
+        },
+        {
+          "sub_skill": "alignment",
+          "name": "Alignment",
+          "description": "Aim the clubface and body at the target instead of where it feels right.",
+          "learning_order": 6,
+          "difficulty": 1.77,
+          "level": "beginner",
+          "url": "https://subskills.xyz/golf/alignment"
+        },
+        {
+          "sub_skill": "ball-position",
+          "name": "Ball position",
+          "description": "Move the ball through the stance correctly for each club.",
+          "learning_order": 7,
+          "difficulty": 1.92,
+          "level": "beginner",
+          "url": "https://subskills.xyz/golf/ball-position"
+        },
+        {
+          "sub_skill": "golf-swing-basics",
+          "name": "Golf swing basics",
+          "description": "Learn the takeaway, backswing, transition and follow-through as one motion.",
+          "learning_order": 8,
+          "difficulty": 2.08,
+          "level": "beginner",
+          "url": "https://subskills.xyz/golf/golf-swing-basics"
+        },
+        {
+          "sub_skill": "golf-warm-up",
+          "name": "Golf warm up",
+          "description": "Prepare the body and swing in a short pre-round routine.",
+          "learning_order": 9,
+          "difficulty": 2.23,
+          "level": "beginner",
+          "url": "https://subskills.xyz/golf/golf-warm-up"
+        },
+        {
+          "sub_skill": "driving-range-practice",
+          "name": "Driving range practice",
+          "description": "Structure range sessions so practice transfers to the course.",
+          "learning_order": 10,
+          "difficulty": 2.38,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/golf/driving-range-practice"
+        },
+        {
+          "sub_skill": "iron-shots",
+          "name": "Iron shots",
+          "description": "Strike irons ball-first with a descending blow and consistent low point.",
+          "learning_order": 11,
+          "difficulty": 2.54,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/golf/iron-shots"
+        },
+        {
+          "sub_skill": "chipping",
+          "name": "Chipping",
+          "description": "Control low running shots around the green with a stable, simple motion.",
+          "learning_order": 12,
+          "difficulty": 2.69,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/golf/chipping"
+        },
+        {
+          "sub_skill": "putting-stroke",
+          "name": "Putting stroke",
+          "description": "Build a repeatable stroke with steady tempo, face control and solid contact.",
+          "learning_order": 13,
+          "difficulty": 2.85,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/golf/putting-stroke"
+        },
+        {
+          "sub_skill": "how-to-hit-a-driver",
+          "name": "How to hit a driver",
+          "description": "Tee height, ball position and upward attack angle for longer drives.",
+          "learning_order": 14,
+          "difficulty": 3,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/golf/how-to-hit-a-driver"
+        },
+        {
+          "sub_skill": "pitching",
+          "name": "Pitching",
+          "description": "Hit higher, softer shots from 30 to 60 yards with a controlled length of swing.",
+          "learning_order": 15,
+          "difficulty": 3.15,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/golf/pitching"
+        },
+        {
+          "sub_skill": "putting-distance-control",
+          "name": "Putting distance control",
+          "description": "Control pace and lag long putts close.",
+          "learning_order": 16,
+          "difficulty": 3.31,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/golf/putting-distance-control"
+        },
+        {
+          "sub_skill": "how-to-stop-slicing",
+          "name": "How to stop slicing",
+          "description": "Diagnose an open face and out-to-in path, and fix the ball flight.",
+          "learning_order": 17,
+          "difficulty": 3.46,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/golf/how-to-stop-slicing"
+        },
+        {
+          "sub_skill": "how-to-stop-hooking",
+          "name": "How to stop hooking",
+          "description": "Fix a closed face and in-to-out path that sends the ball left.",
+          "learning_order": 18,
+          "difficulty": 3.62,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/golf/how-to-stop-hooking"
+        },
+        {
+          "sub_skill": "fairway-woods",
+          "name": "Fairway woods",
+          "description": "Sweep fairway woods and hybrids cleanly off the turf.",
+          "learning_order": 19,
+          "difficulty": 3.77,
+          "level": "advanced",
+          "url": "https://subskills.xyz/golf/fairway-woods"
+        },
+        {
+          "sub_skill": "bunker-shots",
+          "name": "Bunker shots",
+          "description": "Use bounce and a shallow sand entry to escape greenside bunkers.",
+          "learning_order": 20,
+          "difficulty": 3.92,
+          "level": "advanced",
+          "url": "https://subskills.xyz/golf/bunker-shots"
+        },
+        {
+          "sub_skill": "reading-greens",
+          "name": "Reading greens",
+          "description": "Read slope, grain and speed to pick a start line and pace.",
+          "learning_order": 21,
+          "difficulty": 4.08,
+          "level": "advanced",
+          "url": "https://subskills.xyz/golf/reading-greens"
+        },
+        {
+          "sub_skill": "course-management",
+          "name": "Course management",
+          "description": "Pick targets and clubs that lower your score instead of chasing hero shots.",
+          "learning_order": 22,
+          "difficulty": 4.23,
+          "level": "advanced",
+          "url": "https://subskills.xyz/golf/course-management"
+        },
+        {
+          "sub_skill": "wedge-distance-control",
+          "name": "Wedge distance control",
+          "description": "Dial in partial wedge yardages with clock-face swing lengths.",
+          "learning_order": 23,
+          "difficulty": 4.38,
+          "level": "advanced",
+          "url": "https://subskills.xyz/golf/wedge-distance-control"
+        },
+        {
+          "sub_skill": "uneven-lies",
+          "name": "Uneven lies",
+          "description": "Adjust setup and swing for uphill, downhill and sidehill lies.",
+          "learning_order": 24,
+          "difficulty": 4.54,
+          "level": "advanced",
+          "url": "https://subskills.xyz/golf/uneven-lies"
+        },
+        {
+          "sub_skill": "punch-shot",
+          "name": "Punch shot",
+          "description": "Play a low, controlled shot from trouble or into the wind.",
+          "learning_order": 25,
+          "difficulty": 4.69,
+          "level": "advanced",
+          "url": "https://subskills.xyz/golf/punch-shot"
+        },
+        {
+          "sub_skill": "golf-mental-game",
+          "name": "Golf mental game",
+          "description": "Manage nerves, pre-shot routine and recovery after a bad hole.",
+          "learning_order": 26,
+          "difficulty": 4.85,
+          "level": "advanced",
+          "url": "https://subskills.xyz/golf/golf-mental-game"
+        },
+        {
+          "sub_skill": "how-to-hit-a-draw",
+          "name": "How to hit a draw",
+          "description": "Shape the ball right-to-left by matching face and path.",
+          "learning_order": 27,
+          "difficulty": 5,
+          "level": "advanced",
+          "url": "https://subskills.xyz/golf/how-to-hit-a-draw"
+        }
+      ],
+      "url": "https://subskills.xyz/golf"
+    },
+    {
+      "sport": "gym-men",
+      "name": "Gym (men)",
+      "sub_skills": [
+        {
+          "sub_skill": "training-split-basics",
+          "name": "Training split basics",
+          "description": "Full body, upper/lower or push-pull-legs.",
+          "learning_order": 1,
+          "difficulty": 1,
+          "level": "beginner",
+          "url": "https://subskills.xyz/gym-men/training-split-basics"
+        },
+        {
+          "sub_skill": "mobility-warm-up",
+          "name": "Mobility warm-up",
+          "description": "Prepare shoulders, hips, ankles, and spine for productive lifting sessions.",
+          "learning_order": 2,
+          "difficulty": 1.15,
+          "level": "beginner",
+          "url": "https://subskills.xyz/gym-men/mobility-warm-up"
+        },
+        {
+          "sub_skill": "core-bracing",
+          "name": "Core bracing",
+          "description": "Coordinate breath, trunk tension, and rib position for compound lifts.",
+          "learning_order": 3,
+          "difficulty": 1.3,
+          "level": "beginner",
+          "url": "https://subskills.xyz/gym-men/core-bracing"
+        },
+        {
+          "sub_skill": "barbell-squat",
+          "name": "Barbell squat",
+          "description": "Train squat depth, bracing, bar path, and progressive loading safely.",
+          "learning_order": 4,
+          "difficulty": 1.44,
+          "level": "beginner",
+          "url": "https://subskills.xyz/gym-men/barbell-squat"
+        },
+        {
+          "sub_skill": "bench-press",
+          "name": "Bench press",
+          "description": "Build pressing strength with stable setup, touch point, and shoulder-friendly technique.",
+          "learning_order": 5,
+          "difficulty": 1.59,
+          "level": "beginner",
+          "url": "https://subskills.xyz/gym-men/bench-press"
+        },
+        {
+          "sub_skill": "deadlift",
+          "name": "Deadlift",
+          "description": "Hinge and brace for strong pulls while managing grip, setup, and lockout mechanics.",
+          "learning_order": 6,
+          "difficulty": 1.74,
+          "level": "beginner",
+          "url": "https://subskills.xyz/gym-men/deadlift"
+        },
+        {
+          "sub_skill": "overhead-press",
+          "name": "Overhead press",
+          "description": "Press overhead with stacked posture, bar path control, and scalable loading.",
+          "learning_order": 7,
+          "difficulty": 1.89,
+          "level": "beginner",
+          "url": "https://subskills.xyz/gym-men/overhead-press"
+        },
+        {
+          "sub_skill": "pull-up-progression",
+          "name": "Pull-up progression",
+          "description": "Develop vertical pulling strength from assisted reps to loaded pull-ups.",
+          "learning_order": 8,
+          "difficulty": 2.04,
+          "level": "beginner",
+          "url": "https://subskills.xyz/gym-men/pull-up-progression"
+        },
+        {
+          "sub_skill": "dumbbell-row",
+          "name": "Dumbbell row",
+          "description": "Single-arm row for a strong, controlled horizontal pull.",
+          "learning_order": 9,
+          "difficulty": 2.19,
+          "level": "beginner",
+          "url": "https://subskills.xyz/gym-men/dumbbell-row"
+        },
+        {
+          "sub_skill": "lunge-split-squat",
+          "name": "Lunge and split squat",
+          "description": "Single-leg strength with lunges and split squats.",
+          "learning_order": 10,
+          "difficulty": 2.33,
+          "level": "beginner",
+          "url": "https://subskills.xyz/gym-men/lunge-split-squat"
+        },
+        {
+          "sub_skill": "recovery-habits",
+          "name": "Recovery habits",
+          "description": "Balance sleep, deloads, soreness, and training stress across a lifting block.",
+          "learning_order": 11,
+          "difficulty": 2.48,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/gym-men/recovery-habits"
+        },
+        {
+          "sub_skill": "pallof-press",
+          "name": "Pallof press",
+          "description": "Resist rotation to build a braced, stable trunk.",
+          "learning_order": 12,
+          "difficulty": 2.63,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/gym-men/pallof-press"
+        },
+        {
+          "sub_skill": "fat-loss-nutrition",
+          "name": "Fat-loss nutrition",
+          "description": "Use calorie targets, protein, adherence, and training support for sustainable fat loss.",
+          "learning_order": 13,
+          "difficulty": 2.78,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/gym-men/fat-loss-nutrition"
+        },
+        {
+          "sub_skill": "bulking-nutrition",
+          "name": "Bulking nutrition",
+          "description": "Eat to gain muscle without unnecessary fat.",
+          "learning_order": 14,
+          "difficulty": 2.93,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/gym-men/bulking-nutrition"
+        },
+        {
+          "sub_skill": "barbell-row",
+          "name": "Barbell row",
+          "description": "The missing horizontal pull: row with a braced, flat back.",
+          "learning_order": 15,
+          "difficulty": 3.07,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/gym-men/barbell-row"
+        },
+        {
+          "sub_skill": "dips",
+          "name": "Dips",
+          "description": "Build pressing strength on parallel bars with shoulder-safe depth.",
+          "learning_order": 16,
+          "difficulty": 3.22,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/gym-men/dips"
+        },
+        {
+          "sub_skill": "arm-training",
+          "name": "Arm training",
+          "description": "Train biceps, triceps, and forearms with joint-friendly volume and progression.",
+          "learning_order": 17,
+          "difficulty": 3.37,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/gym-men/arm-training"
+        },
+        {
+          "sub_skill": "calf-raises",
+          "name": "Calf raises",
+          "description": "Train gastrocnemius and soleus through a full range.",
+          "learning_order": 18,
+          "difficulty": 3.52,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/gym-men/calf-raises"
+        },
+        {
+          "sub_skill": "hamstring-training",
+          "name": "Hamstring training",
+          "description": "Romanian deadlifts, curls and hamstring accessories.",
+          "learning_order": 19,
+          "difficulty": 3.67,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/gym-men/hamstring-training"
+        },
+        {
+          "sub_skill": "farmers-walk",
+          "name": "Farmer's walk",
+          "description": "Load and carry heavy for grip, core and trunk stability.",
+          "learning_order": 20,
+          "difficulty": 3.81,
+          "level": "advanced",
+          "url": "https://subskills.xyz/gym-men/farmers-walk"
+        },
+        {
+          "sub_skill": "creatine",
+          "name": "Creatine",
+          "description": "What creatine does, how to dose it and what to expect.",
+          "learning_order": 21,
+          "difficulty": 3.96,
+          "level": "advanced",
+          "url": "https://subskills.xyz/gym-men/creatine"
+        },
+        {
+          "sub_skill": "cardio-for-lifters",
+          "name": "Cardio for lifters",
+          "description": "Add conditioning without hurting your gains.",
+          "learning_order": 22,
+          "difficulty": 4.11,
+          "level": "advanced",
+          "url": "https://subskills.xyz/gym-men/cardio-for-lifters"
+        },
+        {
+          "sub_skill": "lifting-belt",
+          "name": "How to use a lifting belt",
+          "description": "When to wear a belt and how to brace against it.",
+          "learning_order": 23,
+          "difficulty": 4.26,
+          "level": "advanced",
+          "url": "https://subskills.xyz/gym-men/lifting-belt"
+        },
+        {
+          "sub_skill": "front-squat",
+          "name": "Front squat",
+          "description": "Squat with a front rack for quad emphasis and upright posture.",
+          "learning_order": 24,
+          "difficulty": 4.41,
+          "level": "advanced",
+          "url": "https://subskills.xyz/gym-men/front-squat"
+        },
+        {
+          "sub_skill": "kettlebell-swing",
+          "name": "Kettlebell swing",
+          "description": "Hinge and snap the hips to drive the bell.",
+          "learning_order": 25,
+          "difficulty": 4.56,
+          "level": "advanced",
+          "url": "https://subskills.xyz/gym-men/kettlebell-swing"
+        },
+        {
+          "sub_skill": "shoulder-health",
+          "name": "Shoulder health",
+          "description": "Manage pressing volume, scapular control, and rotator cuff accessory work.",
+          "learning_order": 26,
+          "difficulty": 4.7,
+          "level": "advanced",
+          "url": "https://subskills.xyz/gym-men/shoulder-health"
+        },
+        {
+          "sub_skill": "hypertrophy-programming",
+          "name": "Hypertrophy programming",
+          "description": "Plan sets, reps, volume, proximity to failure, and exercise selection for muscle gain.",
+          "learning_order": 27,
+          "difficulty": 4.85,
+          "level": "advanced",
+          "url": "https://subskills.xyz/gym-men/hypertrophy-programming"
+        },
+        {
+          "sub_skill": "power-clean",
+          "name": "Power clean",
+          "description": "Pull, extend and catch the bar in the front rack.",
+          "learning_order": 28,
+          "difficulty": 5,
+          "level": "advanced",
+          "url": "https://subskills.xyz/gym-men/power-clean"
+        }
+      ],
+      "url": "https://subskills.xyz/gym-men"
+    },
+    {
+      "sport": "gym-women",
+      "name": "Gym (women)",
+      "sub_skills": [
+        {
+          "sub_skill": "gym-confidence",
+          "name": "Gym confidence",
+          "description": "Navigate equipment, etiquette, and progression without feeling lost on the gym floor.",
+          "learning_order": 1,
+          "difficulty": 1,
+          "level": "beginner",
+          "url": "https://subskills.xyz/gym-women/gym-confidence"
+        },
+        {
+          "sub_skill": "beginner-lifting-program",
+          "name": "Beginner lifting program",
+          "description": "Your first weeks in the gym, session by session.",
+          "learning_order": 2,
+          "difficulty": 1.17,
+          "level": "beginner",
+          "url": "https://subskills.xyz/gym-women/beginner-lifting-program"
+        },
+        {
+          "sub_skill": "mobility-stability",
+          "name": "Mobility and stability",
+          "description": "Improve usable range, control, and joint stability for lifting sessions.",
+          "learning_order": 3,
+          "difficulty": 1.35,
+          "level": "beginner",
+          "url": "https://subskills.xyz/gym-women/mobility-stability"
+        },
+        {
+          "sub_skill": "goblet-squat",
+          "name": "Goblet squat",
+          "description": "Use goblet squats to learn depth, balance, and bracing before heavier loading.",
+          "learning_order": 4,
+          "difficulty": 1.52,
+          "level": "beginner",
+          "url": "https://subskills.xyz/gym-women/goblet-squat"
+        },
+        {
+          "sub_skill": "glute-bridge-hip-thrust",
+          "name": "Glute bridge and hip thrust",
+          "description": "Set up hip thrusts and bridges for glute stimulus without low-back overload.",
+          "learning_order": 5,
+          "difficulty": 1.7,
+          "level": "beginner",
+          "url": "https://subskills.xyz/gym-women/glute-bridge-hip-thrust"
+        },
+        {
+          "sub_skill": "romanian-deadlift",
+          "name": "Romanian deadlift",
+          "description": "Train the hip hinge with hamstring tension, neutral spine, and controlled tempo.",
+          "learning_order": 6,
+          "difficulty": 1.87,
+          "level": "beginner",
+          "url": "https://subskills.xyz/gym-women/romanian-deadlift"
+        },
+        {
+          "sub_skill": "dumbbell-bench-press",
+          "name": "Dumbbell bench press",
+          "description": "Press with stable shoulders, range of motion, and balanced dumbbell control.",
+          "learning_order": 7,
+          "difficulty": 2.04,
+          "level": "beginner",
+          "url": "https://subskills.xyz/gym-women/dumbbell-bench-press"
+        },
+        {
+          "sub_skill": "lat-pulldown",
+          "name": "Lat pulldown",
+          "description": "Build back strength with controlled shoulder position and clean pulling mechanics.",
+          "learning_order": 8,
+          "difficulty": 2.22,
+          "level": "beginner",
+          "url": "https://subskills.xyz/gym-women/lat-pulldown"
+        },
+        {
+          "sub_skill": "dumbbell-cable-row",
+          "name": "Dumbbell and cable row",
+          "description": "The missing horizontal pull for a strong back.",
+          "learning_order": 9,
+          "difficulty": 2.39,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/gym-women/dumbbell-cable-row"
+        },
+        {
+          "sub_skill": "recovery-habits",
+          "name": "Recovery habits",
+          "description": "Sleep, deloads and managing soreness across a training block.",
+          "learning_order": 10,
+          "difficulty": 2.57,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/gym-women/recovery-habits"
+        },
+        {
+          "sub_skill": "nutrition-for-strength",
+          "name": "Nutrition for strength",
+          "description": "Support performance with protein, energy availability, hydration, and consistent habits.",
+          "learning_order": 11,
+          "difficulty": 2.74,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/gym-women/nutrition-for-strength"
+        },
+        {
+          "sub_skill": "bulgarian-split-squat",
+          "name": "Bulgarian split squat and lunges",
+          "description": "Single-leg work for glutes and quads.",
+          "learning_order": 12,
+          "difficulty": 2.91,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/gym-women/bulgarian-split-squat"
+        },
+        {
+          "sub_skill": "cycle-aware-training",
+          "name": "Cycle-aware training",
+          "description": "Adjust training expectations and recovery around menstrual-cycle symptoms when helpful.",
+          "learning_order": 13,
+          "difficulty": 3.09,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/gym-women/cycle-aware-training"
+        },
+        {
+          "sub_skill": "fat-loss-nutrition",
+          "name": "Fat loss nutrition",
+          "description": "Calorie targets, protein and adherence for sustainable fat loss.",
+          "learning_order": 14,
+          "difficulty": 3.26,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/gym-women/fat-loss-nutrition"
+        },
+        {
+          "sub_skill": "cardio-with-lifting",
+          "name": "Running alongside lifting",
+          "description": "Combine cardio and lifting without losing strength.",
+          "learning_order": 15,
+          "difficulty": 3.43,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/gym-women/cardio-with-lifting"
+        },
+        {
+          "sub_skill": "pelvic-floor-aware-lifting",
+          "name": "Pelvic floor aware lifting",
+          "description": "Coordinate breath, pressure, and load for lifters managing pelvic-floor symptoms.",
+          "learning_order": 16,
+          "difficulty": 3.61,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/gym-women/pelvic-floor-aware-lifting"
+        },
+        {
+          "sub_skill": "lifting-while-pregnant",
+          "name": "Lifting while pregnant",
+          "description": "Adjust load, movements and bracing through pregnancy.",
+          "learning_order": 17,
+          "difficulty": 3.78,
+          "level": "advanced",
+          "url": "https://subskills.xyz/gym-women/lifting-while-pregnant"
+        },
+        {
+          "sub_skill": "postpartum-core",
+          "name": "Postpartum core and diastasis recti",
+          "description": "Rebuild core strength safely after birth.",
+          "learning_order": 18,
+          "difficulty": 3.96,
+          "level": "advanced",
+          "url": "https://subskills.xyz/gym-women/postpartum-core"
+        },
+        {
+          "sub_skill": "barbell-back-squat",
+          "name": "Barbell back squat",
+          "description": "Take the squat from goblet to barbell.",
+          "learning_order": 19,
+          "difficulty": 4.13,
+          "level": "advanced",
+          "url": "https://subskills.xyz/gym-women/barbell-back-squat"
+        },
+        {
+          "sub_skill": "deadlift",
+          "name": "Deadlift",
+          "description": "Conventional and sumo deadlift technique.",
+          "learning_order": 20,
+          "difficulty": 4.3,
+          "level": "advanced",
+          "url": "https://subskills.xyz/gym-women/deadlift"
+        },
+        {
+          "sub_skill": "overhead-press",
+          "name": "Overhead press",
+          "description": "Press overhead with a stable core and shoulders.",
+          "learning_order": 21,
+          "difficulty": 4.48,
+          "level": "advanced",
+          "url": "https://subskills.xyz/gym-women/overhead-press"
+        },
+        {
+          "sub_skill": "pull-up-progression",
+          "name": "Pull-up progression",
+          "description": "Build to your first unassisted pull-up.",
+          "learning_order": 22,
+          "difficulty": 4.65,
+          "level": "advanced",
+          "url": "https://subskills.xyz/gym-women/pull-up-progression"
+        },
+        {
+          "sub_skill": "lower-body-hypertrophy",
+          "name": "Lower-body hypertrophy",
+          "description": "Program quads, glutes, and hamstrings with balanced volume and progression.",
+          "learning_order": 23,
+          "difficulty": 4.83,
+          "level": "advanced",
+          "url": "https://subskills.xyz/gym-women/lower-body-hypertrophy"
+        },
+        {
+          "sub_skill": "upper-body-hypertrophy",
+          "name": "Upper-body hypertrophy",
+          "description": "Train shoulders, back, chest, and arms with confidence and recovery in mind.",
+          "learning_order": 24,
+          "difficulty": 5,
+          "level": "advanced",
+          "url": "https://subskills.xyz/gym-women/upper-body-hypertrophy"
+        }
+      ],
+      "url": "https://subskills.xyz/gym-women"
+    },
+    {
+      "sport": "muay-thai",
+      "name": "Muay Thai",
+      "sub_skills": [
+        {
+          "sub_skill": "choosing-gloves-and-shin-guards",
+          "name": "Choosing gloves and shin guards",
+          "description": "Pick glove weight and fit shin guards for training and sparring.",
+          "learning_order": 1,
+          "difficulty": 1,
+          "level": "beginner",
+          "url": "https://subskills.xyz/muay-thai/choosing-gloves-and-shin-guards"
+        },
+        {
+          "sub_skill": "thai-style-hand-wrapping",
+          "name": "Thai style hand wrapping",
+          "description": "Wrap Thai-style with extra knuckle build-up.",
+          "learning_order": 2,
+          "difficulty": 1.13,
+          "level": "beginner",
+          "url": "https://subskills.xyz/muay-thai/thai-style-hand-wrapping"
+        },
+        {
+          "sub_skill": "stance",
+          "name": "Stance",
+          "description": "Square, rear-loaded stance with the lead leg free to check.",
+          "learning_order": 3,
+          "difficulty": 1.26,
+          "level": "beginner",
+          "url": "https://subskills.xyz/muay-thai/stance"
+        },
+        {
+          "sub_skill": "guard",
+          "name": "Guard",
+          "description": "High, wide guard that covers elbows and knees; introduces the long guard.",
+          "learning_order": 4,
+          "difficulty": 1.39,
+          "level": "beginner",
+          "url": "https://subskills.xyz/muay-thai/guard"
+        },
+        {
+          "sub_skill": "footwork",
+          "name": "Footwork",
+          "description": "Marching rhythm and stepping to create kicking angles without bouncing.",
+          "learning_order": 5,
+          "difficulty": 1.52,
+          "level": "beginner",
+          "url": "https://subskills.xyz/muay-thai/footwork"
+        },
+        {
+          "sub_skill": "jab",
+          "name": "Jab",
+          "description": "A long, probing jab from the square stance, paired with the teep.",
+          "learning_order": 6,
+          "difficulty": 1.65,
+          "level": "beginner",
+          "url": "https://subskills.xyz/muay-thai/jab"
+        },
+        {
+          "sub_skill": "straight-punch",
+          "name": "Straight punch",
+          "description": "The rear straight with hip commitment held back so a kick can follow.",
+          "learning_order": 7,
+          "difficulty": 1.77,
+          "level": "beginner",
+          "url": "https://subskills.xyz/muay-thai/straight-punch"
+        },
+        {
+          "sub_skill": "teep",
+          "name": "Teep",
+          "description": "The push kick: range control, off-balancing and setting up.",
+          "learning_order": 8,
+          "difficulty": 1.9,
+          "level": "beginner",
+          "url": "https://subskills.xyz/muay-thai/teep"
+        },
+        {
+          "sub_skill": "roundhouse-kick",
+          "name": "Roundhouse kick",
+          "description": "Hip rotation, shin contact and follow-through for body and head kicks.",
+          "learning_order": 9,
+          "difficulty": 2.03,
+          "level": "beginner",
+          "url": "https://subskills.xyz/muay-thai/roundhouse-kick"
+        },
+        {
+          "sub_skill": "shadow-boxing",
+          "name": "Shadow boxing",
+          "description": "Shadow with kicks, knees and teeps, not just hands.",
+          "learning_order": 10,
+          "difficulty": 2.16,
+          "level": "beginner",
+          "url": "https://subskills.xyz/muay-thai/shadow-boxing"
+        },
+        {
+          "sub_skill": "hook",
+          "name": "Hook",
+          "description": "Hook with a short pivot and the hand returning high.",
+          "learning_order": 11,
+          "difficulty": 2.29,
+          "level": "beginner",
+          "url": "https://subskills.xyz/muay-thai/hook"
+        },
+        {
+          "sub_skill": "uppercut",
+          "name": "Uppercut",
+          "description": "Uppercuts inside and to open the clinch.",
+          "learning_order": 12,
+          "difficulty": 2.42,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/muay-thai/uppercut"
+        },
+        {
+          "sub_skill": "low-kick",
+          "name": "Low kick",
+          "description": "Chop the lead leg with the shin and get out safely.",
+          "learning_order": 13,
+          "difficulty": 2.55,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/muay-thai/low-kick"
+        },
+        {
+          "sub_skill": "knee-strikes",
+          "name": "Knee strikes",
+          "description": "Straight, diagonal and long knees from range and in the clinch.",
+          "learning_order": 14,
+          "difficulty": 2.68,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/muay-thai/knee-strikes"
+        },
+        {
+          "sub_skill": "holding-thai-pads",
+          "name": "Holding Thai pads",
+          "description": "Hold pads for punches, kicks, knees and elbows.",
+          "learning_order": 15,
+          "difficulty": 2.81,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/muay-thai/holding-thai-pads"
+        },
+        {
+          "sub_skill": "checking-kicks",
+          "name": "Checking kicks",
+          "description": "Check low kicks with the shin and the other low-kick defences.",
+          "learning_order": 16,
+          "difficulty": 2.94,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/muay-thai/checking-kicks"
+        },
+        {
+          "sub_skill": "elbow-strikes",
+          "name": "Elbow strikes",
+          "description": "Horizontal, uppercut and spinning elbows at close range.",
+          "learning_order": 17,
+          "difficulty": 3.06,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/muay-thai/elbow-strikes"
+        },
+        {
+          "sub_skill": "clinch-basics",
+          "name": "Clinch basics",
+          "description": "Plum, arm control and posture in the Thai clinch.",
+          "learning_order": 18,
+          "difficulty": 3.19,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/muay-thai/clinch-basics"
+        },
+        {
+          "sub_skill": "combinations",
+          "name": "Combinations",
+          "description": "Punch-kick-knee chains that flow.",
+          "learning_order": 19,
+          "difficulty": 3.32,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/muay-thai/combinations"
+        },
+        {
+          "sub_skill": "shin-conditioning",
+          "name": "Shin conditioning",
+          "description": "Condition the shins without wrecking them.",
+          "learning_order": 20,
+          "difficulty": 3.45,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/muay-thai/shin-conditioning"
+        },
+        {
+          "sub_skill": "sparring-for-beginners",
+          "name": "Sparring for beginners",
+          "description": "Light Thai-style sparring and its etiquette.",
+          "learning_order": 21,
+          "difficulty": 3.58,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/muay-thai/sparring-for-beginners"
+        },
+        {
+          "sub_skill": "catching-kicks",
+          "name": "Catching kicks",
+          "description": "Catch the body kick and counter or sweep.",
+          "learning_order": 22,
+          "difficulty": 3.71,
+          "level": "advanced",
+          "url": "https://subskills.xyz/muay-thai/catching-kicks"
+        },
+        {
+          "sub_skill": "defending-the-teep",
+          "name": "Defending the teep",
+          "description": "Parry, catch and counter the push kick.",
+          "learning_order": 23,
+          "difficulty": 3.84,
+          "level": "advanced",
+          "url": "https://subskills.xyz/muay-thai/defending-the-teep"
+        },
+        {
+          "sub_skill": "defending-body-kicks",
+          "name": "Defending body kicks",
+          "description": "Block, absorb and counter kicks to the body.",
+          "learning_order": 24,
+          "difficulty": 3.97,
+          "level": "advanced",
+          "url": "https://subskills.xyz/muay-thai/defending-body-kicks"
+        },
+        {
+          "sub_skill": "setting-up-kicks-with-punches",
+          "name": "Setting up kicks with punches",
+          "description": "Use hands to open the body and legs for kicks.",
+          "learning_order": 25,
+          "difficulty": 4.1,
+          "level": "advanced",
+          "url": "https://subskills.xyz/muay-thai/setting-up-kicks-with-punches"
+        },
+        {
+          "sub_skill": "long-guard",
+          "name": "Long guard",
+          "description": "Use the extended guard to control distance and frame.",
+          "learning_order": 26,
+          "difficulty": 4.23,
+          "level": "advanced",
+          "url": "https://subskills.xyz/muay-thai/long-guard"
+        },
+        {
+          "sub_skill": "head-movement",
+          "name": "Head movement",
+          "description": "When head movement works in Muay Thai and when it walks you into a knee.",
+          "learning_order": 27,
+          "difficulty": 4.35,
+          "level": "advanced",
+          "url": "https://subskills.xyz/muay-thai/head-movement"
+        },
+        {
+          "sub_skill": "defending-elbows-and-knees",
+          "name": "Defending elbows and knees",
+          "description": "Block elbows and stop knees at close range.",
+          "learning_order": 28,
+          "difficulty": 4.48,
+          "level": "advanced",
+          "url": "https://subskills.xyz/muay-thai/defending-elbows-and-knees"
+        },
+        {
+          "sub_skill": "switch-kick",
+          "name": "Switch kick",
+          "description": "Switch stance and fire the lead-leg kick.",
+          "learning_order": 29,
+          "difficulty": 4.61,
+          "level": "advanced",
+          "url": "https://subskills.xyz/muay-thai/switch-kick"
+        },
+        {
+          "sub_skill": "sweeps-trips-and-dumps",
+          "name": "Sweeps, trips and dumps",
+          "description": "Take opponents down from the clinch and off caught kicks.",
+          "learning_order": 30,
+          "difficulty": 4.74,
+          "level": "advanced",
+          "url": "https://subskills.xyz/muay-thai/sweeps-trips-and-dumps"
+        },
+        {
+          "sub_skill": "spinning-back-kick",
+          "name": "Spinning back kick",
+          "description": "Turn and drive the heel through the target.",
+          "learning_order": 31,
+          "difficulty": 4.87,
+          "level": "advanced",
+          "url": "https://subskills.xyz/muay-thai/spinning-back-kick"
+        },
+        {
+          "sub_skill": "dutch-kickboxing-style",
+          "name": "Dutch kickboxing style",
+          "description": "The Dutch approach: high-volume combinations and low kicks.",
+          "learning_order": 32,
+          "difficulty": 5,
+          "level": "advanced",
+          "url": "https://subskills.xyz/muay-thai/dutch-kickboxing-style"
+        }
+      ],
+      "url": "https://subskills.xyz/muay-thai"
+    },
+    {
+      "sport": "padel",
+      "name": "Padel",
+      "sub_skills": [
+        {
+          "sub_skill": "choosing-a-padel-racket",
+          "name": "How to choose a padel racket",
+          "description": "Shape, weight, balance and core for your level.",
+          "learning_order": 1,
+          "difficulty": 1,
+          "level": "beginner",
+          "url": "https://subskills.xyz/padel/choosing-a-padel-racket"
+        },
+        {
+          "sub_skill": "padel-rules",
+          "name": "Padel rules for beginners",
+          "description": "Scoring, serving, walls and what counts as out.",
+          "learning_order": 2,
+          "difficulty": 1.17,
+          "level": "beginner",
+          "url": "https://subskills.xyz/padel/padel-rules"
+        },
+        {
+          "sub_skill": "continental-grip",
+          "name": "Continental grip",
+          "description": "Hold the racket for volleys, bandejas, viboras, and controlled defensive shots.",
+          "learning_order": 3,
+          "difficulty": 1.35,
+          "level": "beginner",
+          "url": "https://subskills.xyz/padel/continental-grip"
+        },
+        {
+          "sub_skill": "padel-footwork",
+          "name": "Padel footwork",
+          "description": "Split step, move to the glass and recover position.",
+          "learning_order": 4,
+          "difficulty": 1.52,
+          "level": "beginner",
+          "url": "https://subskills.xyz/padel/padel-footwork"
+        },
+        {
+          "sub_skill": "forehand-groundstroke",
+          "name": "Forehand groundstroke",
+          "description": "Build a compact forehand with clean contact, depth, and direction changes.",
+          "learning_order": 5,
+          "difficulty": 1.7,
+          "level": "beginner",
+          "url": "https://subskills.xyz/padel/forehand-groundstroke"
+        },
+        {
+          "sub_skill": "backhand-groundstroke",
+          "name": "Backhand groundstroke",
+          "description": "Develop a reliable backhand for low balls, blocks, and resets.",
+          "learning_order": 6,
+          "difficulty": 1.87,
+          "level": "beginner",
+          "url": "https://subskills.xyz/padel/backhand-groundstroke"
+        },
+        {
+          "sub_skill": "serve-first-volley",
+          "name": "Serve and first volley",
+          "description": "Start points with a serve plan and move into a balanced first volley.",
+          "learning_order": 7,
+          "difficulty": 2.04,
+          "level": "beginner",
+          "url": "https://subskills.xyz/padel/serve-first-volley"
+        },
+        {
+          "sub_skill": "return-of-serve",
+          "name": "Return of serve",
+          "description": "Take control of the point from the return and win the net.",
+          "learning_order": 8,
+          "difficulty": 2.22,
+          "level": "beginner",
+          "url": "https://subskills.xyz/padel/return-of-serve"
+        },
+        {
+          "sub_skill": "playing-with-your-partner",
+          "name": "Playing with your partner",
+          "description": "Communication, calling balls and covering for each other.",
+          "learning_order": 9,
+          "difficulty": 2.39,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/padel/playing-with-your-partner"
+        },
+        {
+          "sub_skill": "volley-technique",
+          "name": "Volley technique",
+          "description": "Control forehand and backhand volleys with short preparation and stable contact.",
+          "learning_order": 10,
+          "difficulty": 2.57,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/padel/volley-technique"
+        },
+        {
+          "sub_skill": "lob",
+          "name": "Lob",
+          "description": "Use height, depth, and timing to recover court position or move opponents back.",
+          "learning_order": 11,
+          "difficulty": 2.74,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/padel/lob"
+        },
+        {
+          "sub_skill": "court-positioning",
+          "name": "Court positioning",
+          "description": "Hold attack and defence positions and move as a pair.",
+          "learning_order": 12,
+          "difficulty": 2.91,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/padel/court-positioning"
+        },
+        {
+          "sub_skill": "glass-defense",
+          "name": "Glass defense",
+          "description": "Read wall rebounds and defend after the ball hits the back or side glass.",
+          "learning_order": 13,
+          "difficulty": 3.09,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/padel/glass-defense"
+        },
+        {
+          "sub_skill": "coming-off-the-wall",
+          "name": "Coming off the wall",
+          "description": "Time the bounce and footwork to play the ball off the back glass.",
+          "learning_order": 14,
+          "difficulty": 3.26,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/padel/coming-off-the-wall"
+        },
+        {
+          "sub_skill": "defending-from-the-back",
+          "name": "Defending from the back",
+          "description": "Absorb the smash and rebuild the point from two-back.",
+          "learning_order": 15,
+          "difficulty": 3.43,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/padel/defending-from-the-back"
+        },
+        {
+          "sub_skill": "net-positioning",
+          "name": "Net positioning",
+          "description": "Coordinate distance, angles, and partner spacing while attacking at the net.",
+          "learning_order": 16,
+          "difficulty": 3.61,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/padel/net-positioning"
+        },
+        {
+          "sub_skill": "transition-to-net",
+          "name": "Transition to the net",
+          "description": "Move forward together at the right moment, and when to retreat.",
+          "learning_order": 17,
+          "difficulty": 3.78,
+          "level": "advanced",
+          "url": "https://subskills.xyz/padel/transition-to-net"
+        },
+        {
+          "sub_skill": "bandeja",
+          "name": "Bandeja",
+          "description": "Use the bandeja to keep net position and neutralize lobs without over-attacking.",
+          "learning_order": 18,
+          "difficulty": 3.96,
+          "level": "advanced",
+          "url": "https://subskills.xyz/padel/bandeja"
+        },
+        {
+          "sub_skill": "drop-shot",
+          "name": "Drop shot",
+          "description": "Finish softly at the net with the dejada.",
+          "learning_order": 19,
+          "difficulty": 4.13,
+          "level": "advanced",
+          "url": "https://subskills.xyz/padel/drop-shot"
+        },
+        {
+          "sub_skill": "chiquita",
+          "name": "Chiquita",
+          "description": "Play low, soft attacks at opponents' feet to transition toward the net.",
+          "learning_order": 20,
+          "difficulty": 4.3,
+          "level": "advanced",
+          "url": "https://subskills.xyz/padel/chiquita"
+        },
+        {
+          "sub_skill": "bajada",
+          "name": "Bajada",
+          "description": "Attack off the back glass and turn defence into offence.",
+          "learning_order": 21,
+          "difficulty": 4.48,
+          "level": "advanced",
+          "url": "https://subskills.xyz/padel/bajada"
+        },
+        {
+          "sub_skill": "vibora",
+          "name": "Vibora",
+          "description": "Add sidespin and pressure from overhead positions while keeping placement under control.",
+          "learning_order": 22,
+          "difficulty": 4.65,
+          "level": "advanced",
+          "url": "https://subskills.xyz/padel/vibora"
+        },
+        {
+          "sub_skill": "smash-x3",
+          "name": "Smash and x3",
+          "description": "Choose and execute attacking smashes, including kick-smash patterns that leave the court.",
+          "learning_order": 23,
+          "difficulty": 4.83,
+          "level": "advanced",
+          "url": "https://subskills.xyz/padel/smash-x3"
+        },
+        {
+          "sub_skill": "kick-smash",
+          "name": "Kick smash",
+          "description": "Brush up the back of the ball for a heavy, high-bouncing smash.",
+          "learning_order": 24,
+          "difficulty": 5,
+          "level": "advanced",
+          "url": "https://subskills.xyz/padel/kick-smash"
+        }
+      ],
+      "url": "https://subskills.xyz/padel"
+    },
+    {
+      "sport": "pickleball",
+      "name": "Pickleball",
+      "sub_skills": [
+        {
+          "sub_skill": "choosing-a-pickleball-paddle",
+          "name": "Choosing a pickleball paddle",
+          "description": "Pick weight, shape, core and face for your game.",
+          "learning_order": 1,
+          "difficulty": 1,
+          "level": "beginner",
+          "url": "https://subskills.xyz/pickleball/choosing-a-pickleball-paddle"
+        },
+        {
+          "sub_skill": "pickleball-rules",
+          "name": "Pickleball rules",
+          "description": "Scoring, serving rules, faults and how a game is actually played.",
+          "learning_order": 2,
+          "difficulty": 1.2,
+          "level": "beginner",
+          "url": "https://subskills.xyz/pickleball/pickleball-rules"
+        },
+        {
+          "sub_skill": "kitchen-rules",
+          "name": "Kitchen rules",
+          "description": "The non-volley zone rules that new players get wrong most often.",
+          "learning_order": 3,
+          "difficulty": 1.4,
+          "level": "beginner",
+          "url": "https://subskills.xyz/pickleball/kitchen-rules"
+        },
+        {
+          "sub_skill": "pickleball-serve",
+          "name": "Pickleball serve",
+          "description": "Build a deep, consistent, legal serve.",
+          "learning_order": 4,
+          "difficulty": 1.6,
+          "level": "beginner",
+          "url": "https://subskills.xyz/pickleball/pickleball-serve"
+        },
+        {
+          "sub_skill": "return-of-serve",
+          "name": "Return of serve",
+          "description": "Return deep and get to the kitchen line.",
+          "learning_order": 5,
+          "difficulty": 1.8,
+          "level": "beginner",
+          "url": "https://subskills.xyz/pickleball/return-of-serve"
+        },
+        {
+          "sub_skill": "pickleball-footwork",
+          "name": "Pickleball footwork",
+          "description": "Split step, move and recover instead of reaching.",
+          "learning_order": 6,
+          "difficulty": 2,
+          "level": "beginner",
+          "url": "https://subskills.xyz/pickleball/pickleball-footwork"
+        },
+        {
+          "sub_skill": "pickleball-forehand-drive",
+          "name": "Pickleball forehand drive",
+          "description": "Drive the forehand with depth and control from the baseline.",
+          "learning_order": 7,
+          "difficulty": 2.2,
+          "level": "beginner",
+          "url": "https://subskills.xyz/pickleball/pickleball-forehand-drive"
+        },
+        {
+          "sub_skill": "pickleball-backhand",
+          "name": "Pickleball backhand",
+          "description": "Build a reliable backhand for drives, dinks and blocks.",
+          "learning_order": 8,
+          "difficulty": 2.4,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/pickleball/pickleball-backhand"
+        },
+        {
+          "sub_skill": "dink",
+          "name": "Dink",
+          "description": "Control soft shots into the kitchen without popping them up.",
+          "learning_order": 9,
+          "difficulty": 2.6,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/pickleball/dink"
+        },
+        {
+          "sub_skill": "doubles-positioning",
+          "name": "Doubles positioning",
+          "description": "Move as a pair, cover the middle and hold the line.",
+          "learning_order": 10,
+          "difficulty": 2.8,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/pickleball/doubles-positioning"
+        },
+        {
+          "sub_skill": "pickleball-volley",
+          "name": "Pickleball volley",
+          "description": "Punch clean volleys at the net with a stable paddle face.",
+          "learning_order": 11,
+          "difficulty": 3,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/pickleball/pickleball-volley"
+        },
+        {
+          "sub_skill": "third-shot-drop",
+          "name": "Third shot drop",
+          "description": "Drop the third shot softly into the kitchen to take the net.",
+          "learning_order": 12,
+          "difficulty": 3.2,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/pickleball/third-shot-drop"
+        },
+        {
+          "sub_skill": "reset",
+          "name": "Reset",
+          "description": "Absorb pace and reset the ball into the kitchen under pressure.",
+          "learning_order": 13,
+          "difficulty": 3.4,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/pickleball/reset"
+        },
+        {
+          "sub_skill": "third-shot-drive",
+          "name": "Third shot drive",
+          "description": "Drive the third shot hard when the drop is not on.",
+          "learning_order": 14,
+          "difficulty": 3.6,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/pickleball/third-shot-drive"
+        },
+        {
+          "sub_skill": "overhead-smash",
+          "name": "Overhead smash",
+          "description": "Put away high balls without hitting them out.",
+          "learning_order": 15,
+          "difficulty": 3.8,
+          "level": "advanced",
+          "url": "https://subskills.xyz/pickleball/overhead-smash"
+        },
+        {
+          "sub_skill": "pickleball-lob",
+          "name": "Pickleball lob",
+          "description": "Use offensive and defensive lobs to move opponents off the line.",
+          "learning_order": 16,
+          "difficulty": 4,
+          "level": "advanced",
+          "url": "https://subskills.xyz/pickleball/pickleball-lob"
+        },
+        {
+          "sub_skill": "speed-ups",
+          "name": "Speed-ups",
+          "description": "Recognise an attackable dink and speed the ball up with purpose.",
+          "learning_order": 17,
+          "difficulty": 4.2,
+          "level": "advanced",
+          "url": "https://subskills.xyz/pickleball/speed-ups"
+        },
+        {
+          "sub_skill": "singles-strategy",
+          "name": "Singles strategy",
+          "description": "Build points and cover the court in singles.",
+          "learning_order": 18,
+          "difficulty": 4.4,
+          "level": "advanced",
+          "url": "https://subskills.xyz/pickleball/singles-strategy"
+        },
+        {
+          "sub_skill": "stacking",
+          "name": "Stacking",
+          "description": "Stack to keep both players on their stronger side.",
+          "learning_order": 19,
+          "difficulty": 4.6,
+          "level": "advanced",
+          "url": "https://subskills.xyz/pickleball/stacking"
+        },
+        {
+          "sub_skill": "around-the-post",
+          "name": "Around the post",
+          "description": "Hit the ATP when the ball pulls you wide of the net post.",
+          "learning_order": 20,
+          "difficulty": 4.8,
+          "level": "advanced",
+          "url": "https://subskills.xyz/pickleball/around-the-post"
+        },
+        {
+          "sub_skill": "erne",
+          "name": "Erne",
+          "description": "Jump around the kitchen to attack a wide ball.",
+          "learning_order": 21,
+          "difficulty": 5,
+          "level": "advanced",
+          "url": "https://subskills.xyz/pickleball/erne"
+        }
+      ],
+      "url": "https://subskills.xyz/pickleball"
+    },
+    {
+      "sport": "pilates",
+      "name": "Pilates",
+      "sub_skills": [
+        {
+          "sub_skill": "pilates-for-beginners",
+          "name": "Pilates for beginners",
+          "description": "Your first mat class, cue by cue.",
+          "learning_order": 1,
+          "difficulty": 1,
+          "level": "beginner",
+          "url": "https://subskills.xyz/pilates/pilates-for-beginners"
+        },
+        {
+          "sub_skill": "pilates-breathing",
+          "name": "Pilates breathing",
+          "description": "Lateral thoracic breathing, the first Pilates principle.",
+          "learning_order": 2,
+          "difficulty": 1.2,
+          "level": "beginner",
+          "url": "https://subskills.xyz/pilates/pilates-breathing"
+        },
+        {
+          "sub_skill": "neutral-spine",
+          "name": "Neutral spine and imprint",
+          "description": "Find neutral pelvis and imprint before every exercise.",
+          "learning_order": 3,
+          "difficulty": 1.4,
+          "level": "beginner",
+          "url": "https://subskills.xyz/pilates/neutral-spine"
+        },
+        {
+          "sub_skill": "reformer-footwork",
+          "name": "Reformer basics: footwork",
+          "description": "Toes, arches, heels and tendon stretch on the reformer.",
+          "learning_order": 4,
+          "difficulty": 1.6,
+          "level": "beginner",
+          "url": "https://subskills.xyz/pilates/reformer-footwork"
+        },
+        {
+          "sub_skill": "the-hundred",
+          "name": "The Hundred",
+          "description": "Master the foundational breathing and core-activation exercise.",
+          "learning_order": 5,
+          "difficulty": 1.8,
+          "level": "beginner",
+          "url": "https://subskills.xyz/pilates/the-hundred"
+        },
+        {
+          "sub_skill": "pilates-bridge",
+          "name": "Pelvic Curl / Bridge",
+          "description": "Articulate the spine into a bridge for glute and core control.",
+          "learning_order": 6,
+          "difficulty": 2,
+          "level": "beginner",
+          "url": "https://subskills.xyz/pilates/pilates-bridge"
+        },
+        {
+          "sub_skill": "leg-circles",
+          "name": "Single-Leg Circles",
+          "description": "Mobilize the hip while keeping the pelvis stable.",
+          "learning_order": 7,
+          "difficulty": 2.2,
+          "level": "beginner",
+          "url": "https://subskills.xyz/pilates/leg-circles"
+        },
+        {
+          "sub_skill": "single-leg-stretch",
+          "name": "Single-Leg Stretch",
+          "description": "Coordinate breath and limb movement while stabilizing the core.",
+          "learning_order": 8,
+          "difficulty": 2.4,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/pilates/single-leg-stretch"
+        },
+        {
+          "sub_skill": "spine-stretch-forward",
+          "name": "Spine Stretch Forward",
+          "description": "Articulate the spine forward to stretch and strengthen the back.",
+          "learning_order": 9,
+          "difficulty": 2.6,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/pilates/spine-stretch-forward"
+        },
+        {
+          "sub_skill": "side-leg-series",
+          "name": "Side-Lying Leg Series",
+          "description": "Work hips and outer thighs while stabilizing the torso.",
+          "learning_order": 10,
+          "difficulty": 2.8,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/pilates/side-leg-series"
+        },
+        {
+          "sub_skill": "swan-prep",
+          "name": "Swan / Back Extension",
+          "description": "Strengthen the back extensors safely with the swan exercise.",
+          "learning_order": 11,
+          "difficulty": 3,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/pilates/swan-prep"
+        },
+        {
+          "sub_skill": "rolling-like-a-ball",
+          "name": "Rolling like a ball",
+          "description": "Control the roll and find balance.",
+          "learning_order": 12,
+          "difficulty": 3.2,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/pilates/rolling-like-a-ball"
+        },
+        {
+          "sub_skill": "double-leg-stretch",
+          "name": "Double leg stretch",
+          "description": "The partner exercise to single leg stretch.",
+          "learning_order": 13,
+          "difficulty": 3.4,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/pilates/double-leg-stretch"
+        },
+        {
+          "sub_skill": "criss-cross",
+          "name": "Criss-cross",
+          "description": "The oblique twist from the classical mat order.",
+          "learning_order": 14,
+          "difficulty": 3.6,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/pilates/criss-cross"
+        },
+        {
+          "sub_skill": "the-saw",
+          "name": "The Saw",
+          "description": "Rotate and reach past the foot to wring out the spine.",
+          "learning_order": 15,
+          "difficulty": 3.8,
+          "level": "advanced",
+          "url": "https://subskills.xyz/pilates/the-saw"
+        },
+        {
+          "sub_skill": "plank-series",
+          "name": "Plank Series",
+          "description": "Hold and transition planks with proper alignment and core engagement.",
+          "learning_order": 16,
+          "difficulty": 4,
+          "level": "advanced",
+          "url": "https://subskills.xyz/pilates/plank-series"
+        },
+        {
+          "sub_skill": "pilates-swimming",
+          "name": "Swimming (Pilates)",
+          "description": "Prone back-extension progression after the swan.",
+          "learning_order": 17,
+          "difficulty": 4.2,
+          "level": "advanced",
+          "url": "https://subskills.xyz/pilates/pilates-swimming"
+        },
+        {
+          "sub_skill": "roll-up",
+          "name": "The Roll-Up",
+          "description": "Articulate the spine to roll up and down with control.",
+          "learning_order": 18,
+          "difficulty": 4.4,
+          "level": "advanced",
+          "url": "https://subskills.xyz/pilates/roll-up"
+        },
+        {
+          "sub_skill": "neck-pull",
+          "name": "Neck Pull",
+          "description": "Roll up and down with hands behind the head.",
+          "learning_order": 19,
+          "difficulty": 4.6,
+          "level": "advanced",
+          "url": "https://subskills.xyz/pilates/neck-pull"
+        },
+        {
+          "sub_skill": "roll-over",
+          "name": "Roll-over",
+          "description": "Articulate the spine overhead with control.",
+          "learning_order": 20,
+          "difficulty": 4.8,
+          "level": "advanced",
+          "url": "https://subskills.xyz/pilates/roll-over"
+        },
+        {
+          "sub_skill": "teaser",
+          "name": "The Teaser",
+          "description": "Build the advanced V-sit balance exercise with control.",
+          "learning_order": 21,
+          "difficulty": 5,
+          "level": "advanced",
+          "url": "https://subskills.xyz/pilates/teaser"
+        }
+      ],
+      "url": "https://subskills.xyz/pilates"
+    },
+    {
+      "sport": "running",
+      "name": "Running",
+      "sub_skills": [
+        {
+          "sub_skill": "starting-to-run",
+          "name": "Couch to 5K",
+          "description": "Run-walk your way from the couch to a continuous 5K.",
+          "learning_order": 1,
+          "difficulty": 1,
+          "level": "beginner",
+          "url": "https://subskills.xyz/running/starting-to-run"
+        },
+        {
+          "sub_skill": "choosing-running-shoes",
+          "name": "Choosing running shoes",
+          "description": "Pick shoes that fit your foot, gait and mileage.",
+          "learning_order": 2,
+          "difficulty": 1.15,
+          "level": "beginner",
+          "url": "https://subskills.xyz/running/choosing-running-shoes"
+        },
+        {
+          "sub_skill": "dynamic-warmup",
+          "name": "Pre-Run Dynamic Warm-up",
+          "description": "Activate muscles with dynamic mobility before a run.",
+          "learning_order": 3,
+          "difficulty": 1.31,
+          "level": "beginner",
+          "url": "https://subskills.xyz/running/dynamic-warmup"
+        },
+        {
+          "sub_skill": "running-form-posture",
+          "name": "Running Form & Posture",
+          "description": "Establish upright posture, lean, and relaxed upper-body mechanics.",
+          "learning_order": 4,
+          "difficulty": 1.46,
+          "level": "beginner",
+          "url": "https://subskills.xyz/running/running-form-posture"
+        },
+        {
+          "sub_skill": "easy-runs",
+          "name": "Easy runs",
+          "description": "Run genuinely easy to build an aerobic base.",
+          "learning_order": 5,
+          "difficulty": 1.62,
+          "level": "beginner",
+          "url": "https://subskills.xyz/running/easy-runs"
+        },
+        {
+          "sub_skill": "post-run-stretching",
+          "name": "Post-run stretching",
+          "description": "Cool down and stretch after a run.",
+          "learning_order": 6,
+          "difficulty": 1.77,
+          "level": "beginner",
+          "url": "https://subskills.xyz/running/post-run-stretching"
+        },
+        {
+          "sub_skill": "breathing-rhythm",
+          "name": "Breathing Rhythm",
+          "description": "Coordinate breathing patterns with stride for endurance.",
+          "learning_order": 7,
+          "difficulty": 1.92,
+          "level": "beginner",
+          "url": "https://subskills.xyz/running/breathing-rhythm"
+        },
+        {
+          "sub_skill": "shin-splints",
+          "name": "Shin splints",
+          "description": "Prevent and rehab the classic beginner shin pain.",
+          "learning_order": 8,
+          "difficulty": 2.08,
+          "level": "beginner",
+          "url": "https://subskills.xyz/running/shin-splints"
+        },
+        {
+          "sub_skill": "arm-swing",
+          "name": "Arm Swing Mechanics",
+          "description": "Use efficient arm drive to support stride and balance.",
+          "learning_order": 9,
+          "difficulty": 2.23,
+          "level": "beginner",
+          "url": "https://subskills.xyz/running/arm-swing"
+        },
+        {
+          "sub_skill": "cadence-optimization",
+          "name": "Cadence Optimization",
+          "description": "Improve stride turnover toward an efficient cadence.",
+          "learning_order": 10,
+          "difficulty": 2.38,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/running/cadence-optimization"
+        },
+        {
+          "sub_skill": "strength-for-runners",
+          "name": "Strength training for runners",
+          "description": "Build the strength that keeps you injury-free.",
+          "learning_order": 11,
+          "difficulty": 2.54,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/running/strength-for-runners"
+        },
+        {
+          "sub_skill": "zone-2-running",
+          "name": "Zone 2 running",
+          "description": "Train at an easy aerobic heart rate and know why it works.",
+          "learning_order": 12,
+          "difficulty": 2.69,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/running/zone-2-running"
+        },
+        {
+          "sub_skill": "long-run",
+          "name": "The long run",
+          "description": "Build endurance with a weekly long run.",
+          "learning_order": 13,
+          "difficulty": 2.85,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/running/long-run"
+        },
+        {
+          "sub_skill": "runners-knee",
+          "name": "Runner's knee and IT band pain",
+          "description": "Fix the two most common overuse injuries in running.",
+          "learning_order": 14,
+          "difficulty": 3,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/running/runners-knee"
+        },
+        {
+          "sub_skill": "foot-strike",
+          "name": "Foot Strike Mechanics",
+          "description": "Understand forefoot, midfoot, and heel strike and how to adjust landing.",
+          "learning_order": 15,
+          "difficulty": 3.15,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/running/foot-strike"
+        },
+        {
+          "sub_skill": "running-drills",
+          "name": "Running Form Drills",
+          "description": "Practice A-skips, B-skips, and high knees to ingrain technique.",
+          "learning_order": 16,
+          "difficulty": 3.31,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/running/running-drills"
+        },
+        {
+          "sub_skill": "strides-form-sprints",
+          "name": "Strides & Form Sprints",
+          "description": "Run controlled accelerations to sharpen mechanics and turnover.",
+          "learning_order": 17,
+          "difficulty": 3.46,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/running/strides-form-sprints"
+        },
+        {
+          "sub_skill": "plantar-fasciitis",
+          "name": "Plantar fasciitis",
+          "description": "Recognise, treat and rehab heel and arch pain.",
+          "learning_order": 18,
+          "difficulty": 3.62,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/running/plantar-fasciitis"
+        },
+        {
+          "sub_skill": "achilles-tendonitis",
+          "name": "Achilles tendonitis",
+          "description": "Load management and rehab for achilles pain.",
+          "learning_order": 19,
+          "difficulty": 3.77,
+          "level": "advanced",
+          "url": "https://subskills.xyz/running/achilles-tendonitis"
+        },
+        {
+          "sub_skill": "hill-running",
+          "name": "Uphill Running Technique",
+          "description": "Adjust posture, stride, and effort for efficient climbing.",
+          "learning_order": 20,
+          "difficulty": 3.92,
+          "level": "advanced",
+          "url": "https://subskills.xyz/running/hill-running"
+        },
+        {
+          "sub_skill": "downhill-running",
+          "name": "Downhill Running Technique",
+          "description": "Control descent with safe braking and cadence to reduce impact.",
+          "learning_order": 21,
+          "difficulty": 4.08,
+          "level": "advanced",
+          "url": "https://subskills.xyz/running/downhill-running"
+        },
+        {
+          "sub_skill": "trail-running",
+          "name": "Trail running",
+          "description": "Adjust footing, effort and technique off-road.",
+          "learning_order": 22,
+          "difficulty": 4.23,
+          "level": "advanced",
+          "url": "https://subskills.xyz/running/trail-running"
+        },
+        {
+          "sub_skill": "hill-repeats",
+          "name": "Hill repeats",
+          "description": "Structure a hill repeat session for power and form.",
+          "learning_order": 23,
+          "difficulty": 4.38,
+          "level": "advanced",
+          "url": "https://subskills.xyz/running/hill-repeats"
+        },
+        {
+          "sub_skill": "interval-tempo",
+          "name": "Interval and tempo runs",
+          "description": "Structure threshold, tempo and interval sessions.",
+          "learning_order": 24,
+          "difficulty": 4.54,
+          "level": "advanced",
+          "url": "https://subskills.xyz/running/interval-tempo"
+        },
+        {
+          "sub_skill": "race-pacing",
+          "name": "Race pacing",
+          "description": "Pace a 5K to a marathon without blowing up.",
+          "learning_order": 25,
+          "difficulty": 4.69,
+          "level": "advanced",
+          "url": "https://subskills.xyz/running/race-pacing"
+        },
+        {
+          "sub_skill": "marathon-fuelling",
+          "name": "Marathon fuelling",
+          "description": "Carbs per hour, gels and practising race nutrition.",
+          "learning_order": 26,
+          "difficulty": 4.85,
+          "level": "advanced",
+          "url": "https://subskills.xyz/running/marathon-fuelling"
+        },
+        {
+          "sub_skill": "marathon-taper",
+          "name": "How to taper for a marathon",
+          "description": "Cut volume without losing fitness in the final weeks.",
+          "learning_order": 27,
+          "difficulty": 5,
+          "level": "advanced",
+          "url": "https://subskills.xyz/running/marathon-taper"
+        }
+      ],
+      "url": "https://subskills.xyz/running"
+    },
+    {
+      "sport": "skiing",
+      "name": "Skiing",
+      "sub_skills": [
+        {
+          "sub_skill": "ski-boot-fitting",
+          "name": "Ski boot fitting",
+          "description": "Get size, flex and fit right — the single biggest comfort and control factor.",
+          "learning_order": 1,
+          "difficulty": 1,
+          "level": "beginner",
+          "url": "https://subskills.xyz/skiing/ski-boot-fitting"
+        },
+        {
+          "sub_skill": "how-to-ski-for-beginners",
+          "name": "How to ski for beginners",
+          "description": "Your first day: getting used to the skis, sliding and turning.",
+          "learning_order": 2,
+          "difficulty": 1.2,
+          "level": "beginner",
+          "url": "https://subskills.xyz/skiing/how-to-ski-for-beginners"
+        },
+        {
+          "sub_skill": "ski-stance-and-body-position",
+          "name": "Ski stance and body position",
+          "description": "Stack the body over the skis with balanced ankle, knee and hip flex.",
+          "learning_order": 3,
+          "difficulty": 1.4,
+          "level": "beginner",
+          "url": "https://subskills.xyz/skiing/ski-stance-and-body-position"
+        },
+        {
+          "sub_skill": "how-to-use-a-ski-lift",
+          "name": "How to use a ski lift",
+          "description": "Ride and get off chairlifts, button lifts and drag lifts.",
+          "learning_order": 4,
+          "difficulty": 1.6,
+          "level": "beginner",
+          "url": "https://subskills.xyz/skiing/how-to-use-a-ski-lift"
+        },
+        {
+          "sub_skill": "getting-up-after-a-fall",
+          "name": "Getting up after a fall",
+          "description": "Get back on your feet on a slope without exhausting yourself.",
+          "learning_order": 5,
+          "difficulty": 1.8,
+          "level": "beginner",
+          "url": "https://subskills.xyz/skiing/getting-up-after-a-fall"
+        },
+        {
+          "sub_skill": "how-to-stop-on-skis",
+          "name": "How to stop on skis",
+          "description": "Learn the snowplough stop and progress to a hockey stop.",
+          "learning_order": 6,
+          "difficulty": 2,
+          "level": "beginner",
+          "url": "https://subskills.xyz/skiing/how-to-stop-on-skis"
+        },
+        {
+          "sub_skill": "snowplough-turns",
+          "name": "Snowplough turns",
+          "description": "Steer both skis to link your first turns in a wedge.",
+          "learning_order": 7,
+          "difficulty": 2.2,
+          "level": "beginner",
+          "url": "https://subskills.xyz/skiing/snowplough-turns"
+        },
+        {
+          "sub_skill": "side-slipping",
+          "name": "Side slipping",
+          "description": "Release and engage the edges to slip sideways down a steep pitch.",
+          "learning_order": 8,
+          "difficulty": 2.4,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/skiing/side-slipping"
+        },
+        {
+          "sub_skill": "parallel-turns",
+          "name": "Parallel turns",
+          "description": "Move from wedge to matched skis and link parallel turns.",
+          "learning_order": 9,
+          "difficulty": 2.6,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/skiing/parallel-turns"
+        },
+        {
+          "sub_skill": "hockey-stop",
+          "name": "Hockey stop",
+          "description": "Pivot both skis across the fall line for a fast, controlled stop.",
+          "learning_order": 10,
+          "difficulty": 2.8,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/skiing/hockey-stop"
+        },
+        {
+          "sub_skill": "how-to-choose-skis",
+          "name": "How to choose skis",
+          "description": "Pick length, width and type for the skiing you actually do.",
+          "learning_order": 11,
+          "difficulty": 3,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/skiing/how-to-choose-skis"
+        },
+        {
+          "sub_skill": "ski-fitness-and-conditioning",
+          "name": "Ski fitness and conditioning",
+          "description": "Build the legs and core that keep you skiing all week.",
+          "learning_order": 12,
+          "difficulty": 3.2,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/skiing/ski-fitness-and-conditioning"
+        },
+        {
+          "sub_skill": "pole-plant",
+          "name": "Pole plant",
+          "description": "Time the pole plant to trigger and rhythm your turns.",
+          "learning_order": 13,
+          "difficulty": 3.4,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/skiing/pole-plant"
+        },
+        {
+          "sub_skill": "short-turns",
+          "name": "Short turns",
+          "description": "Make quick, rhythmic turns on steeper and narrower terrain.",
+          "learning_order": 14,
+          "difficulty": 3.6,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/skiing/short-turns"
+        },
+        {
+          "sub_skill": "carving-on-skis",
+          "name": "Carving on skis",
+          "description": "Tip the skis on edge and leave clean arcs instead of skidding.",
+          "learning_order": 15,
+          "difficulty": 3.8,
+          "level": "advanced",
+          "url": "https://subskills.xyz/skiing/carving-on-skis"
+        },
+        {
+          "sub_skill": "skiing-on-ice",
+          "name": "Skiing on ice",
+          "description": "Hold an edge and stay in control on hard, icy snow.",
+          "learning_order": 16,
+          "difficulty": 4,
+          "level": "advanced",
+          "url": "https://subskills.xyz/skiing/skiing-on-ice"
+        },
+        {
+          "sub_skill": "skiing-steeps",
+          "name": "Skiing steeps",
+          "description": "Stay balanced and in control on steep pitches.",
+          "learning_order": 17,
+          "difficulty": 4.2,
+          "level": "advanced",
+          "url": "https://subskills.xyz/skiing/skiing-steeps"
+        },
+        {
+          "sub_skill": "skiing-moguls",
+          "name": "Skiing moguls",
+          "description": "Absorb and extend through bumps and pick a line.",
+          "learning_order": 18,
+          "difficulty": 4.4,
+          "level": "advanced",
+          "url": "https://subskills.xyz/skiing/skiing-moguls"
+        },
+        {
+          "sub_skill": "skiing-powder",
+          "name": "Skiing powder",
+          "description": "Adjust stance and turn shape for deep snow.",
+          "learning_order": 19,
+          "difficulty": 4.6,
+          "level": "advanced",
+          "url": "https://subskills.xyz/skiing/skiing-powder"
+        },
+        {
+          "sub_skill": "how-to-jump-on-skis",
+          "name": "How to jump on skis",
+          "description": "Take off, fly and land safely on a jump.",
+          "learning_order": 20,
+          "difficulty": 4.8,
+          "level": "advanced",
+          "url": "https://subskills.xyz/skiing/how-to-jump-on-skis"
+        },
+        {
+          "sub_skill": "avalanche-safety",
+          "name": "Avalanche safety",
+          "description": "Recognise avalanche terrain and know the basics of rescue.",
+          "learning_order": 21,
+          "difficulty": 5,
+          "level": "advanced",
+          "url": "https://subskills.xyz/skiing/avalanche-safety"
+        }
+      ],
+      "url": "https://subskills.xyz/skiing"
+    },
+    {
+      "sport": "snowboarding",
+      "name": "Snowboarding",
+      "sub_skills": [
+        {
+          "sub_skill": "how-to-snowboard-for-beginners",
+          "name": "How to snowboard for beginners",
+          "description": "Your first day: strapping in, sliding and finding your edges.",
+          "learning_order": 1,
+          "difficulty": 1,
+          "level": "beginner",
+          "url": "https://subskills.xyz/snowboarding/how-to-snowboard-for-beginners"
+        },
+        {
+          "sub_skill": "snowboard-stance-and-binding-angles",
+          "name": "Snowboard stance and binding angles",
+          "description": "Set stance width, angles and highbacks for comfort and control.",
+          "learning_order": 2,
+          "difficulty": 1.21,
+          "level": "beginner",
+          "url": "https://subskills.xyz/snowboarding/snowboard-stance-and-binding-angles"
+        },
+        {
+          "sub_skill": "riding-the-chairlift",
+          "name": "Riding the chairlift",
+          "description": "Load, ride and unload a chairlift with one foot strapped in.",
+          "learning_order": 3,
+          "difficulty": 1.42,
+          "level": "beginner",
+          "url": "https://subskills.xyz/snowboarding/riding-the-chairlift"
+        },
+        {
+          "sub_skill": "how-to-stop-on-a-snowboard",
+          "name": "How to stop on a snowboard",
+          "description": "Stop reliably on heelside and toeside.",
+          "learning_order": 4,
+          "difficulty": 1.63,
+          "level": "beginner",
+          "url": "https://subskills.xyz/snowboarding/how-to-stop-on-a-snowboard"
+        },
+        {
+          "sub_skill": "falling-leaf",
+          "name": "Falling leaf",
+          "description": "Slide down on one edge to build edge control and confidence.",
+          "learning_order": 5,
+          "difficulty": 1.84,
+          "level": "beginner",
+          "url": "https://subskills.xyz/snowboarding/falling-leaf"
+        },
+        {
+          "sub_skill": "heelside-turns",
+          "name": "Heelside turns",
+          "description": "Turn on the heel edge without washing out or jutting.",
+          "learning_order": 6,
+          "difficulty": 2.05,
+          "level": "beginner",
+          "url": "https://subskills.xyz/snowboarding/heelside-turns"
+        },
+        {
+          "sub_skill": "toeside-turns",
+          "name": "Toeside turns",
+          "description": "Commit to the toe edge and hold the turn.",
+          "learning_order": 7,
+          "difficulty": 2.26,
+          "level": "beginner",
+          "url": "https://subskills.xyz/snowboarding/toeside-turns"
+        },
+        {
+          "sub_skill": "linking-turns",
+          "name": "Linking turns",
+          "description": "Join heelside and toeside into smooth linked turns.",
+          "learning_order": 8,
+          "difficulty": 2.47,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/snowboarding/linking-turns"
+        },
+        {
+          "sub_skill": "snowboard-carving",
+          "name": "Snowboard carving",
+          "description": "Ride on edge and leave a clean pencil line.",
+          "learning_order": 9,
+          "difficulty": 2.68,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/snowboarding/snowboard-carving"
+        },
+        {
+          "sub_skill": "how-to-choose-a-snowboard",
+          "name": "How to choose a snowboard",
+          "description": "Pick length, shape, flex and camber profile for your riding.",
+          "learning_order": 10,
+          "difficulty": 2.89,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/snowboarding/how-to-choose-a-snowboard"
+        },
+        {
+          "sub_skill": "riding-switch",
+          "name": "Riding switch",
+          "description": "Ride and turn with your opposite foot forward.",
+          "learning_order": 11,
+          "difficulty": 3.11,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/snowboarding/riding-switch"
+        },
+        {
+          "sub_skill": "ollie-on-a-snowboard",
+          "name": "Ollie on a snowboard",
+          "description": "Load the tail and pop off the snow.",
+          "learning_order": 12,
+          "difficulty": 3.32,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/snowboarding/ollie-on-a-snowboard"
+        },
+        {
+          "sub_skill": "butters",
+          "name": "Butters",
+          "description": "Press on the nose and tail and spin flat on the snow.",
+          "learning_order": 13,
+          "difficulty": 3.53,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/snowboarding/butters"
+        },
+        {
+          "sub_skill": "riding-moguls",
+          "name": "Riding moguls",
+          "description": "Pick a line and absorb repeated bumps and troughs.",
+          "learning_order": 14,
+          "difficulty": 3.74,
+          "level": "advanced",
+          "url": "https://subskills.xyz/snowboarding/riding-moguls"
+        },
+        {
+          "sub_skill": "riding-powder",
+          "name": "Riding powder",
+          "description": "Keep the nose up and float through deep snow.",
+          "learning_order": 15,
+          "difficulty": 3.95,
+          "level": "advanced",
+          "url": "https://subskills.xyz/snowboarding/riding-powder"
+        },
+        {
+          "sub_skill": "frontside-180",
+          "name": "Frontside 180",
+          "description": "Spin and land your first frontside 180.",
+          "learning_order": 16,
+          "difficulty": 4.16,
+          "level": "advanced",
+          "url": "https://subskills.xyz/snowboarding/frontside-180"
+        },
+        {
+          "sub_skill": "backside-180",
+          "name": "Backside 180",
+          "description": "Spin and land a backside 180.",
+          "learning_order": 17,
+          "difficulty": 4.37,
+          "level": "advanced",
+          "url": "https://subskills.xyz/snowboarding/backside-180"
+        },
+        {
+          "sub_skill": "park-jumps",
+          "name": "Park jumps",
+          "description": "Approach, pop and land park jumps safely.",
+          "learning_order": 18,
+          "difficulty": 4.58,
+          "level": "advanced",
+          "url": "https://subskills.xyz/snowboarding/park-jumps"
+        },
+        {
+          "sub_skill": "boxes-and-rails",
+          "name": "Boxes and rails",
+          "description": "Get onto boxes and rails and slide them under control.",
+          "learning_order": 19,
+          "difficulty": 4.79,
+          "level": "advanced",
+          "url": "https://subskills.xyz/snowboarding/boxes-and-rails"
+        },
+        {
+          "sub_skill": "avalanche-safety",
+          "name": "Avalanche safety",
+          "description": "Recognise avalanche terrain and know the basics of rescue.",
+          "learning_order": 20,
+          "difficulty": 5,
+          "level": "advanced",
+          "url": "https://subskills.xyz/snowboarding/avalanche-safety"
+        }
+      ],
+      "url": "https://subskills.xyz/snowboarding"
+    },
+    {
+      "sport": "soccer",
+      "name": "Soccer (Individual Skills)",
+      "sub_skills": [
+        {
+          "sub_skill": "ball-mastery",
+          "name": "Ball Mastery",
+          "description": "Drill close-control touches and foundational ball-rolling patterns.",
+          "learning_order": 1,
+          "difficulty": 1,
+          "level": "beginner",
+          "url": "https://subskills.xyz/soccer/ball-mastery"
+        },
+        {
+          "sub_skill": "first-touch",
+          "name": "First Touch",
+          "description": "Receive and direct the ball cleanly with various surfaces.",
+          "learning_order": 2,
+          "difficulty": 1.2,
+          "level": "beginner",
+          "url": "https://subskills.xyz/soccer/first-touch"
+        },
+        {
+          "sub_skill": "passing-technique",
+          "name": "Passing Technique",
+          "description": "Strike accurate short and long passes with proper form.",
+          "learning_order": 3,
+          "difficulty": 1.4,
+          "level": "beginner",
+          "url": "https://subskills.xyz/soccer/passing-technique"
+        },
+        {
+          "sub_skill": "dribbling-close-control",
+          "name": "Dribbling & Close Control",
+          "description": "Move with the ball at speed under tight control.",
+          "learning_order": 4,
+          "difficulty": 1.6,
+          "level": "beginner",
+          "url": "https://subskills.xyz/soccer/dribbling-close-control"
+        },
+        {
+          "sub_skill": "juggling",
+          "name": "Juggling & Ball Feel",
+          "description": "Build coordination and touch through juggling.",
+          "learning_order": 5,
+          "difficulty": 1.8,
+          "level": "beginner",
+          "url": "https://subskills.xyz/soccer/juggling"
+        },
+        {
+          "sub_skill": "shielding-the-ball",
+          "name": "How to shield the ball",
+          "description": "Use your body to protect possession under pressure.",
+          "learning_order": 6,
+          "difficulty": 2,
+          "level": "beginner",
+          "url": "https://subskills.xyz/soccer/shielding-the-ball"
+        },
+        {
+          "sub_skill": "finishing-shooting",
+          "name": "Finishing & Shooting",
+          "description": "Strike the ball cleanly to finish chances on goal.",
+          "learning_order": 7,
+          "difficulty": 2.2,
+          "level": "beginner",
+          "url": "https://subskills.xyz/soccer/finishing-shooting"
+        },
+        {
+          "sub_skill": "weak-foot-development",
+          "name": "Weak-Foot Development",
+          "description": "Train the non-dominant foot for passing and shooting.",
+          "learning_order": 8,
+          "difficulty": 2.4,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/soccer/weak-foot-development"
+        },
+        {
+          "sub_skill": "turning-with-the-ball",
+          "name": "Turns to beat a defender",
+          "description": "Escape pressure with the Cruyff, drag-back and hook turns.",
+          "learning_order": 9,
+          "difficulty": 2.6,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/soccer/turning-with-the-ball"
+        },
+        {
+          "sub_skill": "heading",
+          "name": "Heading",
+          "description": "Attacking and defensive heading technique and timing.",
+          "learning_order": 10,
+          "difficulty": 2.8,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/soccer/heading"
+        },
+        {
+          "sub_skill": "long-passing",
+          "name": "Long passing and switching play",
+          "description": "Strike accurate lofted and driven long passes.",
+          "learning_order": 11,
+          "difficulty": 3,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/soccer/long-passing"
+        },
+        {
+          "sub_skill": "off-the-ball-movement",
+          "name": "Off the ball movement",
+          "description": "Create space and time your runs without the ball.",
+          "learning_order": 12,
+          "difficulty": 3.2,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/soccer/off-the-ball-movement"
+        },
+        {
+          "sub_skill": "defending-1v1",
+          "name": "Defending 1v1",
+          "description": "Approach, jockey and force the attacker where you want.",
+          "learning_order": 13,
+          "difficulty": 3.4,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/soccer/defending-1v1"
+        },
+        {
+          "sub_skill": "how-to-tackle",
+          "name": "How to tackle in football",
+          "description": "Block tackle, poke tackle and the slide tackle without fouling.",
+          "learning_order": 14,
+          "difficulty": 3.6,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/soccer/how-to-tackle"
+        },
+        {
+          "sub_skill": "crossing",
+          "name": "Crossing",
+          "description": "Whipped, driven and cut-back crosses from wide areas.",
+          "learning_order": 15,
+          "difficulty": 3.8,
+          "level": "advanced",
+          "url": "https://subskills.xyz/soccer/crossing"
+        },
+        {
+          "sub_skill": "1v1-moves",
+          "name": "1v1 Beating Moves",
+          "description": "Learn moves to beat a defender one-on-one.",
+          "learning_order": 16,
+          "difficulty": 4,
+          "level": "advanced",
+          "url": "https://subskills.xyz/soccer/1v1-moves"
+        },
+        {
+          "sub_skill": "step-overs",
+          "name": "Step-Overs",
+          "description": "Execute step-over feints to unbalance defenders.",
+          "learning_order": 17,
+          "difficulty": 4.2,
+          "level": "advanced",
+          "url": "https://subskills.xyz/soccer/step-overs"
+        },
+        {
+          "sub_skill": "volley-technique",
+          "name": "How to hit a volley",
+          "description": "Strike the ball cleanly out of the air.",
+          "learning_order": 18,
+          "difficulty": 4.4,
+          "level": "advanced",
+          "url": "https://subskills.xyz/soccer/volley-technique"
+        },
+        {
+          "sub_skill": "penalty-technique",
+          "name": "How to take a penalty",
+          "description": "Placement, run-up and composure from the spot.",
+          "learning_order": 19,
+          "difficulty": 4.6,
+          "level": "advanced",
+          "url": "https://subskills.xyz/soccer/penalty-technique"
+        },
+        {
+          "sub_skill": "la-croqueta",
+          "name": "La Croqueta",
+          "description": "Shift the ball between feet to slip past a defender.",
+          "learning_order": 20,
+          "difficulty": 4.8,
+          "level": "advanced",
+          "url": "https://subskills.xyz/soccer/la-croqueta"
+        },
+        {
+          "sub_skill": "free-kick-technique",
+          "name": "Free-Kick Technique",
+          "description": "Generate curl, knuckle, or power on direct free kicks.",
+          "learning_order": 21,
+          "difficulty": 5,
+          "level": "advanced",
+          "url": "https://subskills.xyz/soccer/free-kick-technique"
+        }
+      ],
+      "url": "https://subskills.xyz/soccer"
+    },
+    {
+      "sport": "surfing",
+      "name": "Surfing",
+      "sub_skills": [
+        {
+          "sub_skill": "board-choice",
+          "name": "Board choice",
+          "description": "Match volume, shape, fin setup, and length to waves and ability level.",
+          "learning_order": 1,
+          "difficulty": 1,
+          "level": "beginner",
+          "url": "https://subskills.xyz/surfing/board-choice"
+        },
+        {
+          "sub_skill": "surf-etiquette",
+          "name": "Surf etiquette",
+          "description": "Understand right of way, paddling lanes, communication, and safe decision-making.",
+          "learning_order": 2,
+          "difficulty": 1.17,
+          "level": "beginner",
+          "url": "https://subskills.xyz/surfing/surf-etiquette"
+        },
+        {
+          "sub_skill": "rip-currents",
+          "name": "Rip currents",
+          "description": "Spot rips, escape them, and use them to paddle out.",
+          "learning_order": 3,
+          "difficulty": 1.35,
+          "level": "beginner",
+          "url": "https://subskills.xyz/surfing/rip-currents"
+        },
+        {
+          "sub_skill": "waxing-a-surfboard",
+          "name": "How to wax a surfboard",
+          "description": "Base coat, top coat and getting proper bumps.",
+          "learning_order": 4,
+          "difficulty": 1.52,
+          "level": "beginner",
+          "url": "https://subskills.xyz/surfing/waxing-a-surfboard"
+        },
+        {
+          "sub_skill": "surf-stance",
+          "name": "Surf stance",
+          "description": "Build balance, compression, foot placement, and upper-body alignment on the board.",
+          "learning_order": 5,
+          "difficulty": 1.7,
+          "level": "beginner",
+          "url": "https://subskills.xyz/surfing/surf-stance"
+        },
+        {
+          "sub_skill": "paddling-technique",
+          "name": "Paddling technique",
+          "description": "Paddle efficiently with body position, stroke mechanics, and breathing control.",
+          "learning_order": 6,
+          "difficulty": 1.87,
+          "level": "beginner",
+          "url": "https://subskills.xyz/surfing/paddling-technique"
+        },
+        {
+          "sub_skill": "pop-up",
+          "name": "Pop-up",
+          "description": "Move from prone to stance quickly with stable foot placement and low posture.",
+          "learning_order": 7,
+          "difficulty": 2.04,
+          "level": "beginner",
+          "url": "https://subskills.xyz/surfing/pop-up"
+        },
+        {
+          "sub_skill": "falling-off-safely",
+          "name": "How to fall off safely",
+          "description": "Fall flat, protect your head and come up covered.",
+          "learning_order": 8,
+          "difficulty": 2.22,
+          "level": "beginner",
+          "url": "https://subskills.xyz/surfing/falling-off-safely"
+        },
+        {
+          "sub_skill": "paddling-out",
+          "name": "Paddling out",
+          "description": "Pick your route, time the sets and use the channel.",
+          "learning_order": 9,
+          "difficulty": 2.39,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/surfing/paddling-out"
+        },
+        {
+          "sub_skill": "surf-forecast",
+          "name": "Reading the surf forecast",
+          "description": "Read swell, period, wind and tide before you go.",
+          "learning_order": 10,
+          "difficulty": 2.57,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/surfing/surf-forecast"
+        },
+        {
+          "sub_skill": "turtle-roll",
+          "name": "Turtle roll",
+          "description": "Pass whitewater on longer boards with safe grip, rotation, and reset.",
+          "learning_order": 11,
+          "difficulty": 2.74,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/surfing/turtle-roll"
+        },
+        {
+          "sub_skill": "wave-selection",
+          "name": "Wave selection",
+          "description": "Read sets, peaks, shoulders, and wave quality before committing to a paddle.",
+          "learning_order": 12,
+          "difficulty": 2.91,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/surfing/wave-selection"
+        },
+        {
+          "sub_skill": "lineup-positioning",
+          "name": "Lineup positioning",
+          "description": "Choose takeoff spots while respecting priority, currents, and crowd flow.",
+          "learning_order": 13,
+          "difficulty": 3.09,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/surfing/lineup-positioning"
+        },
+        {
+          "sub_skill": "takeoff-timing",
+          "name": "Takeoff timing",
+          "description": "Match paddle speed and timing to enter waves with control.",
+          "learning_order": 14,
+          "difficulty": 3.26,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/surfing/takeoff-timing"
+        },
+        {
+          "sub_skill": "catching-a-green-wave",
+          "name": "How to catch a green wave",
+          "description": "Move from whitewater to unbroken waves.",
+          "learning_order": 15,
+          "difficulty": 3.43,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/surfing/catching-a-green-wave"
+        },
+        {
+          "sub_skill": "trimming",
+          "name": "Riding down the line",
+          "description": "Angle the take-off and ride across the face.",
+          "learning_order": 16,
+          "difficulty": 3.61,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/surfing/trimming"
+        },
+        {
+          "sub_skill": "duck-dive",
+          "name": "Duck dive",
+          "description": "Get under breaking waves with board angle, body weight, and recovery timing.",
+          "learning_order": 17,
+          "difficulty": 3.78,
+          "level": "advanced",
+          "url": "https://subskills.xyz/surfing/duck-dive"
+        },
+        {
+          "sub_skill": "generating-speed",
+          "name": "Generating speed",
+          "description": "Pump the board to build and hold speed.",
+          "learning_order": 18,
+          "difficulty": 3.96,
+          "level": "advanced",
+          "url": "https://subskills.xyz/surfing/generating-speed"
+        },
+        {
+          "sub_skill": "ding-repair",
+          "name": "Surfboard ding repair",
+          "description": "Fix dings so water stays out of the foam.",
+          "learning_order": 19,
+          "difficulty": 4.13,
+          "level": "advanced",
+          "url": "https://subskills.xyz/surfing/ding-repair"
+        },
+        {
+          "sub_skill": "bottom-turn",
+          "name": "Bottom turn",
+          "description": "Set the rail and redirect speed from the lower third of the wave.",
+          "learning_order": 20,
+          "difficulty": 4.3,
+          "level": "advanced",
+          "url": "https://subskills.xyz/surfing/bottom-turn"
+        },
+        {
+          "sub_skill": "top-turn",
+          "name": "Top turn",
+          "description": "Redirect off the lip to complete the bottom-turn combo.",
+          "learning_order": 21,
+          "difficulty": 4.48,
+          "level": "advanced",
+          "url": "https://subskills.xyz/surfing/top-turn"
+        },
+        {
+          "sub_skill": "cutback",
+          "name": "Cutback",
+          "description": "Return to the power source with rail control, rotation, and rebound timing.",
+          "learning_order": 22,
+          "difficulty": 4.65,
+          "level": "advanced",
+          "url": "https://subskills.xyz/surfing/cutback"
+        },
+        {
+          "sub_skill": "cross-stepping",
+          "name": "Cross stepping",
+          "description": "Walk the board to the nose on a longboard.",
+          "learning_order": 23,
+          "difficulty": 4.83,
+          "level": "advanced",
+          "url": "https://subskills.xyz/surfing/cross-stepping"
+        },
+        {
+          "sub_skill": "floater",
+          "name": "Floater",
+          "description": "Ride up and over the breaking section.",
+          "learning_order": 24,
+          "difficulty": 5,
+          "level": "advanced",
+          "url": "https://subskills.xyz/surfing/floater"
+        }
+      ],
+      "url": "https://subskills.xyz/surfing"
+    },
+    {
+      "sport": "swimming",
+      "name": "Swimming",
+      "sub_skills": [
+        {
+          "sub_skill": "breath-control",
+          "name": "Breath control",
+          "description": "Exhale underwater and stay relaxed for beginners.",
+          "learning_order": 1,
+          "difficulty": 1,
+          "level": "beginner",
+          "url": "https://subskills.xyz/swimming/breath-control"
+        },
+        {
+          "sub_skill": "floating",
+          "name": "Front and back float",
+          "description": "Find balance and float on the front and back.",
+          "learning_order": 2,
+          "difficulty": 1.19,
+          "level": "beginner",
+          "url": "https://subskills.xyz/swimming/floating"
+        },
+        {
+          "sub_skill": "treading-water",
+          "name": "How to tread water",
+          "description": "Stay vertical and calm using eggbeater and sculling.",
+          "learning_order": 3,
+          "difficulty": 1.38,
+          "level": "beginner",
+          "url": "https://subskills.xyz/swimming/treading-water"
+        },
+        {
+          "sub_skill": "streamline-pushoff",
+          "name": "Streamline Push-Off",
+          "description": "Hold a tight streamline off the wall to maximize glide.",
+          "learning_order": 4,
+          "difficulty": 1.57,
+          "level": "beginner",
+          "url": "https://subskills.xyz/swimming/streamline-pushoff"
+        },
+        {
+          "sub_skill": "freestyle-kick",
+          "name": "Freestyle Flutter Kick",
+          "description": "Develop an efficient flutter kick from the hips.",
+          "learning_order": 5,
+          "difficulty": 1.76,
+          "level": "beginner",
+          "url": "https://subskills.xyz/swimming/freestyle-kick"
+        },
+        {
+          "sub_skill": "swimming-without-getting-tired",
+          "name": "How to swim without getting tired",
+          "description": "Pace, breathe and relax to swim further.",
+          "learning_order": 6,
+          "difficulty": 1.95,
+          "level": "beginner",
+          "url": "https://subskills.xyz/swimming/swimming-without-getting-tired"
+        },
+        {
+          "sub_skill": "backstroke-kick",
+          "name": "Backstroke kick",
+          "description": "Kick from the hip with a steady, compact backstroke kick.",
+          "learning_order": 7,
+          "difficulty": 2.14,
+          "level": "beginner",
+          "url": "https://subskills.xyz/swimming/backstroke-kick"
+        },
+        {
+          "sub_skill": "backstroke-technique",
+          "name": "Backstroke Technique",
+          "description": "Improve body position, arm entry, and rotation in backstroke.",
+          "learning_order": 8,
+          "difficulty": 2.33,
+          "level": "beginner",
+          "url": "https://subskills.xyz/swimming/backstroke-technique"
+        },
+        {
+          "sub_skill": "body-rotation",
+          "name": "Body Rotation",
+          "description": "Rotate the body along its long axis to reduce drag and aid the pull.",
+          "learning_order": 9,
+          "difficulty": 2.52,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/swimming/body-rotation"
+        },
+        {
+          "sub_skill": "bilateral-breathing",
+          "name": "Freestyle Bilateral Breathing",
+          "description": "Breathe to both sides with proper head rotation and timing.",
+          "learning_order": 10,
+          "difficulty": 2.71,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/swimming/bilateral-breathing"
+        },
+        {
+          "sub_skill": "freestyle-catch",
+          "name": "Freestyle High-Elbow Catch",
+          "description": "Set up the early-vertical-forearm catch for efficient freestyle pull.",
+          "learning_order": 11,
+          "difficulty": 2.9,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/swimming/freestyle-catch"
+        },
+        {
+          "sub_skill": "breaststroke-kick",
+          "name": "Breaststroke kick",
+          "description": "Master the whip kick, the most-failed element in breaststroke.",
+          "learning_order": 12,
+          "difficulty": 3.1,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/swimming/breaststroke-kick"
+        },
+        {
+          "sub_skill": "breaststroke-pull",
+          "name": "Breaststroke pull",
+          "description": "Out-sweep, in-sweep and recovery for the breaststroke pull.",
+          "learning_order": 13,
+          "difficulty": 3.29,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/swimming/breaststroke-pull"
+        },
+        {
+          "sub_skill": "breaststroke-timing",
+          "name": "Breaststroke Timing",
+          "description": "Coordinate the pull, breath, kick, and glide sequence.",
+          "learning_order": 14,
+          "difficulty": 3.48,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/swimming/breaststroke-timing"
+        },
+        {
+          "sub_skill": "pull-buoy",
+          "name": "How to use a pull buoy",
+          "description": "Use a pull buoy and paddles to build a stronger pull.",
+          "learning_order": 15,
+          "difficulty": 3.67,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/swimming/pull-buoy"
+        },
+        {
+          "sub_skill": "sculling-drills",
+          "name": "Sculling Drills",
+          "description": "Develop feel for the water with sculling hand movements.",
+          "learning_order": 16,
+          "difficulty": 3.86,
+          "level": "advanced",
+          "url": "https://subskills.xyz/swimming/sculling-drills"
+        },
+        {
+          "sub_skill": "open-turn",
+          "name": "Open turn",
+          "description": "Turn at the wall in breaststroke and butterfly.",
+          "learning_order": 17,
+          "difficulty": 4.05,
+          "level": "advanced",
+          "url": "https://subskills.xyz/swimming/open-turn"
+        },
+        {
+          "sub_skill": "open-water-sighting",
+          "name": "Open water sighting",
+          "description": "Lift, look and swim straight in open water.",
+          "learning_order": 18,
+          "difficulty": 4.24,
+          "level": "advanced",
+          "url": "https://subskills.xyz/swimming/open-water-sighting"
+        },
+        {
+          "sub_skill": "flip-turn",
+          "name": "Freestyle Flip Turn",
+          "description": "Execute a tumble turn and streamline push-off at the wall.",
+          "learning_order": 19,
+          "difficulty": 4.43,
+          "level": "advanced",
+          "url": "https://subskills.xyz/swimming/flip-turn"
+        },
+        {
+          "sub_skill": "racing-dive",
+          "name": "Racing dive",
+          "description": "Dive from the blocks with a tight, fast entry.",
+          "learning_order": 20,
+          "difficulty": 4.62,
+          "level": "advanced",
+          "url": "https://subskills.xyz/swimming/racing-dive"
+        },
+        {
+          "sub_skill": "butterfly-undulation",
+          "name": "Butterfly undulation",
+          "description": "Press the chest and build the body dolphin for butterfly.",
+          "learning_order": 21,
+          "difficulty": 4.81,
+          "level": "advanced",
+          "url": "https://subskills.xyz/swimming/butterfly-undulation"
+        },
+        {
+          "sub_skill": "butterfly-timing",
+          "name": "Butterfly Timing",
+          "description": "Coordinate the dolphin kick with the arm pull and breath.",
+          "learning_order": 22,
+          "difficulty": 5,
+          "level": "advanced",
+          "url": "https://subskills.xyz/swimming/butterfly-timing"
+        }
+      ],
+      "url": "https://subskills.xyz/swimming"
+    },
+    {
+      "sport": "table-tennis",
+      "name": "Table tennis",
+      "sub_skills": [
+        {
+          "sub_skill": "shakehand-grip",
+          "name": "Shakehand grip",
+          "description": "Hold the bat the way most players do, with a neutral wrist and free fingers.",
+          "learning_order": 1,
+          "difficulty": 1,
+          "level": "beginner",
+          "url": "https://subskills.xyz/table-tennis/shakehand-grip"
+        },
+        {
+          "sub_skill": "penhold-grip",
+          "name": "Penhold grip",
+          "description": "Hold and play with the penhold grip, including reverse backhand.",
+          "learning_order": 2,
+          "difficulty": 1.17,
+          "level": "beginner",
+          "url": "https://subskills.xyz/table-tennis/penhold-grip"
+        },
+        {
+          "sub_skill": "ready-position",
+          "name": "Ready position",
+          "description": "Stand balanced and low so you can move to either wing.",
+          "learning_order": 3,
+          "difficulty": 1.35,
+          "level": "beginner",
+          "url": "https://subskills.xyz/table-tennis/ready-position"
+        },
+        {
+          "sub_skill": "table-tennis-footwork",
+          "name": "Table tennis footwork",
+          "description": "Move with side-to-side and in-and-out steps instead of reaching.",
+          "learning_order": 4,
+          "difficulty": 1.52,
+          "level": "beginner",
+          "url": "https://subskills.xyz/table-tennis/table-tennis-footwork"
+        },
+        {
+          "sub_skill": "forehand-drive",
+          "name": "Forehand drive",
+          "description": "Build the basic forehand drive with body rotation and a compact swing.",
+          "learning_order": 5,
+          "difficulty": 1.7,
+          "level": "beginner",
+          "url": "https://subskills.xyz/table-tennis/forehand-drive"
+        },
+        {
+          "sub_skill": "backhand-drive",
+          "name": "Backhand drive",
+          "description": "Play a controlled backhand drive from in front of the body.",
+          "learning_order": 6,
+          "difficulty": 1.87,
+          "level": "beginner",
+          "url": "https://subskills.xyz/table-tennis/backhand-drive"
+        },
+        {
+          "sub_skill": "forehand-push",
+          "name": "Forehand push",
+          "description": "Return short backspin balls with a controlled forehand push.",
+          "learning_order": 7,
+          "difficulty": 2.04,
+          "level": "beginner",
+          "url": "https://subskills.xyz/table-tennis/forehand-push"
+        },
+        {
+          "sub_skill": "backhand-push",
+          "name": "Backhand push",
+          "description": "Keep the ball low and short with a backhand push.",
+          "learning_order": 8,
+          "difficulty": 2.22,
+          "level": "beginner",
+          "url": "https://subskills.xyz/table-tennis/backhand-push"
+        },
+        {
+          "sub_skill": "block",
+          "name": "Block",
+          "description": "Absorb an opponent's topspin with a passive or active block.",
+          "learning_order": 9,
+          "difficulty": 2.39,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/table-tennis/block"
+        },
+        {
+          "sub_skill": "reading-spin",
+          "name": "Reading spin",
+          "description": "Judge spin from contact, bat angle and ball flight.",
+          "learning_order": 10,
+          "difficulty": 2.57,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/table-tennis/reading-spin"
+        },
+        {
+          "sub_skill": "serve-return",
+          "name": "Serve return",
+          "description": "Read the serve and choose push, flick or loop as the return.",
+          "learning_order": 11,
+          "difficulty": 2.74,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/table-tennis/serve-return"
+        },
+        {
+          "sub_skill": "backspin-serve",
+          "name": "Backspin serve",
+          "description": "Serve short and heavy so the ball stays low.",
+          "learning_order": 12,
+          "difficulty": 2.91,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/table-tennis/backspin-serve"
+        },
+        {
+          "sub_skill": "topspin-serve",
+          "name": "Topspin serve",
+          "description": "Serve fast topspin to force a weak return.",
+          "learning_order": 13,
+          "difficulty": 3.09,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/table-tennis/topspin-serve"
+        },
+        {
+          "sub_skill": "sidespin-serve",
+          "name": "Sidespin serve",
+          "description": "Add sidespin to pull the returner off the table.",
+          "learning_order": 14,
+          "difficulty": 3.26,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/table-tennis/sidespin-serve"
+        },
+        {
+          "sub_skill": "forehand-topspin",
+          "name": "Forehand topspin",
+          "description": "Brush up the back of the ball for heavy forehand topspin.",
+          "learning_order": 15,
+          "difficulty": 3.43,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/table-tennis/forehand-topspin"
+        },
+        {
+          "sub_skill": "backhand-topspin",
+          "name": "Backhand topspin",
+          "description": "Generate backhand topspin using forearm and wrist snap.",
+          "learning_order": 16,
+          "difficulty": 3.61,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/table-tennis/backhand-topspin"
+        },
+        {
+          "sub_skill": "looping-against-backspin",
+          "name": "Looping against backspin",
+          "description": "Open up on heavy backspin with a low-to-high loop.",
+          "learning_order": 17,
+          "difficulty": 3.78,
+          "level": "advanced",
+          "url": "https://subskills.xyz/table-tennis/looping-against-backspin"
+        },
+        {
+          "sub_skill": "forehand-flick",
+          "name": "Forehand flick",
+          "description": "Attack short balls over the table on the forehand side.",
+          "learning_order": 18,
+          "difficulty": 3.96,
+          "level": "advanced",
+          "url": "https://subskills.xyz/table-tennis/forehand-flick"
+        },
+        {
+          "sub_skill": "backhand-flick",
+          "name": "Backhand flick",
+          "description": "Attack short balls over the table with a backhand flick.",
+          "learning_order": 19,
+          "difficulty": 4.13,
+          "level": "advanced",
+          "url": "https://subskills.xyz/table-tennis/backhand-flick"
+        },
+        {
+          "sub_skill": "forehand-smash",
+          "name": "Forehand smash",
+          "description": "Finish high balls with a flat, powerful smash.",
+          "learning_order": 20,
+          "difficulty": 4.3,
+          "level": "advanced",
+          "url": "https://subskills.xyz/table-tennis/forehand-smash"
+        },
+        {
+          "sub_skill": "doubles-rules-and-rotation",
+          "name": "Doubles rules and rotation",
+          "description": "Serve, receive and rotate correctly in doubles.",
+          "learning_order": 21,
+          "difficulty": 4.48,
+          "level": "advanced",
+          "url": "https://subskills.xyz/table-tennis/doubles-rules-and-rotation"
+        },
+        {
+          "sub_skill": "choosing-a-blade-and-rubber",
+          "name": "Choosing a blade and rubber",
+          "description": "Match blade speed and rubber type to your style and level.",
+          "learning_order": 22,
+          "difficulty": 4.65,
+          "level": "advanced",
+          "url": "https://subskills.xyz/table-tennis/choosing-a-blade-and-rubber"
+        },
+        {
+          "sub_skill": "chopping",
+          "name": "Chopping",
+          "description": "Play defensive chops from away from the table with heavy backspin.",
+          "learning_order": 23,
+          "difficulty": 4.83,
+          "level": "advanced",
+          "url": "https://subskills.xyz/table-tennis/chopping"
+        },
+        {
+          "sub_skill": "lob",
+          "name": "Lob",
+          "description": "Defend high and deep from away from the table.",
+          "learning_order": 24,
+          "difficulty": 5,
+          "level": "advanced",
+          "url": "https://subskills.xyz/table-tennis/lob"
+        }
+      ],
+      "url": "https://subskills.xyz/table-tennis"
+    },
+    {
+      "sport": "tennis",
+      "name": "Tennis",
+      "sub_skills": [
+        {
+          "sub_skill": "choosing-a-tennis-racket",
+          "name": "How to choose a tennis racket",
+          "description": "Head size, weight, balance and string tension.",
+          "learning_order": 1,
+          "difficulty": 1,
+          "level": "beginner",
+          "url": "https://subskills.xyz/tennis/choosing-a-tennis-racket"
+        },
+        {
+          "sub_skill": "tennis-scoring",
+          "name": "Tennis scoring explained",
+          "description": "Games, sets, deuce and tie-breaks.",
+          "learning_order": 2,
+          "difficulty": 1.18,
+          "level": "beginner",
+          "url": "https://subskills.xyz/tennis/tennis-scoring"
+        },
+        {
+          "sub_skill": "grip-fundamentals",
+          "name": "Grip fundamentals",
+          "description": "Continental, eastern and semi-western grips and when to use each.",
+          "learning_order": 3,
+          "difficulty": 1.36,
+          "level": "beginner",
+          "url": "https://subskills.xyz/tennis/grip-fundamentals"
+        },
+        {
+          "sub_skill": "footwork-split-step",
+          "name": "Footwork & Split Step",
+          "description": "Use the split step and recovery footwork to reach balls efficiently.",
+          "learning_order": 4,
+          "difficulty": 1.55,
+          "level": "beginner",
+          "url": "https://subskills.xyz/tennis/footwork-split-step"
+        },
+        {
+          "sub_skill": "forehand",
+          "name": "Forehand Technique",
+          "description": "Develop a reliable topspin forehand with proper grip and swing path.",
+          "learning_order": 5,
+          "difficulty": 1.73,
+          "level": "beginner",
+          "url": "https://subskills.xyz/tennis/forehand"
+        },
+        {
+          "sub_skill": "two-handed-backhand",
+          "name": "Two-Handed Backhand",
+          "description": "Build a stable, powerful two-handed backhand.",
+          "learning_order": 6,
+          "difficulty": 1.91,
+          "level": "beginner",
+          "url": "https://subskills.xyz/tennis/two-handed-backhand"
+        },
+        {
+          "sub_skill": "serve-technique",
+          "name": "Serve Technique",
+          "description": "Build the service motion from toss to contact and follow-through.",
+          "learning_order": 7,
+          "difficulty": 2.09,
+          "level": "beginner",
+          "url": "https://subskills.xyz/tennis/serve-technique"
+        },
+        {
+          "sub_skill": "return-of-serve",
+          "name": "Return of Serve",
+          "description": "Prepare and time the service return with a split step.",
+          "learning_order": 8,
+          "difficulty": 2.27,
+          "level": "beginner",
+          "url": "https://subskills.xyz/tennis/return-of-serve"
+        },
+        {
+          "sub_skill": "volley",
+          "name": "Volley Technique",
+          "description": "Punch clean forehand and backhand volleys at the net.",
+          "learning_order": 9,
+          "difficulty": 2.45,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/tennis/volley"
+        },
+        {
+          "sub_skill": "topspin",
+          "name": "Generating Topspin",
+          "description": "Brush up the ball to create heavy topspin on groundstrokes.",
+          "learning_order": 10,
+          "difficulty": 2.64,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/tennis/topspin"
+        },
+        {
+          "sub_skill": "second-serve",
+          "name": "Second serve",
+          "description": "Build a reliable second serve with spin, depth and margin.",
+          "learning_order": 11,
+          "difficulty": 2.82,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/tennis/second-serve"
+        },
+        {
+          "sub_skill": "approach-shot",
+          "name": "Approach shot",
+          "description": "Move forward behind the right ball and take the net.",
+          "learning_order": 12,
+          "difficulty": 3,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/tennis/approach-shot"
+        },
+        {
+          "sub_skill": "tennis-elbow",
+          "name": "Tennis elbow",
+          "description": "Manage and rehab lateral elbow pain.",
+          "learning_order": 13,
+          "difficulty": 3.18,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/tennis/tennis-elbow"
+        },
+        {
+          "sub_skill": "lob",
+          "name": "Lob",
+          "description": "Hit offensive and defensive lobs over the net player.",
+          "learning_order": 14,
+          "difficulty": 3.36,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/tennis/lob"
+        },
+        {
+          "sub_skill": "overhead-smash",
+          "name": "Overhead Smash",
+          "description": "Track and put away high balls with the overhead.",
+          "learning_order": 15,
+          "difficulty": 3.55,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/tennis/overhead-smash"
+        },
+        {
+          "sub_skill": "slice-backhand",
+          "name": "Slice Backhand",
+          "description": "Hit a controlled backspin slice with proper technique.",
+          "learning_order": 16,
+          "difficulty": 3.73,
+          "level": "advanced",
+          "url": "https://subskills.xyz/tennis/slice-backhand"
+        },
+        {
+          "sub_skill": "doubles-strategy",
+          "name": "Doubles strategy",
+          "description": "Positioning, poaching and formations for doubles.",
+          "learning_order": 17,
+          "difficulty": 3.91,
+          "level": "advanced",
+          "url": "https://subskills.xyz/tennis/doubles-strategy"
+        },
+        {
+          "sub_skill": "singles-strategy",
+          "name": "Singles strategy",
+          "description": "Build points, pick patterns and play the percentages.",
+          "learning_order": 18,
+          "difficulty": 4.09,
+          "level": "advanced",
+          "url": "https://subskills.xyz/tennis/singles-strategy"
+        },
+        {
+          "sub_skill": "drop-shot",
+          "name": "Drop shot",
+          "description": "Disguise and float the drop shot to pull opponents forward.",
+          "learning_order": 19,
+          "difficulty": 4.27,
+          "level": "advanced",
+          "url": "https://subskills.xyz/tennis/drop-shot"
+        },
+        {
+          "sub_skill": "half-volley",
+          "name": "Half volley",
+          "description": "Handle the ball off the bounce in transition.",
+          "learning_order": 20,
+          "difficulty": 4.45,
+          "level": "advanced",
+          "url": "https://subskills.xyz/tennis/half-volley"
+        },
+        {
+          "sub_skill": "slice-serve",
+          "name": "Slice serve",
+          "description": "Curve the ball away with a slice serve to open the court.",
+          "learning_order": 21,
+          "difficulty": 4.64,
+          "level": "advanced",
+          "url": "https://subskills.xyz/tennis/slice-serve"
+        },
+        {
+          "sub_skill": "kick-serve",
+          "name": "Kick Serve",
+          "description": "Generate topspin on the second serve for safety and bounce.",
+          "learning_order": 22,
+          "difficulty": 4.82,
+          "level": "advanced",
+          "url": "https://subskills.xyz/tennis/kick-serve"
+        },
+        {
+          "sub_skill": "one-handed-backhand",
+          "name": "One-Handed Backhand",
+          "description": "Learn the technique and timing of the one-handed backhand.",
+          "learning_order": 23,
+          "difficulty": 5,
+          "level": "advanced",
+          "url": "https://subskills.xyz/tennis/one-handed-backhand"
+        }
+      ],
+      "url": "https://subskills.xyz/tennis"
+    },
+    {
+      "sport": "yoga",
+      "name": "Yoga",
+      "sub_skills": [
+        {
+          "sub_skill": "yoga-for-beginners",
+          "name": "Yoga for beginners",
+          "description": "Your first yoga class, step by step.",
+          "learning_order": 1,
+          "difficulty": 1,
+          "level": "beginner",
+          "url": "https://subskills.xyz/yoga/yoga-for-beginners"
+        },
+        {
+          "sub_skill": "pranayama-breathing",
+          "name": "Pranayama (Breath Control)",
+          "description": "Practice foundational breathing techniques such as ujjayi and box breathing.",
+          "learning_order": 2,
+          "difficulty": 1.19,
+          "level": "beginner",
+          "url": "https://subskills.xyz/yoga/pranayama-breathing"
+        },
+        {
+          "sub_skill": "restorative-yoga",
+          "name": "Restorative yoga",
+          "description": "Fully supported poses for rest and recovery.",
+          "learning_order": 3,
+          "difficulty": 1.38,
+          "level": "beginner",
+          "url": "https://subskills.xyz/yoga/restorative-yoga"
+        },
+        {
+          "sub_skill": "yoga-for-back-pain",
+          "name": "Yoga for back pain",
+          "description": "Safe sequences to ease and prevent back pain.",
+          "learning_order": 4,
+          "difficulty": 1.57,
+          "level": "beginner",
+          "url": "https://subskills.xyz/yoga/yoga-for-back-pain"
+        },
+        {
+          "sub_skill": "downward-dog",
+          "name": "Downward-Facing Dog Alignment",
+          "description": "Set up and align the foundational inversion to protect wrists and lengthen the spine.",
+          "learning_order": 5,
+          "difficulty": 1.76,
+          "level": "beginner",
+          "url": "https://subskills.xyz/yoga/downward-dog"
+        },
+        {
+          "sub_skill": "tree-pose-balance",
+          "name": "Tree Pose & Standing Balance",
+          "description": "Develop single-leg balance and focal-point technique in tree pose.",
+          "learning_order": 6,
+          "difficulty": 1.95,
+          "level": "beginner",
+          "url": "https://subskills.xyz/yoga/tree-pose-balance"
+        },
+        {
+          "sub_skill": "warrior-poses",
+          "name": "Warrior I, II & III",
+          "description": "Establish stance, hip alignment, and balance across the three warrior standing poses.",
+          "learning_order": 7,
+          "difficulty": 2.14,
+          "level": "beginner",
+          "url": "https://subskills.xyz/yoga/warrior-poses"
+        },
+        {
+          "sub_skill": "seated-forward-fold",
+          "name": "Seated Forward Fold",
+          "description": "Hinge from the hips safely to stretch hamstrings without rounding the spine.",
+          "learning_order": 8,
+          "difficulty": 2.33,
+          "level": "beginner",
+          "url": "https://subskills.xyz/yoga/seated-forward-fold"
+        },
+        {
+          "sub_skill": "seated-spinal-twist",
+          "name": "Seated spinal twist",
+          "description": "Rotate the spine safely from a seated position.",
+          "learning_order": 9,
+          "difficulty": 2.52,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/yoga/seated-spinal-twist"
+        },
+        {
+          "sub_skill": "chaturanga",
+          "name": "Chaturanga Dandasana",
+          "description": "Build the low-plank push-up with correct elbow and shoulder positioning.",
+          "learning_order": 10,
+          "difficulty": 2.71,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/yoga/chaturanga"
+        },
+        {
+          "sub_skill": "sun-salutation",
+          "name": "Sun Salutation (Surya Namaskar)",
+          "description": "Learn the linked flow sequence that warms the body and links breath to movement.",
+          "learning_order": 11,
+          "difficulty": 2.9,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/yoga/sun-salutation"
+        },
+        {
+          "sub_skill": "triangle-pose",
+          "name": "Triangle pose",
+          "description": "Align hips, ribs and reach in Trikonasana.",
+          "learning_order": 12,
+          "difficulty": 3.1,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/yoga/triangle-pose"
+        },
+        {
+          "sub_skill": "yin-yoga",
+          "name": "Yin yoga",
+          "description": "Long-held floor poses for deep connective-tissue release.",
+          "learning_order": 13,
+          "difficulty": 3.29,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/yoga/yin-yoga"
+        },
+        {
+          "sub_skill": "hip-openers",
+          "name": "Hip-Opening Poses",
+          "description": "Safely access pigeon, lizard, and related deep hip stretches.",
+          "learning_order": 14,
+          "difficulty": 3.48,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/yoga/hip-openers"
+        },
+        {
+          "sub_skill": "bridge-wheel-backbend",
+          "name": "Bridge & Wheel Backbends",
+          "description": "Open the chest and build backbend strength from bridge toward wheel.",
+          "learning_order": 15,
+          "difficulty": 3.67,
+          "level": "intermediate",
+          "url": "https://subskills.xyz/yoga/bridge-wheel-backbend"
+        },
+        {
+          "sub_skill": "camel-pose",
+          "name": "Camel pose",
+          "description": "Open the chest in Ustrasana without crunching the low back.",
+          "learning_order": 16,
+          "difficulty": 3.86,
+          "level": "advanced",
+          "url": "https://subskills.xyz/yoga/camel-pose"
+        },
+        {
+          "sub_skill": "shoulderstand",
+          "name": "Shoulderstand",
+          "description": "Build a supported shoulderstand and plough safely.",
+          "learning_order": 17,
+          "difficulty": 4.05,
+          "level": "advanced",
+          "url": "https://subskills.xyz/yoga/shoulderstand"
+        },
+        {
+          "sub_skill": "crow-pose",
+          "name": "Crow Pose (Bakasana)",
+          "description": "Learn the arm-balance entry, weight shift, and gaze for crow pose.",
+          "learning_order": 18,
+          "difficulty": 4.24,
+          "level": "advanced",
+          "url": "https://subskills.xyz/yoga/crow-pose"
+        },
+        {
+          "sub_skill": "splits",
+          "name": "How to do the splits",
+          "description": "Progress hamstring and hip flexor range toward a split.",
+          "learning_order": 19,
+          "difficulty": 4.43,
+          "level": "advanced",
+          "url": "https://subskills.xyz/yoga/splits"
+        },
+        {
+          "sub_skill": "headstand",
+          "name": "Headstand (Sirsasana)",
+          "description": "Build a safe, controlled headstand.",
+          "learning_order": 20,
+          "difficulty": 4.62,
+          "level": "advanced",
+          "url": "https://subskills.xyz/yoga/headstand"
+        },
+        {
+          "sub_skill": "forearm-stand",
+          "name": "Forearm stand (Pincha Mayurasana)",
+          "description": "Work toward a balanced forearm stand.",
+          "learning_order": 21,
+          "difficulty": 4.81,
+          "level": "advanced",
+          "url": "https://subskills.xyz/yoga/forearm-stand"
+        },
+        {
+          "sub_skill": "handstand",
+          "name": "Handstand",
+          "description": "Drills and progressions toward a handstand.",
+          "learning_order": 22,
+          "difficulty": 5,
+          "level": "advanced",
+          "url": "https://subskills.xyz/yoga/handstand"
+        }
+      ],
+      "url": "https://subskills.xyz/yoga"
+    }
+  ]
+}

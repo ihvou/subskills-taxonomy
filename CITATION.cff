@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please credit it as below."
+type: dataset
+title: "Subskills sports technique taxonomy"
+authors:
+  - family-names: Knyr
+    given-names: Sergii
+url: "https://subskills.xyz"
+repository: "https://github.com/ihvou/subskills-taxonomy"
+license: CC-BY-4.0
+version: "2026-09-27"
+date-released: "2026-09-27"
