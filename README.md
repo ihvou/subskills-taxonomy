@@ -28,6 +28,8 @@ configs:
 
 Snapshot: 2026-09-27.
 
+The same data is on [GitHub](https://github.com/ihvou/subskills-taxonomy), [Hugging Face](https://huggingface.co/datasets/subskills/sports-technique-taxonomy) and [Kaggle](https://www.kaggle.com/datasets/subskills/sports-technique-taxonomy).
+
 ## Files
 
 | File | Rows | Contents |
