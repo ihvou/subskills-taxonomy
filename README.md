@@ -26,7 +26,7 @@ configs:
 
 22 sports broken down into 554 sub-skills, the individual techniques people actually practice, like the backhand clear in badminton or the back-rank mate in chess. Each sub-skill has a short description and a place in a suggested learning order, plus counts of the tutorial videos reviewed for it on [Subskills](https://subskills.xyz).
 
-Snapshot: 2026-09-30.
+Snapshot: 2026-10-01.
 
 The same data is on [GitHub](https://github.com/ihvou/subskills-taxonomy), [Hugging Face](https://huggingface.co/datasets/subskills/sports-technique-taxonomy) and [Kaggle](https://www.kaggle.com/datasets/subskills/sports-technique-taxonomy).
 
@@ -71,7 +71,7 @@ The sub-skills were researched sport by sport and put into a teaching order, so 
 
 Every tutorial is reviewed before it's published: how squarely it covers the sub-skill, in that sport, and how well it teaches it. `videos_rejected` counts the tutorials that were reviewed and turned down, usually because they cover a different technique or a different sport, or teach little. A video can be reviewed for more than one sub-skill, so counts are per sub-skill, not per video.
 
-Across the snapshot: 39,456 tutorials reviewed, 21,556 published and 17,900 rejected (45%). Of the published ones, 45% are for beginners, 41% intermediate and 13% advanced.
+Across the snapshot: 39,906 tutorials reviewed, 21,681 published and 18,225 rejected (46%). Of the published ones, 45% are for beginners, 41% intermediate and 13% advanced.
 
 The dataset contains no videos, video titles or transcripts. Those belong to their creators.
 
