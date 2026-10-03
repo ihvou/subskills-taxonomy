@@ -7,6 +7,7 @@ authors:
     given-names: Sergii
 url: "https://subskills.xyz"
 repository: "https://github.com/ihvou/subskills-taxonomy"
+doi: "10.5281/zenodo.23125615"
 license: CC-BY-4.0
-version: "2026-10-01"
-date-released: "2026-10-01"
+version: "2026-10-03"
+date-released: "2026-10-03"
